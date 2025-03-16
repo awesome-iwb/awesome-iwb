@@ -1449,6 +1449,52 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 <br/>
 <br/>
 
+### Classworks
+
+
+![banner](https://github.com/ClassworksDev/Classworks/blob/main/images/banner.png?raw=true)
+
+[![stars](https://img.shields.io/github/stars/ClassworksDev/Classworks?style=flat&color=red)](https://github.com/ClassworksDev/Classworks/stargazers)
+[![forks](https://img.shields.io/github/forks/ClassworksDev/Classworks?style=flat&color=blue)](https://github.com/ClassworksDev/Classworks/forks)
+[![Watchers](https://img.shields.io/github/watchers/ClassworksDev/Classworks?style=flat&color=green)](https://github.com/ClassworksDev/Classworks/watchers)
+[![Downloads](https://img.shields.io/github/downloads/ClassworksDev/Classworks/total?style=flat&logo=github)](https://github.com/ClassworksDev/Classworks/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/ClassworksDev/Classworks?query=is%3Aopen&label=issues&color=purple)](https://github.com/EClassworksDev/Classworks/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/ClassworksDev/Classworks?style=flat)](https://github.com/ClassworksDev/Classworks/discussions)
+[![Created At](https://img.shields.io/github/created-at/ClassworksDev/Classworks)](https://github.com/ClassworksDev/Classworks)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/ClassworksDev/Classworks)](https://github.com/ClassworksDev/Classworks/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/ClassworksDev/Classworks)](https://github.com/ClassworksDev/Classworks)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/ClassworksDev/Classworks)](https://github.com/ClassworksDev/Classworks)
+![GitHub License](https://img.shields.io/github/license/ClassworksDev/Classworks?color=red)
+
+</div>
+
+**Classworks 作业板**，可以在班级内记录并排版清晰地展示作业、快捷记录出勤情况，支持本地/云端存储，快捷唤起 Islandcaller 等等功能，并不断更新中。
+
+
+🏷 **关键词**：<br/>
+![作业板](https://img.shields.io/badge/作业板-white)
+![出勤](https://img.shields.io/badge/出勤-white)
+![多平台支持](https://img.shields.io/badge/多平台支持-white)
+![Web](https://img.shields.io/badge/Web-white)
+![ClassIsland](https://img.shields.io/badge/ClassIsland-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/ClassworksDev/Classworks">ClassworksDev/Classworks</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/SunWuyuan.png" width="20" height="20"/> <a href="https://github.com/SunWuyuan">SunWuyuan</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
 ### CountBoard
 
 ![banner](https://pic.imgdb.cn/item/61a889432ab3f51d9190ca1b.pngg) 
