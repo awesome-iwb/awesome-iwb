@@ -1024,6 +1024,8 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 
 💬 **Dubi906w 锐评**：目前 ClassIsland 功能最全的插件，非它莫属。
 
+💬 **HM锐评**：这让我想到``Resharper``的slogan：“让 Visual Studio 成为更好 IDE 的扩展程序”如果Ci的功能满足不了你，不妨把它安上。
+
 <table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
