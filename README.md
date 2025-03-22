@@ -5,10 +5,11 @@
 <br/>
 
 <h1>
-<picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/fontlogo/aiwb-font-white.png">
-      <img alt="贡献指南" src="./images/fontlogo/aiwb-font-dark.png" height="28">
+    <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./images/fontlogo/aiwb-font-white.png">
+          <img alt="Awesome Iwb" src="./images/fontlogo/aiwb-font-dark.png" height="28">
     </picture>
+    <img alt="lazer" src="https://img.shields.io/badge/-lazer-red?style=flat-square&color=rgb(202%2C58%2C45%2C0.75)">
 </h1>
 
 全网收集最全的适用于教学一体机、教学触摸屏<br/>
@@ -62,6 +63,9 @@
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/71f72cdd85b0b13b41e368b54f1f94f3d378c9fa.svg "Repobeats analytics image")
 
 </div>
+
+> [!WARNING]
+> 您正在预览的是 Awesome Iwb 的 lazer 分支。若您不知道您在干什么，请您切换回 [master](https://github.com/awesome-iwb/awesome-iwb/tree/master) 分支查看有关内容。
 
 > [!WARNING]
 > 目前有对 Awesome Iwb 的重大内容更新正在处理中，您看到的内容可能不完整或会出现错误，请以 本次内容更新完成后的版本 为准。本次更新开始于 **2025年 3 月 15 日** ， **预计在 2 周内完工** 。
