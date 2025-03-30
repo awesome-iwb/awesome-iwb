@@ -1,0 +1,38 @@
+[
+    {
+        "type": "section",
+        "name": "白板与批注类",
+        "slug": "whiteboard",
+        "description": "屏幕批注类软件和白板类软件，一般带有 PPT 批注功能，适合班级一体机使用。"
+    },
+    {
+        "type": "section",
+        "name": "课程表类",
+        "slug": "lessonstable",
+        "description": "课程表类软件，主要用于在班级一体机上显示课程表等其他信息，一般内置课程安排，单双周等高级功能。"
+    },
+    {
+        "type": "section",
+        "name": "小组件与看板类",
+        "slug": "kanbans",
+        "description": "小组件类软件和看板类软件，用于在桌面显示作业，课程表，考试信息等（不包含主要功能是课程表显示的软件）。"
+    },
+    {
+        "type": "section",
+        "name": "点名与抽奖类",
+        "slug": "lottery",
+        "description": "点名类软件和抽奖类软件，主要提供随机抽人，抽号，人脸识别抽人等功能的软件，可能会含有 Web 项目。"
+    },
+    {
+        "type": "section",
+        "name": "辅助与工具类",
+        "slug": "tools",
+        "description": "辅助类软件和工具类软件，主要用于一体机 Windows 系统的体验优化或 Office、EasiNote5 等软件的辅助工具。"
+    },
+    {
+        "type": "section",
+        "name": "希沃一体机专属",
+        "slug": "seewocrack",
+        "description": "希沃一体机专属软件，主要都是破解希沃管家或一体机冰点还原的工具，不保证可用性。"
+    }
+]
