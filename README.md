@@ -84,8 +84,8 @@
 
 ## 📚 速览
 
-> **目前已经收录 50 个可用项目。**<br/>
-> **若包括正在处理中的项目，则有 58 个项目。**
+> **目前已经收录 49 个可用项目。**<br/>
+> **若包括正在处理中的项目，则有 57 个项目。**
 >
 > 活跃项目：40 个
 
@@ -108,7 +108,6 @@
 | 🌟 [ICC-CE](#icc-ce) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/InkCanvasForClass/community?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CJKmkp">CJKmkp</a> |
 | 🌟 [SketchNow](#sketchnow) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SketchNow/SketchNow.WPF?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/realybin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/realybin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/realybin">realybin</a> |
 | [ppInk](#ppink) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pubpub-zz/ppInk?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/pubpub-zz">pubpub-zz</a> |
-| [Inkways](#inkways-wip) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/iNKORE-NET">iNKORE-NET</a> |
 | [LemonxNote](#lemonxnote-柠檬白板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lh11117/LemonxNote?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lh11117">lh11117</a> |
 | 🔴 [Ink Canvas Better](#ink-canvas-better) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BaiYang2238/Ink-Canvas-Better?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">BaiYang2238</a> |
 
@@ -633,53 +632,6 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 <br/>
 
 <img src="images/inkways-icon.png" width="56" height="56"/> 
-
-### Inkways (WIP)
-
-![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d)
-![Design](https://img.shields.io/badge/iNKO%20Design%20System-9648E9)
-![Price](https://img.shields.io/badge/price-freemium-green)
-![Platforms](https://img.shields.io/badge/win%20%7C%20linux%20%7C%20android%20%7C%20ios%20%7C%20web-brightgreen?label=supports
-)<br/>
-[![Discord](https://img.shields.io/discord/1092738458805608561?style=social&label=Discord&logo=discord)](https://www.inkore.net/invito/discord)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](https://www.inkore.net/invito/telegram-zh)
-[![QQ](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=qq)](https://qm.qq.com/q/VMym9nrlim)
-
-</div>
-
-> [!note]
->
-> 团队目前正集中资源进行基础设施建设和其他项目的开发，同时部分成员正在进行技术深造。预计 2026 年中下旬将启动 Inkways 的全面开发工作。在此期间，您也可以看看推荐列表中其他优秀作品，或[加入我们的社区](https://www.inkore.net/community?topics=inkways&locales=zh-cn)第一时间获取最新动态。
->
-> 除官方网站及其社交媒体外，任何关于 Inkways 的 "小道消息" 均**不可信**；Inkways 不存在绿色版 / Windows XP 特别版等非官方版本；目前没有终身激活的买断计划，任何此类销售**均为诈骗**。请大家理性上网，**不信谣不传谣**！遇到可疑信息请通过[官方验证通道](https://www.inkore.net/imposters)辨认真伪。本公司任何产品都不允许在闲鱼(二次)销售！
-> 
-> *此讯息最后更新于 06/14/2025。*
-
-Inkways 是一款由 iNKORE Studios 开发的集成式墨迹解决方案，你可以将它用于记录笔记，文稿演示，批注演示文稿，视频展台等。Inkways 旨在将 Ink，Presentation，Flow 等核心概念融合在一起并无缝带入到生活和工作流程的各个角落。
-
-更多信息可以在 <https://docs.inkore.net/announcements/2024/03/12/inkways-vanilla-is-on-the-way/> 查看。
-
-💬 **Dubi906w 锐评**：期待我有生之年能看到 iNKORE Corp 开在新加坡，去当码农。
-
-<table align="center">
-<tr>
-    <td><img src="https://www.inkore.net/favicon.ico?size=18" width="18" height="18"></td>
-    <td><b>官网</b></td>
-    <td><a href="https://inkore.net/products/inkways">inkore.net/inkways</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td>
-      <a href="https://github.com/iNKORE-NET/">@iNKORE-NET</a>
-    </td>
-</tr>
-</table>
-
-<div align="center">
-
-<br/>
-<br/>
 
 ### LemonxNote 柠檬白板
 
