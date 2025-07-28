@@ -64,12 +64,9 @@
 </div>
 
 > [!WARNING]
-> 由于DotteringDoge471（Dubi906w）的个人事务原因，awesome-iwb/awesome-iwb 仓库现已暂时移交给 2,2,3-三甲基戊烷（2-2-3-trimethylpentane）运营维护、他将有权利负责本仓库 markdown 文件的更新与维护并处理社区需求。aiwb-web已经转入闭源开发。
+> Awesome Iwb v2 包括 GitHub 仓库版和网页版即将上线，敬请期待。
 >
 > 本项目最终解释权归 DotteringDoge471（Dubi906w）所有。
-
-> [!WARNING]
-> 本项目正在寻找新的长期维护者，有意者请联系：kriastans@protonmail.com（附上github username和参与意愿介绍）。
 
 ---
 
@@ -83,11 +80,6 @@
 
 
 ## 📚 速览
-
-> **目前已经收录 49 个可用项目。**<br/>
-> **若包括正在处理中的项目，则有 57 个项目。**
->
-> 活跃项目：40 个
 
 - 🥇 是指最推荐使用的、必装软件推荐，每个类别下至少有一个被标记的软件或项目。
 
