@@ -66,7 +66,7 @@
 > [!WARNING]
 > Awesome Iwb v2 包括 GitHub 仓库版和网页版即将上线，敬请期待。
 >
-> 本项目最终解释权归 DotteringDoge471（Dubi906w）所有。
+> 本项目最终解释权归 Douxiba 所有。
 
 ---
 
@@ -342,7 +342,7 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 ![荧光笔](https://img.shields.io/badge/荧光笔-white)
 ![PPT批注](https://img.shields.io/badge/PPT批注-white)
 
-💬 **Dubi906w 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024 年 9 月 21 日，希沃白板 5 和希沃系软件的 Popup 弹窗会出 Bug），图片插入还是测试版，不过依旧还是好用！
+💬 **Douxiba 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024 年 9 月 21 日，希沃白板 5 和希沃系软件的 Popup 弹窗会出 Bug），图片插入还是测试版，不过依旧还是好用！
 
 💬 **Makitoid 锐评**：ICA几乎解决了希沃白板的所有痛点，可以说是希沃白板的平替了。同样是用``C＃``开发的，为何差别这么大？但是，以下情况不建议使用ICA：①班里老师电脑水平普遍较差；②老师上课严重依赖``板中板``，ICA这方面优化不好。
 
@@ -401,7 +401,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 ![荧光笔](https://img.shields.io/badge/荧光笔-white)
 ![PPT批注](https://img.shields.io/badge/PPT批注-white)
 
-💬 **Dubi906w 锐评**：用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面 Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。最近出了内测版本，用 **Fluent Design System** 重构了设置页面，非常好看（有需要可以加入他们的 QQ 群了解更多，2024 年 12 月 4 日更新）
+💬 **Douxiba 锐评**：用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面 Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。最近出了内测版本，用 **Fluent Design System** 重构了设置页面，非常好看（有需要可以加入他们的 QQ 群了解更多，2024 年 12 月 4 日更新）
 
 ⬇️ **下载：** <br>
 <img alt="GitHub Release" src="https://img.shields.io/github/v/release/Alan-CRL/Inkeys?label=stable&color=green">
@@ -549,7 +549,7 @@ SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Ca
 ![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
 ![白板软件](https://img.shields.io/badge/白板软件-white)
 
-💬 **Dubi906w 锐评**：又一个新开的基于 InkCanvas 控件的项目，希望后面能够继续发展吧，争取能够干爆 Ink Canvas，虽然目前功能还不是很多，有一些 Bug 等待被修复，但前途是一片光明啊。
+💬 **Douxiba 锐评**：又一个新开的基于 InkCanvas 控件的项目，希望后面能够继续发展吧，争取能够干爆 Ink Canvas，虽然目前功能还不是很多，有一些 Bug 等待被修复，但前途是一片光明啊。
 
 <table align="center">
 <tr>
@@ -603,7 +603,7 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 ![直播](https://img.shields.io/badge/直播-white)
 ![OBS支持](https://img.shields.io/badge/OBS支持-white)
 
-💬 **Dubi906w 锐评**：这个项目应该算是目前来说，**Windows 平台下，开源桌面批注软件里面最强大的一个了** ，当然缺点也很多，比如 UI 非常丑，其次是墨迹过多会造成卡顿。而且他的 UI 并不适合触摸屏使用，所以我并不推荐在学校的一体机上面使用 ppInk，不过抛开国内教室的特色条件来说，ppInk 作为一个桌面绘图软件，已经完全可用，甚至算够好用了。
+💬 **Douxiba 锐评**：这个项目应该算是目前来说，**Windows 平台下，开源桌面批注软件里面最强大的一个了** ，当然缺点也很多，比如 UI 非常丑，其次是墨迹过多会造成卡顿。而且他的 UI 并不适合触摸屏使用，所以我并不推荐在学校的一体机上面使用 ppInk，不过抛开国内教室的特色条件来说，ppInk 作为一个桌面绘图软件，已经完全可用，甚至算够好用了。
 
 <table align="center">
 <tr>
@@ -753,7 +753,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 ![提醒特效](https://img.shields.io/badge/提醒特效-white)
 ![自动化](https://img.shields.io/badge/自动化-white)
 
-💬 **Dubi906w 锐评**：~~**非常好用，由你好微软草开发的课是地，使我开学必装**~~，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！
+💬 **Douxiba 锐评**：~~**非常好用，由你好微软草开发的课是地，使我开学必装**~~，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！
 
 💬 **Makitoid 锐评**：classisland 目前来看没有课表软件比Ci好用，但是整个软件配置比较复杂，不建议在班里电脑上盲开。建议先在家里设置好，研究明白再安到电脑上。如果你电脑水平较弱，那建议你~~别当电教~~移步其它软件
 
@@ -814,7 +814,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 ![快速黑板](https://img.shields.io/badge/快速黑板-white)
 ![启动台](https://img.shields.io/badge/启动台-white)
 
-💬 **Dubi906w 锐评**：还行，如果有小黑板需求可以使用，自带的课程表功能个人感觉有点鸡肋，不过也还算好用的，官网也是完全学到了微软式中文。比较推荐（如果不用 CI 的话）
+💬 **Douxiba 锐评**：还行，如果有小黑板需求可以使用，自带的课程表功能个人感觉有点鸡肋，不过也还算好用的，官网也是完全学到了微软式中文。比较推荐（如果不用 CI 的话）
 
 <table align="center">
 <tr>
@@ -863,7 +863,7 @@ StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示�
 ![桌面小工具](https://img.shields.io/badge/桌面小工具-white)
 ![富文本支持](https://img.shields.io/badge/富文本支持-white)
 
-💬 **Dubi906w 锐评**：之前在教室下过一次，不过当时用的时候不知道什么原因，很卡顿，现在不知道怎么样了，不过作为微软草的作业贴的后继者，还是希望这个项目能够持续发展下去吧。目前看来，如果你有 **文本格式的作业展示需求** 的话，最推荐这个，如果你需要展示手写版作业的话，还是用 **[粽子黑板贴](#zongzitek-黑板贴)** 吧！
+💬 **Douxiba 锐评**：之前在教室下过一次，不过当时用的时候不知道什么原因，很卡顿，现在不知道怎么样了，不过作为微软草的作业贴的后继者，还是希望这个项目能够持续发展下去吧。目前看来，如果你有 **文本格式的作业展示需求** 的话，最推荐这个，如果你需要展示手写版作业的话，还是用 **[粽子黑板贴](#zongzitek-黑板贴)** 吧！
 
 <table align="center">
 <tr>
@@ -917,7 +917,7 @@ DSZ 考试看板。**一款显示当前时间与考试详细信息的看板类�
 ![多平台支持](https://img.shields.io/badge/多平台支持-white)
 ![移动端支持](https://img.shields.io/badge/移动端支持-white)
 
-💬 **Dubi906w 锐评**：应该是唯一一个全平台都支持的软件？支持安卓、iOS、Windows、macOS 和 Linux 设备（不过说实话，到底是谁会在 iOS 设备上面用考试看板啊！）至于好不好用，我只能说我用过，还行，但是我们学校没有 **考试看板** 的使用需求。
+💬 **Douxiba 锐评**：应该是唯一一个全平台都支持的软件？支持安卓、iOS、Windows、macOS 和 Linux 设备（不过说实话，到底是谁会在 iOS 设备上面用考试看板啊！）至于好不好用，我只能说我用过，还行，但是我们学校没有 **考试看板** 的使用需求。
 
 <table align="center">
 <tr>
@@ -978,7 +978,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 ![每日古诗](https://img.shields.io/badge/每日古诗-white)
 ![一言插件](https://img.shields.io/badge/一言插件-white)
 
-💬 **Dubi906w 锐评**：目前 ClassIsland 功能最全的插件，非它莫属。
+💬 **Douxiba 锐评**：目前 ClassIsland 功能最全的插件，非它莫属。
 💬 **Makitoid 锐评**:如果你觉得Classisland功能不能满足你的需求，不妨把它安上。
 
 <table align="center">
@@ -1045,7 +1045,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 ![上下课提醒](https://img.shields.io/badge/上下课提醒-white)
 ![单双周支持](https://img.shields.io/badge/单双周支持-white)
 
-💬 **Dubi906w 锐评**：**~~非常好 RinLit 小南梁，让我爱上 课堂组件。~~** 看到 UI 上有能和 CI 抗衡的也是比较欣慰了，不过目前来说还需要更多优化，部分功能还不是太完善，还有作为一个 Qt 写的软件，总感觉用起来有点小别扭（应该是 Qt 的特性）。不过开发与更新速度也挺快，比较期待，~~但是目前来说我肯定是不会正式在教学环境使用的~~ **（真心动了，等软件显示缩放功能出来了马上换，不换早晚被撅 😋）**。
+💬 **Douxiba 锐评**：**~~非常好 RinLit 小南梁，让我爱上 课堂组件。~~** 看到 UI 上有能和 CI 抗衡的也是比较欣慰了，不过目前来说还需要更多优化，部分功能还不是太完善，还有作为一个 Qt 写的软件，总感觉用起来有点小别扭（应该是 Qt 的特性）。不过开发与更新速度也挺快，比较期待，~~但是目前来说我肯定是不会正式在教学环境使用的~~ **（真心动了，等软件显示缩放功能出来了马上换，不换早晚被撅 😋）**。
 
 <table align="center">
 <tr>
@@ -1212,7 +1212,7 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 ![作业发布](https://img.shields.io/badge/作业发布-white)
 ![动态壁纸](https://img.shields.io/badge/动态壁纸-white)
 
-💬 **Dubi906w 锐评**：很小众的项目，和 `clansty/ClassTools` 有点类似。
+💬 **Douxiba 锐评**：很小众的项目，和 `clansty/ClassTools` 有点类似。
 
 <table align="center">
 <tr>
@@ -1876,7 +1876,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 
 定制启动器，旨在让大多数软件的启动方式更加绚丽多彩。为 **希沃白板** 系列量身定做，其他程序也可以使用！🥳
 
-💬 **Dubi906w 锐评**：如标题所述，如果只是想让希沃白板的 Splash Screen 变得高端大气上档次一些的话，我觉得还是不错的，部分小问题无伤大雅。
+💬 **Douxiba 锐评**：如标题所述，如果只是想让希沃白板的 Splash Screen 变得高端大气上档次一些的话，我觉得还是不错的，部分小问题无伤大雅。
 💬 **Makitoid 锐评**：整活神奇，刚开始用时~~被老师骂了~~老师都震惊了。不过高负载情况下可能有卡顿。
 
 <table align="center">
@@ -2402,7 +2402,7 @@ Rand 是一款简洁、现代化、易用的抽号软件，专为触摸屏设备
 
 最好的是他支持 Windows 7（虽然是 .NET 9 开发的，听说有内存泄漏问题，等我过几天实测一下即可），32位和64位都支持。
 
-💬 **Dubi906w 锐评**：这是唯一一个我想试试看的 **随机点名软件** ，看起来完成度还是挺高的，过几天去学校电脑上看看用着如何。好用的话再在这里更新一下锐评。
+💬 **Douxiba 锐评**：这是唯一一个我想试试看的 **随机点名软件** ，看起来完成度还是挺高的，过几天去学校电脑上看看用着如何。好用的话再在这里更新一下锐评。
 
 <table align="center">
 <tr>
@@ -2446,7 +2446,7 @@ Rand 是一款简洁、现代化、易用的抽号软件，专为触摸屏设备
 
 NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基本的点名功能，还提供了人性化的配置修改界面，支持从外部读取名单，支持特殊的点名规则。
 
-💬 **Dubi906w 锐评**：看起来可以试试，有图有真相，过几天把图加上给大家看看。
+💬 **Douxiba 锐评**：看起来可以试试，有图有真相，过几天把图加上给大家看看。
 
 💬 **2,2,3-三甲基戊烷 锐评**：整体来说不错，此外这款软件采用了由RinLit开发的RinUI，太豪堪了，RinLit yyds！！！
 
@@ -2494,7 +2494,7 @@ NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基�
 
 **IslandCaller 是一个基于 ClassIsland 提醒服务的轻量级点名器** ，用于在课堂上快速点名。输入班级名单后，可以通过桌面快捷方式快速点名。依赖 ClassIsland 的提醒服务，通过注册 URL 协议来创建桌面快捷方式或浏览器书签实现快速点名。
 
-💬 **Dubi906w 锐评**：有幸体验过该项目，但是目前来说真的很 **“轻量”** ，就只支持创建快捷方式到桌面。编辑名单的体验并不是很好。只能说，作为一个 ClassIsland 插件来说，依托于 ClassIsland 的提醒服务，安装方便，易于使用的确是优点，但是部分基本功能的缺乏，以及自定义性还有待加强，而且 ClassIsland 的提醒众所周知，文字都比较小，刚好抽选到的学生名字又是显示为提醒内容，导致可读性不高，看着不明显。希望后续能有所改进。
+💬 **Douxiba 锐评**：有幸体验过该项目，但是目前来说真的很 **“轻量”** ，就只支持创建快捷方式到桌面。编辑名单的体验并不是很好。只能说，作为一个 ClassIsland 插件来说，依托于 ClassIsland 的提醒服务，安装方便，易于使用的确是优点，但是部分基本功能的缺乏，以及自定义性还有待加强，而且 ClassIsland 的提醒众所周知，文字都比较小，刚好抽选到的学生名字又是显示为提醒内容，导致可读性不高，看着不明显。希望后续能有所改进。
 
 <table align="center">
 <tr>
@@ -2670,7 +2670,7 @@ RandPicker 是一款简单易用的随机抽取工具，支持多种抽取方式
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dubi906w"><img src="https://avatars.githubusercontent.com/u/185512682?v=4?s=100" width="100px;" alt="Dubi906w"/><br /><sub><b>Dubi906w</b></sub></a><br /><a href="#content-dubi906w" title="Content">🖋</a> <a href="#data-dubi906w" title="Data">🔣</a> <a href="#doc-dubi906w" title="Documentation">📖</a> <a href="#ideas-dubi906w" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-dubi906w" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Douxiba"><img src="https://avatars.githubusercontent.com/u/185512682?v=4?s=100" width="100px;" alt="Douxiba"/><br /><sub><b>Dubi906w</b></sub></a><br /><a href="#content-dubi906w" title="Content">🖋</a> <a href="#data-dubi906w" title="Data">🔣</a> <a href="#doc-dubi906w" title="Documentation">📖</a> <a href="#ideas-dubi906w" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-dubi906w" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://lipoly.ink"><img src="https://avatars.githubusercontent.com/u/110595296?v=4?s=100" width="100px;" alt="LiPolymer"/><br /><sub><b>LiPolymer</b></sub></a><br /><a href="#content-LiPolymer" title="Content">🖋</a> <a href="#data-LiPolymer" title="Data">🔣</a> <a href="#doc-LiPolymer" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/unDefFtr"><img src="https://avatars.githubusercontent.com/u/83688818?v=4?s=100" width="100px;" alt="谭麒峰"/><br /><sub><b>谭麒峰</b></sub></a><br /><a href="#content-unDefFtr" title="Content">🖋</a> <a href="#data-unDefFtr" title="Data">🔣</a> <a href="#doc-unDefFtr" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aris-Offline"><img src="https://avatars.githubusercontent.com/u/65645068?v=4?s=100" width="100px;" alt="Aris"/><br /><sub><b>Aris</b></sub></a><br /><a href="#content-Aris-Offline" title="Content">🖋</a> <a href="#data-Aris-Offline" title="Data">🔣</a> <a href="#doc-Aris-Offline" title="Documentation">📖</a> <a href="#maintenance-Aris-Offline" title="Maintenance">🚧</a></td>
@@ -2720,22 +2720,11 @@ RandPicker 是一款简单易用的随机抽取工具，支持多种抽取方式
 
 - **[希沃折腾手册](https://kdocs.cn/l/coHT3CUcoQDV)** - 希沃一体机折腾手册，整理了许多一体机折腾的教程。
 
-- **[智教联盟论坛](https://forum.smart-teach.cn/)** - 专属于电教委的论坛，轻松玩转班级一体机。
 
 ## 👋 同类项目推荐
 
 [![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
 
-
-## 🫓 大饼们
-
-1. 上传蓝奏云、Telegram 和 MediaFire 的网盘 Releases 备份。
-2. 在 gitlab，gitcode 上创建镜像仓库。
-3. 补全各个项目的官方网站，QQ 群，宣传视频链接（抄袭一下隔壁acs的链接聚合😂）。
-4. 为部分项目单独创建页面，来存放有关该项目周边的项目如插件一类。
-5. 为部分开发者单独创建页面，存放其相关联的其他项目和存储库。
-6. 添加新项目。
-
 ## Copyright
 
-© Copyright 2024-2025 DotteringDoge471(Dubi906w) & Aris & 2,2,3-三甲基戊烷（2-2-3-trimethylpentane）
+© Copyright 2025 Douxiba & Aris & 2,2,3-三甲基戊烷（2-2-3-trimethylpentane）
