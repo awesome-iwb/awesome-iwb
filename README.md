@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="96" src="./images/aiwb-300w.png">
-
-<br/>
+<img width="156" src="./images/douxiba-awesome-iwb.png">
 
 <h1>
 <picture>
