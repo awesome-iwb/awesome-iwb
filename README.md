@@ -504,7 +504,28 @@ ICC-CE 项目近期创建，开发者正在积极开发和优化中。虽然功�
     <td><b>开发者</b></td>
     <td><img src="https://github.com/CJKmkp.png" width="20" height="20"/> <a href="https://github.com/CJKmkp/">CJKmkp</a></td>
 </tr>
+<tr>
+    <td><img src="https://github.com/InkCanvasForClass/community/raw/main/icc.png" width="18" height="18"></td>
+    <td><b>官网（Inkeys服务器，推荐使用）</b></td>
+    <td><a href="https://icc-ce.inkeys.top ">https://icc-ce.inkeys.top </a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>官网（GitHub静态网页）</b></td>
+    <td><a href="https://inkcanvasforclass.github.io/ ">https://inkcanvasforclass.github.io/ </a></td>
+</tr>
+<tr>
+    <td><img src="images/cloudflare.svg" width="18" height="18"></td>
+    <td><b>官网（CloudFlare）</b></td>
+    <td><a href="https://www.iccce.dpdns.org/ ">https://www.iccce.dpdns.org/ </a></td>
+</tr>
+<tr>
+    <td><img src="https://github.com/InkCanvasForClass/community/raw/main/icc.png" width="18" height="18"></td>
+    <td><b>文档站</b></td>
+    <td><a href="https://inkcanvasforclass.github.io/website/ ">https://inkcanvasforclass.github.io/website/ </a></td>
+</tr>
 </table>
+
 
 <div align="center">
 <br/>
