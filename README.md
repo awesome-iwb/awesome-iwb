@@ -62,7 +62,7 @@
 </div>
 
 > [!WARNING]
-> 由于Douxiba无法访问GitHub，也无法注册任何海外平台账号，因此icf和icn停止开发。aiwb-cli停止开发。awesome-iwb组织正式移交给2,2,3-三甲基戊烷（2-2-3-trimethylpentane）。移交后将由2,2,3-三甲基戊烷（2-2-3-trimethylpentane）负责管理/运营该项目。感谢理解。
+> 由于Douxiba无法访问GitHub，也无法注册任何海外平台账号，因此icf和icn停止开发。aiwb-cli停止开发。awesome-iwb组织正式移交给2,2,3-三甲基戊烷（2-2-3-trimethylpentane）。移交后将由2,2,3-三甲基戊烷（2-2-3-trimethylpentane）负责管理/运营该项目，最终解释权将归2,2,3-三甲基戊烷（2-2-3-trimethylpentane）所有。感谢理解。
 
 ---
 
