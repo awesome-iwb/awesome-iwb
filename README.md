@@ -61,6 +61,9 @@
 
 </div>
 
+> [!note]
+> 诚邀各位开发者与非开发者加入Awesome Iwb的交流群。如果你的项目在Awesome Iwb上面上榜了，请加入开发者交流群：1004548404。新版Awesome Iwb需要各位开发者完善自己项目的介绍。如果是非开发者，可以加入社区交流群：767088453
+
 > [!WARNING]
 > 由于Douxiba无法访问GitHub，也无法注册任何海外平台账号，因此icf和icn停止开发。aiwb-cli停止开发。awesome-iwb组织正式移交给2,2,3-三甲基戊烷（2-2-3-trimethylpentane）。移交后将由2,2,3-三甲基戊烷（2-2-3-trimethylpentane）负责管理/运营该项目，最终解释权将归2,2,3-三甲基戊烷（2-2-3-trimethylpentane）所有。感谢理解。
 
