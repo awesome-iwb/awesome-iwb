@@ -98,6 +98,7 @@
 | [ppInk](#ppink) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pubpub-zz/ppInk?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/pubpub-zz">pubpub-zz</a> |
 | [LemonxNote](#lemonxnote-柠檬白板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lh11117/LemonxNote?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lh11117">lh11117</a> |
 | 🔴 [Ink Canvas Better](#ink-canvas-better) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BaiYang2238/Ink-Canvas-Better?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">BaiYang2238</a> |
+| 🔴 [ShowWrite视频展台](#showwrite视频展台) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwcrdrvf6u/ShowWrite?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">wwcrdrvf6u</a> |
 
 
 ### 📊 课表与看板类软件
@@ -728,6 +729,57 @@ Ink Canvas Better 是一款基于 InkCanvas/Ink-Canvas-Artistry 开发的 Window
 </tr>
 </table>
 
+<div align="center">
+<br/>
+<br/>
+<img src="https://github.com/wwcrdrvf6u/ShowWrite/raw/main/logo-SW.png" width="56" height="56"/>    
+
+### ShowWrite视频展台
+
+[![stars](https://img.shields.io/github/stars/wwcrdrvf6u/ShowWrite?style=flat&color=red)](https://github.com/wwcrdrvf6u/ShowWrite/stargazers)
+[![forks](https://img.shields.io/github/forks/wwcrdrvf6u/ShowWrite?style=flat&color=blue)](https://github.com/wwcrdrvf6u/ShowWrite/forks)
+[![Watchers](https://img.shields.io/github/watchers/wwcrdrvf6u/ShowWrite?style=flat&color=green)](https://github.com/wwcrdrvf6u/ShowWrite/watchers)
+[![Downloads](https://img.shields.io/github/downloads/wwcrdrvf6u/ShowWrite/total?style=flat&logo=github)](https://github.com/wwcrdrvf6u/ShowWrite/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/wwcrdrvf6u/ShowWrite?query=is%3Aopen&label=issues&color=purple)](https://github.com/wwcrdrvf6u/ShowWrite/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/wwcrdrvf6u/ShowWrite?style=flat)](https://github.com/wwcrdrvf6u/ShowWrite/discussions)
+[![Created At](https://img.shields.io/github/created-at/wwcrdrvf6u/ShowWrite)](https://github.com/wwcrdrvf6u/ShowWrite)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/wwcrdrvf6u/ShowWrite)](https://github.com/wwcrdrvf6u/ShowWrite/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/wwcrdrvf6u/ShowWrite)](https://github.com/wwcrdrvf6u/ShowWrite)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/wwcrdrvf6u/ShowWrite?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64)](https://github.com/wwcrdrvf6u/ShowWrite)
+![GitHub License](https://img.shields.io/github/license/wwcrdrvf6u/ShowWrite?color=red)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201051061830-white?style=flat&logo=qq)](https://qm.qq.com/q/nNpEuIVfwe)
+
+</div>
+
+
+
+ShowWrite 是一款为视频展台、直播教学等场景设计的软件，支持视频展台功能（如文档展台、实物展台等）、屏幕批注、画面录制等功能，能够实现希沃展台与希沃系统的无缝对接，提升教学互动体验。
+
+
+🏷 **关键词**：<br/>
+![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
+![视频展台](https://img.shields.io/badge/视频展台-white)
+![希沃展台](https://img.shields.io/badge/希沃展台-white)
+![直播教学](https://img.shields.io/badge/直播教学-white)
+![教学软件](https://img.shields.io/badge/教学软件-white)
+![实物展台](https://img.shields.io/badge/实物展台-white)
+![画面录制](https://img.shields.io/badge/画面录制-white)
+![文档展台](https://img.shields.io/badge/文档展台-white)
+
+💬 **2,2,3-三甲基戊烷 锐评**：之前试过py版的，效果不是很理想，最近这款软件正在用C#重构，感兴趣的可以去他们QQ群插个眼。我也有点打算在班上电脑实装试一下，到时候看一下C#版的效果怎么样。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/wwcrdrvf6u/ShowWrite/">wwcrdrvf6u/ShowWrite</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture> <a href="https://github.com/wwcrdrvf6u/">wwcrdrvf6u</a></td>
+</tr>
+</table>
 
 ## 📊 课表与看板类软件
 
