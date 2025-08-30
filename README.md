@@ -1573,20 +1573,20 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 
 ### Classworks
 
-![banner](https://github.com/ClassworksDev/Classworks/blob/main/images/banner.png?raw=true)
+![banner](https://github.com/ZeroCatDev/Classworks/blob/main/images/banner.png?raw=true)
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-[![stars](https://img.shields.io/github/stars/ClassworksDev/Classworks?style=flat&color=red)](https://github.com/ClassworksDev/Classworks/stargazers)
-[![forks](https://img.shields.io/github/forks/ClassworksDev/Classworks?style=flat&color=blue)](https://github.com/ClassworksDev/Classworks/forks)
-[![Watchers](https://img.shields.io/github/watchers/ClassworksDev/Classworks?style=flat&color=green)](https://github.com/ClassworksDev/Classworks/watchers)
-[![Downloads](https://img.shields.io/github/downloads/ClassworksDev/Classworks/total?style=flat&logo=github)](https://github.com/ClassworksDev/Classworks/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/ClassworksDev/Classworks?query=is%3Aopen&label=issues&color=purple)](https://github.com/ClassworksDev/Classworks/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/ClassworksDev/Classworks?style=flat)](https://github.com/ClassworksDev/Classworks/discussions)
-[![Created At](https://img.shields.io/github/created-at/ClassworksDev/Classworks)](https://github.com/ClassworksDev/Classworks)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/ClassworksDev/Classworks)](https://github.com/ClassworksDev/Classworks/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/ClassworksDev/Classworks)](https://github.com/ClassworksDev/Classworks)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/ClassworksDev/Classworks)](https://github.com/ClassworksDev/Classworks)
-![GitHub License](https://img.shields.io/github/license/ClassworksDev/Classworks?color=red)
+[![stars](https://img.shields.io/github/stars/ZeroCatDev/Classworks?style=flat&color=red)](https://github.com/ZeroCatDev/Classworks/stargazers)
+[![forks](https://img.shields.io/github/forks/ZeroCatDev/Classworks?style=flat&color=blue)](https://github.com/ZeroCatDev/Classworks/forks)
+[![Watchers](https://img.shields.io/github/watchers/ZeroCatDev/Classworks?style=flat&color=green)](https://github.com/ZeroCatDev/Classworks/watchers)
+[![Downloads](https://img.shields.io/github/downloads/ZeroCatDev/Classworks/total?style=flat&logo=github)](https://github.com/ZeroCatDev/Classworks/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/ZeroCatDev/Classworks?query=is%3Aopen&label=issues&color=purple)](https://github.com/ZeroCatDev/Classworks/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/ZeroCatDev/Classworks?style=flat)](https://github.com/ZeroCatDev/Classworks/discussions)
+[![Created At](https://img.shields.io/github/created-at/ZeroCatDev/Classworks)](https://github.com/ZeroCatDev/Classworks)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/ZeroCatDev/Classworks)](https://github.com/ZeroCatDev/Classworks/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/ZeroCatDev/Classworks)](https://github.com/ZeroCatDev/Classworks)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/ZeroCatDev/Classworks)](https://github.com/ZeroCatDev/Classworks)
+![GitHub License](https://img.shields.io/github/license/ZeroCatDev/Classworks?color=red)
 
 </div>
 
@@ -1605,7 +1605,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/ClassworksDev/Classworks/">ClassworksDev/Classworks</a></td>
+    <td><a href="https://github.com/ZeroCatDev/Classworks/">ZeroCatDev/Classworks</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
