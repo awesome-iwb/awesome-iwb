@@ -4,9 +4,9 @@
 
 <h1>
 <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/fontlogo/aiwb-font-white.png">
-      <img alt="aiwb-logo" src="./images/fontlogo/aiwb-font-dark.png" height="28">
-    </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/fontlogo/aiwb-font-white.png">
+    <img alt="aiwb-logo" src="./images/fontlogo/aiwb-font-dark.png" height="28">
+</picture>
 </h1>
 
 「Awesome Iwb」是专为广大中小学电教打造的班级希沃/鸿合等一体机/数字白板/班班通一站式软件推荐清单和实用知识手册，助你在新学期快速上手班级一体机新玩法，让日常教学更加便利与智慧！
@@ -816,18 +816,22 @@ ShowWrite 是一款为视频展台、直播教学等场景设计的软件，支�
 <br/>
 <br/>
 
-|  | $\Huge{\textsf{ClassIsland}}$ |
-| --- | --- |
-| <img src="images/software_icons/classisland-icon" width="52" height=52"> | test |
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/software_icons/classisland-icon-dark.png">
+    <img alt="aiwb-logo" src="./images/software_icons/classisland-icon.png" height="64">
+</picture>
+
+$\Huge{\textbf{ClassIsland}}$ <br/> $\color{gray}{\textsf{可能是目前最好用的桌面灵动岛课表软件}}$
+
+![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
+[![stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland?style=flat&color=gray&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjZWVlIj48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8%2BPHBhdGggZD0ibTguMjQzIDcuMzQtNi4zOC45MjUtLjExMy4wMjNhMSAxIDAgMCAwLS40NCAxLjY4NGw0LjYyMiA0LjQ5OS0xLjA5IDYuMzU1LS4wMTMuMTFhMSAxIDAgMCAwIDEuNDY0Ljk0NGw1LjcwNi0zIDUuNjkzIDMgLjEuMDQ2YTEgMSAwIDAgMCAxLjM1Mi0xLjFsLTEuMDkxLTYuMzU1IDQuNjI0LTQuNS4wNzgtLjA4NWExIDEgMCAwIDAtLjYzMy0xLjYybC02LjM4LS45MjYtMi44NTItNS43OGExIDEgMCAwIDAtMS43OTQgMHoiLz48L3N2Zz4%3D)](https://github.com/ClassIsland/ClassIsland/stargazers)
+[![forks](https://img.shields.io/github/forks/ClassIsland/ClassIsland?style=flat&color=gray&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNlZWUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBzdHJva2U9Im5vbmUiLz48cGF0aCBkPSJNMTAgMThhMiAyIDAgMSAwIDQgMCAyIDIgMCAxIDAtNCAwTTUgNmEyIDIgMCAxIDAgNCAwIDIgMiAwIDEgMC00IDBtMTAgMGEyIDIgMCAxIDAgNCAwIDIgMiAwIDEgMC00IDAiLz48cGF0aCBkPSJNNyA4djJhMiAyIDAgMCAwIDIgMmg2YTIgMiAwIDAgMCAyLTJWOG0tNSA0djQiLz48L3N2Zz4%3D)](https://github.com/ClassIsland/ClassIsland/forks)
+[![downloads](https://img.shields.io/github/downloads/ClassIsland/ClassIsland/total?style=flat&color=gray&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNlZWUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBzdHJva2U9Im5vbmUiLz48cGF0aCBkPSJNMTkgMThhMy41IDMuNSAwIDAgMCAwLTdoLTFBNSA0LjUgMCAwIDAgNyA5YTQuNiA0LjQgMCAwIDAtMi4xIDguNE0xMiAxM3Y5bS0zLTMgMyAzIDMtMyIvPjwvc3ZnPg%3D%3D)](https://github.com/ClassIsland/ClassIsland/releases)<br/>
 
 ![banner](https://github.com/user-attachments/assets/a815dd7d-8343-4da5-aee4-3f754aa297e4)
 
-![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 ![MDS](https://img.shields.io/badge/MD2%20UI-003E92)
-[![stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland?style=flat&color=red)](https://github.com/ClassIsland/ClassIsland/stargazers)
-[![forks](https://img.shields.io/github/forks/ClassIsland/ClassIsland?style=flat&color=blue)](https://github.com/ClassIsland/ClassIsland/forks)
 [![Watchers](https://img.shields.io/github/watchers/ClassIsland/ClassIsland?style=flat&color=green)](https://github.com/ClassIsland/ClassIsland/watchers)
-[![Downloads](https://img.shields.io/github/downloads/ClassIsland/ClassIsland/total?style=flat&logo=github)](https://github.com/ClassIsland/ClassIsland/releases)<br/>
 [![GitHub Issues](https://img.shields.io/github/issues-search/ClassIsland/ClassIsland?query=is%3Aopen&label=issues&color=purple)](https://github.com/ClassIsland/ClassIsland/issues)
 [![GitHub Discussions](https://img.shields.io/github/discussions/ClassIsland/ClassIsland?style=flat)](https://github.com/ClassIsland/ClassIsland/discussions)
 [![Created At](https://img.shields.io/github/created-at/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland)
