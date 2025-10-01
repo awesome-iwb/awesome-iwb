@@ -143,7 +143,7 @@
 | [极序](#极序) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | 极序 |
 | [TimerIn](#timerin) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/SRInternet-Studio.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/SRInternet-Studio.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/SRInternet-Studio">SRInternet-Studio</a> |
 | [ExamSchedule](#examschedule) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ExamAware/ExamSchedule?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/MKStoler1024.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/MKStoler1024.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/MKStoler1024">MKStoler1024</a> |
-| 🔴 [Classworks](#classworks) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/zerocatdev/classworks?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/SunWuyuan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/SunWuyuan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/SunWuyuan">SunWuyuan</a> |
+| [Classworks](#classworks) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/zerocatdev/classworks?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/SunWuyuan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/SunWuyuan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/SunWuyuan">SunWuyuan</a> |
 | ~~[CountBoard](#countboard)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Gaoyongxian666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Gaoyongxian666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Gaoyongxian666">Gaoyongxian666</a> |
 | ~~[灵动课表](#灵动课表)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/DuguSand.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/DuguSand.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/DuguSand">DuguSand</a> |
 | ~~[ElectronClassSchedule](#electronclassschedule)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/EnderWolf006.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/EnderWolf006.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/EnderWolf006">EnderWolf006</a> |
@@ -1614,7 +1614,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 
 </div>
 
-[HomeworkBoard](#homeworkboard) 的继任者，一个全新的作业板。基于 Vue+Vuetify 开发，可以在班级内记录并排版清晰地展示作业、快捷记录出勤情况，支持本地/云端存储，快捷唤起 Islandcaller 等等功能，并不断更新中。
+[HomeworkBoard](#homeworkboard) 的继任者，一个全新的作业板。基于 Vue+Vuetify 开发，可以在班级内记录并排版清晰地展示作业、快捷记录出勤情况，支持本地/云端存储，并不断更新中。
 
 🏷 **关键词**：<br/>
 ![作业看板](https://img.shields.io/badge/作业看板-white)
@@ -1623,13 +1623,17 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 ![Web](https://img.shields.io/badge/Web-white)
 ![Vue](https://img.shields.io/badge/Vue-white)
 ![随机点名](https://img.shields.io/badge/随机点名-white)
-![ClassIsland](https://img.shields.io/badge/ClassIsland-white)
 
 <table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
     <td><a href="https://github.com/ZeroCatDev/Classworks/">ZeroCatDev/Classworks</a></td>
+</tr>
+<tr>
+    <td><img src="https://raw.githubusercontent.com/ZeroCatDev/Classworks/f546621ab9b4b0b25b5b3e4ea41edf7a33dfd3ac/public/pwa/image/logo.svg" width="18" height="18"></td>
+    <td><b>网站</b></td>
+<td><a href="https://cs.houlangs.com">https://cs.houlangs.com</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
