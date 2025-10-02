@@ -2811,7 +2811,11 @@ RandPicker 是一款简单易用的随机抽取工具，支持多种抽取方式
 
 <p xmlns:cc="http://creativecommons.org/ns#" >本作品已获得 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0 许可<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
-## 🔗 友情链接
+## 💗 友情链接
+
+- [界面生态](https://intereco.org.cn/) - 国内最大的 PPTOS 创意社区
+
+## 🔗 相关链接
 
 - <image src="https://github.com/ClassIsland.png" height="18"/> **[ClassIsland Hub](https://hub.classisland.tech/)** - 展示亿些 ClassIsland 交流群/频道里面的乐子。
 
