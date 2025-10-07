@@ -20,7 +20,7 @@
       <img alt="贡献指南" src="./images/navigation/贡献指南-黑.svg" height="52">
     </picture>
 </a>&nbsp;
-<a href="https://github.com/Awesome-Iwb/Awesome-Iwb/issues/22">
+<a href="https://github.com/awesome-iwb/awesome-iwb/issues/57">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/navigation/最新项目-白.svg">
       <img alt="最新项目" src="./images/navigation/最新项目-黑.svg" height="52">
