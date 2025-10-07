@@ -852,7 +852,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 💬 **Douxiba 锐评**：~~**非常好用，由你好微软草开发的课是地，使我开学必装**~~，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！
 
-💬 **Makitoid 锐评**：classisland 目前来看没有课表软件比Ci好用，但是整个软件配置比较复杂，不建议在班里电脑上盲开。建议先在家里设置好，研究明白再安到电脑上。如果你电脑水平较弱，那建议你~~别当电教~~移步其它软件
+💬 **Makitoid 锐评**：classisland 目前来看没有课表软件比Ci好用，但是整个软件配置比较复杂，不建议在班里电脑上盲开。建议先在家里设置好，研究明白再安到电脑上。如果你电脑水平较弱，那建议你~~别当电教~~ 移步其它软件
 
 <table align="center">
 <tr>
@@ -1075,7 +1075,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 ![每日古诗](https://img.shields.io/badge/每日古诗-white)
 ![一言插件](https://img.shields.io/badge/一言插件-white)
 
-💬 **Douxiba 锐评**：目前 ClassIsland 功能最全的插件，非它莫属。
+💬 **Douxiba 锐评**：目前 ClassIsland 功能最全的插件，非它莫属。                    
 💬 **Makitoid 锐评**:如果你觉得Classisland功能不能满足你的需求，不妨把它安上。
 
 <table align="center">
