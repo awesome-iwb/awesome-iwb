@@ -65,27 +65,7 @@
 
 ---
 
-## 给大家的一封信
-
-各位 hxd 👋
-
-目前 awesome-iwb 依旧是 pure manual mode，所有条目都是手工 merge & 人肉 review，commit = 手敲代码。现在也有朋友在帮忙加新项目，但 quality control / reading consistency 不一定能保证（PR merge ≠ curated）。
-
-我本人现在在跑 exam-prep branch (高考)，commit frequency → nil，只会偶尔上线做一些基础维护。
-
-🔮 Future Plan
-
-高考之后，大概率会 refactor 维护方式：
-	•	aiwb-cli + GitHub Action → 自动化生成条目
-	•	从 manual ops 转到 semi-auto infra，减少人肉维护负担
-
-🙏 Thanks
-	•	感谢社区贡献者们的 PR 和讨论，让这个 repo 没有直接进入 stale 状态。
-	•	更要感谢各位软件开发者，是你们打造了这样一个丰富的教学辅助软件生态，awesome-iwb 只是充当了一个 index / catalog 的角色。
-
-未来 awesome-iwb 会越来越 community-driven，我自己更多会作为 infra maintainer。
-
-—— Douxiba/Dubi906w
+## 直到 Dubi906w 高考完之前，Awesome Iwb 组织内所有项目将由社区维护者全权管理与维护！
 
 ---
 
