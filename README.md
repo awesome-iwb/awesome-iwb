@@ -98,7 +98,6 @@
 | 🥇 [Ink Canvas Artistry](#ink-canvas-artistry) ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WuChanging.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WuChanging.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WuChanging">WuChanging</a> |
 | 🥈 [智绘教Inkeys](#智绘教inkeys) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Alan-CRL/Inkeys?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Alan-CRL">Alan-CRL</a> |
 | 🌟 [ICC-CE](#icc-ce) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/InkCanvasForClass/community?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CJKmkp">CJKmkp</a> |
-| 🌟 [SketchNow](#sketchnow) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SketchNow/SketchNow.WPF?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/realybin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/realybin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/realybin">realybin</a> |
 | [ppInk](#ppink) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pubpub-zz/ppInk?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/pubpub-zz">pubpub-zz</a> |
 | [LemonxNote](#lemonxnote-柠檬白板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lh11117/LemonxNote?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lh11117">lh11117</a> |
 | 🔴 [Ink Canvas Better](#ink-canvas-better) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BaiYang2238/Ink-Canvas-Better?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">BaiYang2238</a> |
@@ -533,62 +532,6 @@ ICC-CE 项目近期创建，开发者正在积极开发和优化中。虽然功�
 </tr>
 </table>
 
-
-<div align="center">
-<br/>
-<br/>
-<img src="https://avatars.githubusercontent.com/u/181708430?s=48&v=4" width="56" height="56"/> 
-
-
-
-### SketchNow
-
-![banner](https://github.com/SketchNow/SketchNow.WPF/raw/main/docs/banner.png)
-
-![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-[![stars](https://img.shields.io/github/stars/SketchNow/SketchNow.WPF?style=flat&color=red)](https://github.com/SketchNow/SketchNow.WPF/stargazers)
-[![forks](https://img.shields.io/github/forks/SketchNow/SketchNow.WPF?style=flat&color=blue)](https://github.com/SketchNow/SketchNow.WPF/forks)
-[![Watchers](https://img.shields.io/github/watchers/SketchNow/SketchNow.WPF?style=flat&color=green)](https://github.com/SketchNow/SketchNow.WPF/watchers)
-[![Downloads](https://img.shields.io/github/downloads/SketchNow/SketchNow.WPF/total?style=flat&logo=github)](https://github.com/SketchNow/SketchNow.WPF/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/SketchNow/SketchNow.WPF?query=is%3Aopen&label=issues&color=purple)](https://github.com/SketchNow/SketchNow.WPF/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/SketchNow/SketchNow.WPF?style=flat)](https://github.com/SketchNow/SketchNow.WPF/discussions)
-[![Created At](https://img.shields.io/github/created-at/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
-![GitHub License](https://img.shields.io/github/license/SketchNow/SketchNow.WPF?color=red)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20703302328-white?style=flat&logo=qq)](https://qm.qq.com/q/NhE0ZUNK0O)
-[![Discord](https://img.shields.io/discord/1299211548367261756?logo=discord&logoColor=white&label=&color=%235865F2)](https://discord.gg/Aub356Dmqs)
-
-</div>
-
-SketchNow 是一款现代 Windows 绘图工具，可让您在屏幕上的任何位置实时绘制草图。它采用 Material Design 设计，界面优雅，支持压感输入。该应用程序注重隐私，将所有数据保存在本地，仅在版本更新时连接到 GitHub。SketchNow 带来了在屏幕任意位置绘图的自由，同时保持了系统的稳定性和性能。
-
-SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Canvas 家族没有关系，但实际上底层还是使用的是 WPF 的 InkCanvas 控件。只不过比 IC 家族好太多了（人家用的是 MVVM！）。
-
-~~目前虽然还没有中文支持~~ **（2025 年 1 月 9 日更新：v1.0.0 已经发布，终于支持了了中文）** ，不过开发者空闲时间比较多，开发的效率也比较高，最近也比较活跃。据悉，SketchNow 后续版本将提供插件、墨迹分析等高级功能。
-
-🏷 **关键词**：<br/>
-![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
-![屏幕画板](https://img.shields.io/badge/屏幕画板-white)
-![桌面批注](https://img.shields.io/badge/桌面批注-white)
-![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
-![白板软件](https://img.shields.io/badge/白板软件-white)
-
-💬 **Douxiba 锐评**：又一个新开的基于 InkCanvas 控件的项目，希望后面能够继续发展吧，争取能够干爆 Ink Canvas，虽然目前功能还不是很多，有一些 Bug 等待被修复，但前途是一片光明啊。
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/SketchNow/SketchNow.WPF/">SketchNow/SketchNow.WPF</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/realybin.png" width="20" height="20"/> <a href="https://github.com/realybin/">realybin</a></td>
-</tr>
-</table>
 
 <div align="center">
 
