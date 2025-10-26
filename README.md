@@ -280,6 +280,8 @@ Ink Canvas Plus 是一款由 Clover Yan 维护、复刻自 WXRIW/Ink Canvas 的 
 
 💬 **2,2,3-三甲基戊烷 锐评**：俗话说的好：“（对于开源屏幕批注软件）要稳定inkeys，要好用icp。”而其中的icp便是原版ic的延续，继承了原版ic简洁易用的特点。真心希望后续发展越来越好！
 
+💬 **Makitoid 锐评**：作为批注软件还是很不错的，但是作为白板软件还是差一点。希望持续的优化！
+
 <table align="center">
 <tr>
     <td><img src="https://raw.githubusercontent.com/clover-yan/Ink-Canvas-Plus/master/Ink%20Canvas/Resources/InkCanvas.png" width="18" height="18"></td>
@@ -999,6 +1001,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 ![一言插件](https://img.shields.io/badge/一言插件-white)
 
 💬 **Douxiba 锐评**：目前 ClassIsland 功能最全的插件，非它莫属。
+
 💬 **Makitoid 锐评**:如果你觉得Classisland功能不能满足你的需求，不妨把它安上。
 
 <table align="center">
