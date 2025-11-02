@@ -2119,7 +2119,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 
 ### Auto Login for EasiNote
 
-
+![banner](./banner/EasiAuto-banner.png)
 
 [![stars](https://img.shields.io/github/stars/hxabcd/auto-login-for-easinote?style=flat&color=red)](https://github.com/hxabcd/auto-login-for-easinote/stargazers)
 [![forks](https://img.shields.io/github/forks/hxabcd/auto-login-for-easinote?style=flat&color=blue)](https://github.com/hxabcd/auto-login-for-easinote/forks)
