@@ -2594,15 +2594,15 @@ SecRandom 是一个便捷且现代化的随机抽取工具，支持多种抽取�
 
 
 <div align="center">
-<br/>
-<br/>
-<img src="https://github.com/xuanxuan1231/RandPicker/raw/main/img/Logo.png" width="56" height="56"/>
 
+<br/>
+<br/>
+
+<img src="./images/randpicker-icon.png" width="56" height="56"/>
 
 ### RandPicker
 
-
-
+![banner](./banner/randpicker-banner.png)
 
 ![New!](https://img.shields.io/badge/RandPicker-blue)
 [![stars](https://img.shields.io/github/stars/xuanxuan1231/RandPicker?style=flat&color=red)](https://github.com/xuanxuan1231/RandPicker/stargazers)
