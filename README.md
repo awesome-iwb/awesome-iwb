@@ -1306,8 +1306,6 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 <br/>
 <br/>
 
-<img src="https://github.com/Ris-Soft/Ris_ClassTool/raw/master/Main/logo.png" width="56" height="56"/> 
-
 ### Ris_ClassTool 瑞思课堂工具
 
 ![banner](https://github.com/user-attachments/assets/c7c2b95a-22cb-4763-8f37-6cb6db603918)
