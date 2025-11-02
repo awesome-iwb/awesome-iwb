@@ -2260,6 +2260,7 @@ Auto Login for EasiNote 是一个轻量级 CLI 工具，用 Python 编写，专�
 [![GitHub Language Count](https://img.shields.io/github/languages/count/SectionIstool/SectionIstool)](https://github.com/SectionIstool/SectionIstool)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/SectionIstool/SectionIstool)](https://github.com/SectionIstool/SectionIstool)
 ![GitHub License](https://img.shields.io/github/license/SectionIstool/SectionIstool?color=red)
+[![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20833875216-white?style=flat&logo=qq)]()
 
 </div>
 
