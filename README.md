@@ -1285,6 +1285,11 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 
 <table align="center">
 <tr>
+    <td><img src="images/bilibili-icon.svg" width="18" height="18"></td>
+    <td><b>B站宣传视频</b></td>
+    <td><a href="https://www.bilibili.com/video/BV1SoiyYuEtt/">BV1SoiyYuEtt</a></td>
+</tr>
+<tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
     <td><a href="https://github.com/SRInternet-Studio/Class_Hot_Search/">SRInternet-Studio/Class_Hot_Search</a></td>
