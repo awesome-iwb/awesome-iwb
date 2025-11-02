@@ -1461,6 +1461,11 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
     <td><b>开发者</b></td>
     <td><img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> <a href="https://github.com/SRInternet-Studio/">思锐工作室 SR-Studio</a></td>
 </tr>
+<tr>
+    <td><img src="images/123pan.svg" width="18" height="18"></td>
+    <td><b>123网盘下载</b></td>
+    <td><a href="https://www.123912.com/s/ICnzVv-cINgh">https://www.123912.com/s/ICnzVv-cINgh</a></td>
+</tr>
 </table>
 
 <div align="center">
