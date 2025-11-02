@@ -738,7 +738,7 @@ ShowWrite 是一款为视频展台、直播教学等场景设计的软件，支�
 
 ### ClassIsland
 
-![banner](https://github.com/user-attachments/assets/a815dd7d-8343-4da5-aee4-3f754aa297e4)
+![banner](./banner/classisland-banner.png)
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 ![MDS](https://img.shields.io/badge/MD2%20UI-003E92)
