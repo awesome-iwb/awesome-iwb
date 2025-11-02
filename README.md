@@ -1472,7 +1472,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 
 ### ExamSchedule
 
-![banner](https://github.com/ExamAware/ExamSchedule/raw/main/doc/exam.png)
+![banner](./banner/examaware-banner.png)
 
 [![stars](https://img.shields.io/github/stars/ExamAware/ExamSchedule?style=flat&color=red)](https://github.com/ExamAware/ExamSchedule/stargazers)
 [![forks](https://img.shields.io/github/forks/ExamAware/ExamSchedule?style=flat&color=blue)](https://github.com/ExamAware/ExamSchedule/forks)
