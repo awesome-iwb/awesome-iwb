@@ -1536,6 +1536,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 [![GitHub Language Count](https://img.shields.io/github/languages/count/ZeroCatDev/Classworks)](https://github.com/ZeroCatDev/Classworks)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/ZeroCatDev/Classworks)](https://github.com/ZeroCatDev/Classworks)
 ![GitHub License](https://img.shields.io/github/license/ZeroCatDev/Classworks?color=red)
+[![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20964979747-white?style=flat&logo=qq)](https://qm.qq.com/q/4RX45b1Oac)
 
 </div>
 
