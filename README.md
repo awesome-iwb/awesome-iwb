@@ -589,8 +589,6 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 <br/>
 <br/>
 
-<img src="images/inkways-icon.png" width="56" height="56"/> 
-
 ### LemonxNote 柠檬白板
 
 ![banner](./banner/lemonxnote-banner.png)
@@ -651,6 +649,8 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 
 </div>
 
+> 此项目已迁移至新仓库，开发交由[ThreeMonthAgo](https://github.com/ThreeMonthAgo/)负责，Awesome-Iwb 将在新仓库准备好后更新内容。以下内容以旧版为准。[点此](https://github.com/ThreeMonthAgo/Ink_Canvas_Better)前往新仓库。
+
 Ink Canvas Better 是一款基于 InkCanvas/Ink-Canvas-Artistry 开发的 Windows 画板应用，使用 WPF/C# 构建。它在原版 Ink Canvas 的基础上进行了优化和改进，移除了一些非核心功能（如点名工具和计时器），专注于提供更流畅的绘图体验和更简洁的界面。该软件支持多种绘图工具和图层管理功能，适合教学、会议和设计等多种用途。
 
 
@@ -665,12 +665,12 @@ Ink Canvas Better 是一款基于 InkCanvas/Ink-Canvas-Artistry 开发的 Window
 <table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
+    <td><b>GitHub(旧)</b></td>
     <td><a href="https://github.com/BaiYang2238/Ink-Canvas-Better">BaiYang2238/Ink-Canvas-Better</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
+    <td><b>开发者(旧)</b></td>
     <td><img src="https://github.com/BaiYang2238.png?s=48&v=4" width="20" height="20"/> <a href="https://github.com/BaiYang2238">BaiYang2238</a></td>
 </tr>
 </table>
@@ -869,6 +869,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 [![GitHub Language Count](https://img.shields.io/github/languages/count/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/Sticky-attention/Sticky-attention?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/Sticky-attention/Sticky-attention)
 ![GitHub License](https://img.shields.io/github/license/Sticky-attention/Sticky-attention?color=red)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20680019081-white?style=flat&logo=qq)](https://qm.qq.com/q/FbG57VTzTG)
 
 </div>
 
@@ -1284,6 +1285,11 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 
 <table align="center">
 <tr>
+    <td><img src="images/bilibili-icon.svg" width="18" height="18"></td>
+    <td><b>B站宣传视频</b></td>
+    <td><a href="https://www.bilibili.com/video/BV1SoiyYuEtt/">BV1SoiyYuEtt</a></td>
+</tr>
+<tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
     <td><a href="https://github.com/SRInternet-Studio/Class_Hot_Search/">SRInternet-Studio/Class_Hot_Search</a></td>
@@ -1299,8 +1305,6 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 
 <br/>
 <br/>
-
-<img src="https://github.com/Ris-Soft/Ris_ClassTool/raw/master/Main/logo.png" width="56" height="56"/> 
 
 ### Ris_ClassTool 瑞思课堂工具
 
@@ -1468,7 +1472,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 
 ### ExamSchedule
 
-![banner](https://github.com/ExamAware/ExamSchedule/raw/main/doc/exam.png)
+![banner](./banner/examaware-banner.png)
 
 [![stars](https://img.shields.io/github/stars/ExamAware/ExamSchedule?style=flat&color=red)](https://github.com/ExamAware/ExamSchedule/stargazers)
 [![forks](https://img.shields.io/github/forks/ExamAware/ExamSchedule?style=flat&color=blue)](https://github.com/ExamAware/ExamSchedule/forks)
@@ -1532,6 +1536,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 [![GitHub Language Count](https://img.shields.io/github/languages/count/ZeroCatDev/Classworks)](https://github.com/ZeroCatDev/Classworks)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/ZeroCatDev/Classworks)](https://github.com/ZeroCatDev/Classworks)
 ![GitHub License](https://img.shields.io/github/license/ZeroCatDev/Classworks?color=red)
+[![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20964979747-white?style=flat&logo=qq)](https://qm.qq.com/q/4RX45b1Oac)
 
 </div>
 
@@ -2114,7 +2119,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 
 ### Auto Login for EasiNote
 
-
+![banner](./banner/EasiAuto-banner.png)
 
 [![stars](https://img.shields.io/github/stars/hxabcd/auto-login-for-easinote?style=flat&color=red)](https://github.com/hxabcd/auto-login-for-easinote/stargazers)
 [![forks](https://img.shields.io/github/forks/hxabcd/auto-login-for-easinote?style=flat&color=blue)](https://github.com/hxabcd/auto-login-for-easinote/forks)
@@ -2255,6 +2260,7 @@ Auto Login for EasiNote 是一个轻量级 CLI 工具，用 Python 编写，专�
 [![GitHub Language Count](https://img.shields.io/github/languages/count/SectionIstool/SectionIstool)](https://github.com/SectionIstool/SectionIstool)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/SectionIstool/SectionIstool)](https://github.com/SectionIstool/SectionIstool)
 ![GitHub License](https://img.shields.io/github/license/SectionIstool/SectionIstool?color=red)
+[![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20833875216-white?style=flat&logo=qq)]()
 
 </div>
 
@@ -2450,7 +2456,6 @@ Rand 是一款简洁、现代化、易用的抽号软件，专为触摸屏设备
 
 ### NamePicker
 
-![Banner](https://github.com/NamePickerOrg/NamePicker/raw/master/assets/NamePicker.png)
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 [![stars](https://img.shields.io/github/stars/NamePickerOrg/NamePicker?style=flat&color=red)](https://github.com/NamePickerOrg/NamePicker/stargazers)
@@ -2534,10 +2539,11 @@ NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基�
 </table>
 
 <div align="center">
-<br/>
-<br/>
-<img src="https://github.com/SECTL/SecRandom/blob/main/resources/SecRandom.png" width="56" height="56"/>
 
+<br/>
+<br/>
+
+<img src="./images/secrandom-icon.png" width="56" height="56"/>
 
 ### SecRandom
 
@@ -2587,15 +2593,15 @@ SecRandom 是一个便捷且现代化的随机抽取工具，支持多种抽取�
 
 
 <div align="center">
-<br/>
-<br/>
-<img src="https://github.com/xuanxuan1231/RandPicker/raw/main/img/Logo.png" width="56" height="56"/>
 
+<br/>
+<br/>
+
+<img src="./images/randpicker-icon.png" width="56" height="56"/>
 
 ### RandPicker
 
-
-
+![banner](./banner/randpicker-banner.png)
 
 ![New!](https://img.shields.io/badge/RandPicker-blue)
 [![stars](https://img.shields.io/github/stars/xuanxuan1231/RandPicker?style=flat&color=red)](https://github.com/xuanxuan1231/RandPicker/stargazers)
