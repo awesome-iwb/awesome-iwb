@@ -649,6 +649,8 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 
 </div>
 
+> 此项目已迁移至新仓库，开发交由[ThreeMonthAgo](https://github.com/ThreeMonthAgo/)负责，Awesome-Iwb 将在新仓库准备好后更新内容。以下内容以旧版为准。[点此](https://github.com/ThreeMonthAgo/Ink_Canvas_Better)前往新仓库。
+
 Ink Canvas Better 是一款基于 InkCanvas/Ink-Canvas-Artistry 开发的 Windows 画板应用，使用 WPF/C# 构建。它在原版 Ink Canvas 的基础上进行了优化和改进，移除了一些非核心功能（如点名工具和计时器），专注于提供更流畅的绘图体验和更简洁的界面。该软件支持多种绘图工具和图层管理功能，适合教学、会议和设计等多种用途。
 
 
@@ -663,12 +665,12 @@ Ink Canvas Better 是一款基于 InkCanvas/Ink-Canvas-Artistry 开发的 Window
 <table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
+    <td><b>GitHub(旧)</b></td>
     <td><a href="https://github.com/BaiYang2238/Ink-Canvas-Better">BaiYang2238/Ink-Canvas-Better</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
+    <td><b>开发者(旧)</b></td>
     <td><img src="https://github.com/BaiYang2238.png?s=48&v=4" width="20" height="20"/> <a href="https://github.com/BaiYang2238">BaiYang2238</a></td>
 </tr>
 </table>
