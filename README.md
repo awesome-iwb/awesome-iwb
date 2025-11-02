@@ -2540,10 +2540,11 @@ NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基�
 </table>
 
 <div align="center">
-<br/>
-<br/>
-<img src="https://github.com/SECTL/SecRandom/blob/main/resources/SecRandom.png" width="56" height="56"/>
 
+<br/>
+<br/>
+
+<img src="./images/secrandom-icon.png" width="56" height="56"/>
 
 ### SecRandom
 
