@@ -118,7 +118,6 @@
 | [ExamSchedule](#examschedule) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ExamAware/ExamSchedule?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/MKStoler1024.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/MKStoler1024.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/MKStoler1024">MKStoler1024</a> |
 | [Classworks](#classworks) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/zerocatdev/classworks?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/SunWuyuan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/SunWuyuan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/SunWuyuan">SunWuyuan</a> |
 | ~~[CountBoard](#countboard)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Gaoyongxian666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Gaoyongxian666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Gaoyongxian666">Gaoyongxian666</a> |
-| ~~[灵动课表](#灵动课表)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/DuguSand.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/DuguSand.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/DuguSand">DuguSand</a> |
 | ~~[ElectronClassSchedule](#electronclassschedule)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/EnderWolf006.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/EnderWolf006.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/EnderWolf006">EnderWolf006</a> |
 | ~~[ClassTools](#classtools)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/clansty.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/clansty.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/clansty">clansty</a> |
 | ~~[StickyHomeworks](#stickyhomeworks)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/HelloWRC.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/HelloWRC.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/HelloWRC">HelloWRC</a> |
@@ -163,6 +162,7 @@
 | [希沃管家密码 V2 破解(seewoaprt)](https://github.com/gohj99/seewoaprt/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/gohj99/seewoaprt?label=updated) | <img src="https://github.com/gohj99.png" width="20" height="20"/> `gohj99` |
 | [Seewo-Activation-Code-Calculator](https://github.com/Farbitrarily/Seewo-Activation-Code-Calculator/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Farbitrarily/Seewo-Activation-Code-Calculator?label=updated) | <img src="https://github.com/Farbitrarily.png" width="20" height="20"/> `Farbitrarily` |
 | [LemonxNote](https://github.com/lh11117/LemonxNote/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/lh11117/LemonxNote?label=updated) | <img src="https://github.com/lh11117.png" width="20" height="20"/> `lh11117` |
+| [灵动课表](https://github.com/DuguSand/class_form/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form?label=updated) | <img src="https://github.com/DuguSand.png" width="20" height="20"/> `DuguSand` |
 
 > 该类别下的项目不会在 Awesome-Iwb 中展示，点击名称中的超链接可直接跳转到对应的 Github 仓库地址。
 
@@ -1583,47 +1583,6 @@ CountBoard 是一个基于 Tkinter 开源的桌面日程倒计时应用。支持
 </tr>
 </table>
 
-<div align="center">
-
-<br/>
-<br/>
-
-### 灵动课表
-
-[![stars](https://img.shields.io/github/stars/DuguSand/class_form?style=flat&color=red)](https://github.com/DuguSand/class_form/stargazers)
-[![forks](https://img.shields.io/github/forks/DuguSand/class_form?style=flat&color=blue)](https://github.com/DuguSand/class_form/forks)
-[![Watchers](https://img.shields.io/github/watchers/DuguSand/class_form?style=flat&color=green)](https://github.com/DuguSand/class_form/watchers)
-[![Downloads](https://img.shields.io/github/downloads/DuguSand/class_form/total?style=flat&logo=github)](https://github.com/DuguSand/class_form/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/DuguSand/class_form?query=is%3Aopen&label=issues&color=purple)](https://github.com/DuguSand/class_form/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/DuguSand/class_form?style=flat)](https://github.com/DuguSand/class_form/discussions)
-[![Created At](https://img.shields.io/github/created-at/DuguSand/class_form)](https://github.com/DuguSand/class_form)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form)](https://github.com/DuguSand/class_form/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/DuguSand/class_form)](https://github.com/DuguSand/class_form)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/DuguSand/class_form)](https://github.com/DuguSand/class_form)
-![GitHub License](https://img.shields.io/github/license/DuguSand/class_form?color=red)
-
-</div>
-
-> 该项目已经停止更新，而且知名的课表软件 [`ClassIsland`](#classisland) 的开发就是被该项目所激励的，该项目不建议使用。
-
-一个桌面课表软件。根据当日星期几显示配置文件中对应的课表，支持分隔符来规划课表内容。
-
-🏷 **关键词**：<br/>
-![桌面课程表](https://img.shields.io/badge/桌面小组件-white)
-![ClassIsland](https://img.shields.io/badge/ClassIsland-white)
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/DuguSand/class_form/">DuguSand/class_form</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/DuguSand.png" width="20" height="20"/> <a href="https://github.com/DuguSand/">DuguSand</a></td>
-</tr>
-</table>
 
 <div align="center">
 
