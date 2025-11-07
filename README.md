@@ -94,7 +94,6 @@
 | 🥈 [智绘教Inkeys](#智绘教inkeys) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Alan-CRL/Inkeys?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Alan-CRL">Alan-CRL</a> |
 | 🌟 [ICC-CE](#icc-ce) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/InkCanvasForClass/community?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CJKmkp">CJKmkp</a> |
 | [ppInk](#ppink) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pubpub-zz/ppInk?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/pubpub-zz">pubpub-zz</a> |
-| [LemonxNote](#lemonxnote-柠檬白板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lh11117/LemonxNote?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lh11117">lh11117</a> |
 | 🔴 [Ink Canvas Better](#ink-canvas-better) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BaiYang2238/Ink-Canvas-Better?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">BaiYang2238</a> |
 | 🔴 [ShowWrite视频展台](#showwrite视频展台) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwcrdrvf6u/ShowWrite?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">wwcrdrvf6u</a> |
 
@@ -119,7 +118,6 @@
 | [ExamSchedule](#examschedule) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ExamAware/ExamSchedule?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/MKStoler1024.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/MKStoler1024.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/MKStoler1024">MKStoler1024</a> |
 | [Classworks](#classworks) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/zerocatdev/classworks?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/SunWuyuan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/SunWuyuan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/SunWuyuan">SunWuyuan</a> |
 | ~~[CountBoard](#countboard)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Gaoyongxian666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Gaoyongxian666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Gaoyongxian666">Gaoyongxian666</a> |
-| ~~[灵动课表](#灵动课表)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/DuguSand.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/DuguSand.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/DuguSand">DuguSand</a> |
 | ~~[ElectronClassSchedule](#electronclassschedule)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/EnderWolf006.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/EnderWolf006.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/EnderWolf006">EnderWolf006</a> |
 | ~~[ClassTools](#classtools)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/clansty.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/clansty.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/clansty">clansty</a> |
 | ~~[StickyHomeworks](#stickyhomeworks)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/HelloWRC.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/HelloWRC.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/HelloWRC">HelloWRC</a> |
@@ -163,6 +161,8 @@
 | [BanSeewo](https://github.com/DengHanxu/BanSeewo/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/DengHanxu/BanSeewo?label=updated) | <img src="https://github.com/DengHanxu.png" width="20" height="20"/> `DengHanxu` |
 | [希沃管家密码 V2 破解(seewoaprt)](https://github.com/gohj99/seewoaprt/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/gohj99/seewoaprt?label=updated) | <img src="https://github.com/gohj99.png" width="20" height="20"/> `gohj99` |
 | [Seewo-Activation-Code-Calculator](https://github.com/Farbitrarily/Seewo-Activation-Code-Calculator/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Farbitrarily/Seewo-Activation-Code-Calculator?label=updated) | <img src="https://github.com/Farbitrarily.png" width="20" height="20"/> `Farbitrarily` |
+| [LemonxNote](https://github.com/lh11117/LemonxNote/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/lh11117/LemonxNote?label=updated) | <img src="https://github.com/lh11117.png" width="20" height="20"/> `lh11117` |
+| [灵动课表](https://github.com/DuguSand/class_form/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form?label=updated) | <img src="https://github.com/DuguSand.png" width="20" height="20"/> `DuguSand` |
 
 > 该类别下的项目不会在 Awesome-Iwb 中展示，点击名称中的超链接可直接跳转到对应的 Github 仓库地址。
 
@@ -584,44 +584,6 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 </tr>
 </table>
 
-<div align="center">
-
-<br/>
-<br/>
-
-### LemonxNote 柠檬白板
-
-![banner](./banner/lemonxnote-banner.png)
-
-![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-[![stars](https://img.shields.io/github/stars/lh11117/LemonxNote?style=flat&color=red)](https://github.com/lh11117/LemonxNote/stargazers)
-[![forks](https://img.shields.io/github/forks/lh11117/LemonxNote?style=flat&color=blue)](https://github.com/lh11117/LemonxNote/forks)
-[![Watchers](https://img.shields.io/github/watchers/lh11117/LemonxNote?style=flat&color=green)](https://github.com/lh11117/LemonxNote/watchers)
-[![Downloads](https://img.shields.io/github/downloads/lh11117/LemonxNote/total?style=flat&logo=github)](https://github.com/lh11117/LemonxNote/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/lh11117/LemonxNote?query=is%3Aopen&label=issues&color=purple)](https://github.com/lh11117/LemonxNote/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/lh11117/LemonxNote?style=flat)](https://github.com/lh11117/LemonxNote/discussions)
-[![Created At](https://img.shields.io/github/created-at/lh11117/LemonxNote)](https://github.com/lh11117/LemonxNote)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/lh11117/LemonxNote)](https://github.com/lh11117/LemonxNote/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/lh11117/LemonxNote)](https://github.com/lh11117/LemonxNote)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/lh11117/LemonxNote)](https://github.com/lh11117/LemonxNote)
-![GitHub License](https://img.shields.io/github/license/lh11117/LemonxNote?color=red)
-
-</div>
-
-一个用 C++ 和 Qt 开发的 白板软件。目前支持画布批注、擦除、移动画布、多页码等基础功能。更多功能还需等待后续更新。 **优点是内存占用非常的小（上图的217KB是因为这个内存占用计算了整个撤回库的内容）。**
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/lh11117/LemonxNote/">lh11117/LemonxNote</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/lh11117.png" width="20" height="20"/> <a href="https://github.com/lh11117/">linchh11117</a></td>
-</tr>
-</table>
 
 
 <div align="center">
@@ -1621,47 +1583,6 @@ CountBoard 是一个基于 Tkinter 开源的桌面日程倒计时应用。支持
 </tr>
 </table>
 
-<div align="center">
-
-<br/>
-<br/>
-
-### 灵动课表
-
-[![stars](https://img.shields.io/github/stars/DuguSand/class_form?style=flat&color=red)](https://github.com/DuguSand/class_form/stargazers)
-[![forks](https://img.shields.io/github/forks/DuguSand/class_form?style=flat&color=blue)](https://github.com/DuguSand/class_form/forks)
-[![Watchers](https://img.shields.io/github/watchers/DuguSand/class_form?style=flat&color=green)](https://github.com/DuguSand/class_form/watchers)
-[![Downloads](https://img.shields.io/github/downloads/DuguSand/class_form/total?style=flat&logo=github)](https://github.com/DuguSand/class_form/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/DuguSand/class_form?query=is%3Aopen&label=issues&color=purple)](https://github.com/DuguSand/class_form/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/DuguSand/class_form?style=flat)](https://github.com/DuguSand/class_form/discussions)
-[![Created At](https://img.shields.io/github/created-at/DuguSand/class_form)](https://github.com/DuguSand/class_form)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form)](https://github.com/DuguSand/class_form/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/DuguSand/class_form)](https://github.com/DuguSand/class_form)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/DuguSand/class_form)](https://github.com/DuguSand/class_form)
-![GitHub License](https://img.shields.io/github/license/DuguSand/class_form?color=red)
-
-</div>
-
-> 该项目已经停止更新，而且知名的课表软件 [`ClassIsland`](#classisland) 的开发就是被该项目所激励的，该项目不建议使用。
-
-一个桌面课表软件。根据当日星期几显示配置文件中对应的课表，支持分隔符来规划课表内容。
-
-🏷 **关键词**：<br/>
-![桌面课程表](https://img.shields.io/badge/桌面小组件-white)
-![ClassIsland](https://img.shields.io/badge/ClassIsland-white)
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/DuguSand/class_form/">DuguSand/class_form</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/DuguSand.png" width="20" height="20"/> <a href="https://github.com/DuguSand/">DuguSand</a></td>
-</tr>
-</table>
 
 <div align="center">
 
