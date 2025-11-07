@@ -94,7 +94,6 @@
 | 🥈 [智绘教Inkeys](#智绘教inkeys) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Alan-CRL/Inkeys?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Alan-CRL">Alan-CRL</a> |
 | 🌟 [ICC-CE](#icc-ce) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/InkCanvasForClass/community?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CJKmkp">CJKmkp</a> |
 | [ppInk](#ppink) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pubpub-zz/ppInk?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/pubpub-zz">pubpub-zz</a> |
-| [LemonxNote](#lemonxnote-柠檬白板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lh11117/LemonxNote?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lh11117">lh11117</a> |
 | 🔴 [Ink Canvas Better](#ink-canvas-better) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BaiYang2238/Ink-Canvas-Better?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">BaiYang2238</a> |
 | 🔴 [ShowWrite视频展台](#showwrite视频展台) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwcrdrvf6u/ShowWrite?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">wwcrdrvf6u</a> |
 
@@ -163,6 +162,7 @@
 | [BanSeewo](https://github.com/DengHanxu/BanSeewo/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/DengHanxu/BanSeewo?label=updated) | <img src="https://github.com/DengHanxu.png" width="20" height="20"/> `DengHanxu` |
 | [希沃管家密码 V2 破解(seewoaprt)](https://github.com/gohj99/seewoaprt/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/gohj99/seewoaprt?label=updated) | <img src="https://github.com/gohj99.png" width="20" height="20"/> `gohj99` |
 | [Seewo-Activation-Code-Calculator](https://github.com/Farbitrarily/Seewo-Activation-Code-Calculator/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Farbitrarily/Seewo-Activation-Code-Calculator?label=updated) | <img src="https://github.com/Farbitrarily.png" width="20" height="20"/> `Farbitrarily` |
+| [LemonxNote](https://github.com/lh11117/LemonxNote/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/lh11117/LemonxNote?label=updated) | <img src="https://github.com/lh11117.png" width="20" height="20"/> `lh11117` |
 
 > 该类别下的项目不会在 Awesome-Iwb 中展示，点击名称中的超链接可直接跳转到对应的 Github 仓库地址。
 
@@ -584,44 +584,6 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 </tr>
 </table>
 
-<div align="center">
-
-<br/>
-<br/>
-
-### LemonxNote 柠檬白板
-
-![banner](./banner/lemonxnote-banner.png)
-
-![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-[![stars](https://img.shields.io/github/stars/lh11117/LemonxNote?style=flat&color=red)](https://github.com/lh11117/LemonxNote/stargazers)
-[![forks](https://img.shields.io/github/forks/lh11117/LemonxNote?style=flat&color=blue)](https://github.com/lh11117/LemonxNote/forks)
-[![Watchers](https://img.shields.io/github/watchers/lh11117/LemonxNote?style=flat&color=green)](https://github.com/lh11117/LemonxNote/watchers)
-[![Downloads](https://img.shields.io/github/downloads/lh11117/LemonxNote/total?style=flat&logo=github)](https://github.com/lh11117/LemonxNote/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/lh11117/LemonxNote?query=is%3Aopen&label=issues&color=purple)](https://github.com/lh11117/LemonxNote/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/lh11117/LemonxNote?style=flat)](https://github.com/lh11117/LemonxNote/discussions)
-[![Created At](https://img.shields.io/github/created-at/lh11117/LemonxNote)](https://github.com/lh11117/LemonxNote)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/lh11117/LemonxNote)](https://github.com/lh11117/LemonxNote/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/lh11117/LemonxNote)](https://github.com/lh11117/LemonxNote)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/lh11117/LemonxNote)](https://github.com/lh11117/LemonxNote)
-![GitHub License](https://img.shields.io/github/license/lh11117/LemonxNote?color=red)
-
-</div>
-
-一个用 C++ 和 Qt 开发的 白板软件。目前支持画布批注、擦除、移动画布、多页码等基础功能。更多功能还需等待后续更新。 **优点是内存占用非常的小（上图的217KB是因为这个内存占用计算了整个撤回库的内容）。**
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/lh11117/LemonxNote/">lh11117/LemonxNote</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/lh11117.png" width="20" height="20"/> <a href="https://github.com/lh11117/">linchh11117</a></td>
-</tr>
-</table>
 
 
 <div align="center">
