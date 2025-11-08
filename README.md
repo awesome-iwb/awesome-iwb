@@ -61,7 +61,7 @@
 </div>
 
 > [!note]
-> 诚邀各位开发者与非开发者加入Awesome Iwb的交流群。如果你的项目在Awesome Iwb上面上榜了，请加入开发者交流群：1004548404。新版Awesome Iwb需要各位开发者完善自己项目的介绍。如果是非开发者，可以加入社区交流群：767088453
+> 诚邀各位开发者加入Awesome Iwb的交流群。如果你的项目在Awesome Iwb上面上榜了，请加入开发者交流群：1004548404。新版Awesome Iwb需要各位开发者完善自己项目的介绍。
 
 ---
 
@@ -145,7 +145,7 @@
 | 🥈 [Rand 抽号器](#rand-抽号器) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/LuoYunXi0407/Rand?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/LuoYunXi0407.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/LuoYunXi0407.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/LuoYunXi0407">LuoYunXi0407</a> |
 | 🔴 [NamePicker](#namepicker) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/NamePickerOrg/NamePicker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/LHGS-github.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/LHGS-github.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/LHGS-github">LHGS-github</a> |
 | 🔴 [IslandCaller](#islandcaller) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/HUSX100/IslandCaller?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/HUSX100.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/HUSX100.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/HUSX100">HUSX100</a> |
-| 🔴 [SecRandom](#secrandom) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SECTL/SecRandom?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/SECTL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/SECTL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/SECTL">SECTL</a> |
+| 🔴 [SecRandom](#secrandom) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SECTL/SecRandom?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lzy98276.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lzy98276.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lzy98276">lzy98276</a> |
 | 🔴 [RandPicker](#randpicker) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/xuanxuan1231/RandPicker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xuanxuan1231.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/xuanxuan1231.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/xuanxuan1231">xuanxuan1231</a> |
 | ~~[SeewoHUB](#seewohub)~~ (停更) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CNwenwen.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CNwenwen.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CNwenwen">CNwenwen</a> |
 
@@ -325,8 +325,6 @@ Ink Canvas Plus 是一款由 Clover Yan 维护、复刻自 WXRIW/Ink Canvas 的 
 </div>
 
 > <img src="./images/fork-icon.svg" width="18" height="18"/> forked from <a href="https://github.com/WXRIW/Ink-Canvas/">WXRIW/Ink-Canvas</a>.
-
-> 该项目已经停更。后续应该是不会再继续更新了。
 
 Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动查杀、荧光笔、图片插入等功能），并优化了使用体验，使其更适合课堂授课使用。目前暂时停更（可能得等到开发者大一放假了再说）。
 
@@ -2603,7 +2601,7 @@ SecRandom 是一个便捷且现代化的随机抽取工具，支持多种抽取�
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
-    <td><img src="https://github.com/SECTL.png" width="20" height="20"/> <a href="https://github.com/SECTL">SECTL</a></td>
+    <td><img src="https://github.com/lzy98276.png" width="20" height="20"/> <a href="https://github.com/lzy98276">lzy98276</a></td>
 </tr>
 </table>
 
