@@ -148,6 +148,7 @@
 | 🔴 [RandPicker](#randpicker) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/xuanxuan1231/RandPicker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xuanxuan1231.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/xuanxuan1231.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/xuanxuan1231">xuanxuan1231</a> |
 | 🔴 [SmartBoardTools](#SmartBoardTools) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/FeedWhisper5148/SmartBoardTools_OpenSourced?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/FeedWhisper5148.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/FeedWhisper5148.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/FeedWhisper5148">FeedWhisper5148</a> |
 | 🔴 [SeewoSplash](#SeewoSplash) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/fengyec2/custom-seewo-splash-screen?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/fengyec2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/fengyec2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/fengyec2">fengyec2</a> |
+| 🔴 [Class-Website](#ClassWebsite) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/jiugulixiaoniu/Class-Website-V2.5?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/jiugulixiaoniu">jiugulixiaoniu</a> |
 | ~~[SeewoHUB](#seewohub)~~ (停更) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CNwenwen.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CNwenwen.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CNwenwen">CNwenwen</a> |
 
 
@@ -2706,6 +2707,50 @@ SeewoSplash 是一个 Fluent 风格的图形化工具，允许你自定义希沃
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/fengyec2.png" width="20" height="20"/> <a href="https://github.com/fengyec2/">fengyec2</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+### ClassWebsite
+
+[![stars](https://img.shields.io/github/stars/jiugulixiaoniu/Class-Website-V2.5?style=flat&color=red)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)
+[![forks](https://img.shields.io/github/forks/jiugulixiaoniu/Class-Website-V2.5?style=flat&color=blue)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)
+[![Watchers](https://img.shields.io/github/watchers/jiugulixiaoniu/Class-Website-V2.5?style=flat&color=green)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)
+[![Downloads](https://img.shields.io/github/downloads/jiugulixiaoniu/Class-Website-V2.5/total?style=flat&logo=github)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/jiugulixiaoniu/Class-Website-V2.5?query=is%3Aopen&label=issues&color=purple)](https://github.com/jiugulixiaoniu/Class-Website-V2.5/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/jiugulixiaoniu/Class-Website-V2.5?style=flat)](https://github.com/jiugulixiaoniu/Class-Website-V2.5/discussions)
+[![Created At](https://img.shields.io/github/created-at/jiugulixiaoniu/Class-Website-V2.5)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/jiugulixiaoniu/Class-Website-V2.5)](https://github.com/jiugulixiaoniu/Class-Website-V2.5/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/jiugulixiaoniu/Class-Website-V2.5)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/jiugulixiaoniu/Class-Website-V2.5?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)
+![GitHub License](https://img.shields.io/github/license/jiugulixiaoniu/Class-Website-V2.5?color=red)
+
+</div>
+
+ClassWebsite是一个网页类项目，它可以用来为您的班级建立专属的班级网页。
+
+🏷 **关键词**：<br/>
+![网页](https://img.shields.io/badge/网页-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/bilibili-icon.svg" width="18" height="18"></td>
+    <td><b>B站宣传视频</b></td>
+    <td><a href="https://www.bilibili.com/video/BV1WJxNzKEiX">BV1WJxNzKEiX</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/jiugulixiaoniu/Class-Website-V2.5">jiugulixiaoniu/Class-Website-V2.5</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/jiugulixiaoniu.png" width="20" height="20"/> <a href="https://github.com/jiugulixiaoniu/">jiugulixiaoniu</a></td>
 </tr>
 </table>
 
