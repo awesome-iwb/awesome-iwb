@@ -155,6 +155,7 @@
 | 🔴 [Class-Scoring-Program](#Class-Scoring-Program) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/andycey/Class-Scoring-Program?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/andycey.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/andycey.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/andycey">andycey/a> |
 | 🔴 [沉浸式时钟](#沉浸式时钟) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/QQHKX/Immersive-clock?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/QQHKX.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/QQHKX.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/QQHKX">QQHKX/a> |
 | 🔴 [360拖堂卫士](#360拖堂卫士) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BSOD-MEMZ/360-Class-Guard?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BSOD-MEMZ.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BSOD-MEMZ.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BSOD-MEMZ">BSOD-MEMZ/a> |
+| 🔴 [教室座位安排系统](#教室座位安排系统) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/xi-guang1/SeatsChanger?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xi-guang1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/xi-guang1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/xi-guang1">xi-guang1/a> |
 | ~~[SeewoHUB](#seewohub)~~ (停更) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CNwenwen.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CNwenwen.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CNwenwen">CNwenwen</a> |
 
 
@@ -2885,6 +2886,45 @@ Class-Scoring-Program是一个用于协助班委统计和分析班级同学量�
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/BSOD-MEMZ.png" width="20" height="20"/> <a href="https://github.com/BSOD-MEMZ/">BSOD-MEMZ</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+### 教室座位安排系统
+
+[![stars](https://img.shields.io/github/stars/xi-guang1/SeatsChanger?style=flat&color=red)](https://github.com/xi-guang1/SeatsChanger)
+[![forks](https://img.shields.io/github/forks/xi-guang1/SeatsChanger?style=flat&color=blue)](https://github.com/xi-guang1/SeatsChanger)
+[![Watchers](https://img.shields.io/github/watchers/xi-guang1/SeatsChanger?style=flat&color=green)](https://github.com/xi-guang1/SeatsChanger)
+[![Downloads](https://img.shields.io/github/downloads/xi-guang1/SeatsChanger/total?style=flat&logo=github)](https://github.com/xi-guang1/SeatsChanger)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/xi-guang1/SeatsChanger?query=is%3Aopen&label=issues&color=purple)](https://github.com/xi-guang1/SeatsChanger)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xi-guang1/SeatsChanger?style=flat)](https://github.com/xi-guang1/SeatsChanger)
+[![Created At](https://img.shields.io/github/created-at/xi-guang1/SeatsChanger)](https://github.com/xi-guang1/SeatsChanger)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/xi-guang1/SeatsChanger)](https://github.com/BSOD-MEMZ/360-Class-Guard/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/xi-guang1/SeatsChanger)](https://github.com/xi-guang1/SeatsChanger)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/xi-guang1/SeatsChanger?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/xi-guang1/SeatsChanger)
+![GitHub License](https://img.shields.io/github/license/andycey/xi-guang1/SeatsChanger?color=red)
+
+</div>
+
+教室座位安排系统是一个基于PyQt5开发的图形化工具，旨在帮助教师和管理人员快速、灵活地安排教室座位。
+
+🏷 **关键词**：<br/>
+![座位安排](https://img.shields.io/badge/座位安排-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/xi-guang1/SeatsChanger">xi-guang1/SeatsChanger</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/xi-guang1.png" width="20" height="20"/> <a href="https://github.com/xi-guang1/">xi-guang1</a></td>
 </tr>
 </table>
 
