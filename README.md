@@ -2873,7 +2873,7 @@ Class-Scoring-Program是一个用于协助班委统计和分析班级同学量�
 360拖堂卫士是一款防拖堂软件，会在下课时间弹窗警告，必要时强制关闭PPT、希沃白板等教学软件，保障学生充足的下课休息时间。
 
 🏷 **关键词**：<br/>
-![放拖堂](https://img.shields.io/badge/放拖堂-white)
+![防拖堂](https://img.shields.io/badge/防拖堂-white)
 
 <table align="center">
 <tr>
