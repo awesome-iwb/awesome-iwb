@@ -63,6 +63,9 @@
 > [!note]
 > 诚邀各位开发者加入Awesome Iwb的交流群。如果你的项目在Awesome Iwb上面上榜了，请加入开发者交流群：1004548404。新版Awesome Iwb需要各位开发者完善自己项目的介绍。
 
+> [!note]
+> 目前 Awesome Iwb 所有权已转移至 智教联盟 旗下，详见 [https://forum.smart-teach.cn/d/831](https://forum.smart-teach.cn/d/831)。
+
 ---
 
 ## ⚠️ 注意
