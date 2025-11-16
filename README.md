@@ -3062,6 +3062,10 @@ Class-Scoring-Program是一个用于协助班委统计和分析班级同学量�
 ## 💗 友情链接
 
 - [界面生态](https://intereco.org.cn/) - 国内最大的 PPTOS 创意社区
+- [PhosoftWebPages](https://psoft.eu.org/) - 溪夏坡Zpcin 的个人网站
+- [Jursin的导航站](https://nav.jursin.top/) - ACS、实用工具、资源网站导航站
+- [宏星工作室｜MacroSTAR](https://macrostar.top/) - 宏星工作室官方网站，满天星光，终将汇聚宏伟星河！
+- [电教委员指南](https://cnel.smart-teach.cn/) - 做一名优秀的电教委员
 
 ## 🔗 相关链接
 
