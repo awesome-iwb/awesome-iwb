@@ -157,7 +157,6 @@
 | 🔴 [沉浸式时钟](#沉浸式时钟) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/QQHKX/Immersive-clock?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/QQHKX.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/QQHKX.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/QQHKX">QQHKX</a> |
 | 🔴 [360拖堂卫士](#360拖堂卫士) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BSOD-MEMZ/360-Class-Guard?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BSOD-MEMZ.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BSOD-MEMZ.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BSOD-MEMZ">BSOD-MEMZ</a> |
 | 🔴 [教室座位安排系统](#教室座位安排系统) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/xi-guang1/SeatsChanger?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xi-guang1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/xi-guang1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/xi-guang1">xi-guang1</a> |
-| ~~[SeewoHUB](#seewohub)~~ (停更) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CNwenwen.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CNwenwen.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CNwenwen">CNwenwen</a> |
 
 
 <br/>
@@ -175,6 +174,7 @@
 | [Seewo-Activation-Code-Calculator](https://github.com/Farbitrarily/Seewo-Activation-Code-Calculator/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Farbitrarily/Seewo-Activation-Code-Calculator?label=updated) | <img src="https://github.com/Farbitrarily.png" width="20" height="20"/> `Farbitrarily` |
 | [LemonxNote](https://github.com/lh11117/LemonxNote/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/lh11117/LemonxNote?label=updated) | <img src="https://github.com/lh11117.png" width="20" height="20"/> `lh11117` |
 | [灵动课表](https://github.com/DuguSand/class_form/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form?label=updated) | <img src="https://github.com/DuguSand.png" width="20" height="20"/> `DuguSand` |
+| [SeewoHUB](https://github.com/CNwenwen/SeewoHUB/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB?label=updated) | <img src="https://github.com/CNwenwen.png" width="20" height="20"/> `CNwenwen` |
 
 > 该类别下的项目不会在 Awesome-Iwb 中展示，点击名称中的超链接可直接跳转到对应的 Github 仓库地址。
 
@@ -2967,46 +2967,6 @@ Class-Scoring-Program是一个用于协助班委统计和分析班级同学量�
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/xi-guang1.png" width="20" height="20"/> <a href="https://github.com/xi-guang1/">xi-guang1</a></td>
-</tr>
-</table>
-
-
-<div align="center">
-
-<br/>
-<br/>
-
-<img src="https://github.com/user-attachments/assets/a0d2487f-7c3c-4dce-a3f9-125658d8386f" height="56" width="56"/> 
-
-### SeewoHUB
-
-![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-[![stars](https://img.shields.io/github/stars/CNwenwen/SeewoHUB?style=flat&color=red)](https://github.com/CNwenwen/SeewoHUB/stargazers)
-[![forks](https://img.shields.io/github/forks/CNwenwen/SeewoHUB?style=flat&color=blue)](https://github.com/CNwenwen/SeewoHUB/forks)
-[![Watchers](https://img.shields.io/github/watchers/CNwenwen/SeewoHUB?style=flat&color=green)](https://github.com/CNwenwen/SeewoHUB/watchers)
-[![Downloads](https://img.shields.io/github/downloads/CNwenwen/SeewoHUB/total?style=flat&logo=github)](https://github.com/CNwenwen/SeewoHUB/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/CNwenwen/SeewoHUB?query=is%3Aopen&label=issues&color=purple)](https://github.com/CNwenwen/SeewoHUB/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/CNwenwen/SeewoHUB?style=flat)](https://github.com/CNwenwen/SeewoHUB/discussions)
-[![Created At](https://img.shields.io/github/created-at/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
-![GitHub License](https://img.shields.io/github/license/CNwenwen/SeewoHUB?color=red)
-
-</div>
-
-一款方便、快捷的下载各类 希沃一体机教学软件 的软件
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/CNwenwen/SeewoHUB/">CNwenwen/SeewoHUB</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/CNwenwen.png" width="20" height="20"/> <a href="https://github.com/CNwenwen/">Hyjthfhtself</a></td>
 </tr>
 </table>
 
