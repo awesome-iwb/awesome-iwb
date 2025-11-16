@@ -122,6 +122,7 @@
 | [Classworks](#classworks) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/zerocatdev/classworks?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/SunWuyuan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/SunWuyuan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/SunWuyuan">SunWuyuan</a> |
 | 🔴 [Classpaper-v4](#Classpaper) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/E7G/Classpaper-v4?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/E7G.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/E7G.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/E7G">E7G</a> |
 | 🔴 [考试语音播报系统](#考试语音播报系统) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/cloudy059/ExamBroadcast?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/cloudy059.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/cloudy059.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/cloudy059">cloudy059</a> |
+| 🔴 [iClass](#iClass) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/gpuawa/iClass?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/gpuawa.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/gpuawa.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/gpuawa">gpuawa</a> |
 | ~~[CountBoard](#countboard)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Gaoyongxian666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Gaoyongxian666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Gaoyongxian666">Gaoyongxian666</a> |
 | ~~[ElectronClassSchedule](#electronclassschedule)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/EnderWolf006.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/EnderWolf006.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/EnderWolf006">EnderWolf006</a> |
 | ~~[ClassTools](#classtools)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/clansty.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/clansty.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/clansty">clansty</a> |
@@ -1854,6 +1855,47 @@ ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于R
 </tr>
 </table>
 
+
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="./images/iclass-icon.png" width="56" height="56"/> 
+
+### iClass
+
+[![stars](https://img.shields.io/github/stars/gpuawa/iClass?style=flat&color=red)](https://github.com/gpuawa/iClass)
+[![forks](https://img.shields.io/github/forks/gpuawa/iClass?style=flat&color=blue)](https://github.com/gpuawa/iClass)
+[![Watchers](https://img.shields.io/github/watchers/gpuawa/iClass?style=flat&color=green)](https://github.com/gpuawa/iClass)
+[![Downloads](https://img.shields.io/github/downloads/gpuawa/iClass?style=flat&logo=github)](https://github.com/gpuawa/iClass)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/gpuawa/iClass?query=is%3Aopen&label=issues&color=purple)](https://github.com/gpuawa/iClass)
+[![GitHub Discussions](https://img.shields.io/github/discussions/gpuawa/iClass?style=flat)](https://github.com/gpuawa/iClass)
+[![Created At](https://img.shields.io/github/created-at/gpuawa/iClass)](https://github.com/gpuawa/iClass)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/gpuawa/iClass)](https://github.com/gpuawa/iClass)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/gpuawa/iClass)](https://github.com/gpuawa/iClass)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/gpuawa/iClass?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/gpuawa/iClass)
+![GitHub License](https://img.shields.io/github/license/andycey/gpuawa/iClass?color=red)
+
+</div>
+
+一个使用 Electron 和 Vue 3 构建的教室大屏实用工具箱。
+
+🏷 **关键词**：<br/>
+![课程表](https://img.shields.io/badge/课程表-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/gpuawa/iClass">gpuawa/iClass</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/gpuawa.png" width="20" height="20"/> <a href="https://github.com/gpuawa/">gpuawa</a></td>
+</tr>
+</table>
 
 
 ## 🛠️ 辅助类软件与实用工具
