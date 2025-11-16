@@ -337,7 +337,7 @@ Ink Canvas Plus 是一款由 Clover Yan 维护、复刻自 WXRIW/Ink Canvas 的 
 
 > <img src="./images/fork-icon.svg" width="18" height="18"/> forked from <a href="https://github.com/WXRIW/Ink-Canvas/">WXRIW/Ink-Canvas</a>.
 
-Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动查杀、荧光笔、图片插入等功能），并优化了使用体验，使其更适合课堂授课使用。目前暂时停更（可能得等到开发者大一放假了再说）。
+Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动查杀、荧光笔、图片插入等功能），并优化了使用体验，使其更适合课堂授课使用。目前已确认永久停更。
 
 🏷 **关键词**：<br/>
 ![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
@@ -355,6 +355,14 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 💬 **Makitoid 锐评**：ICA几乎解决了希沃白板的所有痛点，可以说是希沃白板的平替了。同样是用``C＃``开发的，为何差别这么大？但是，以下情况不建议使用ICA：①班里老师电脑水平普遍较差；②老师上课严重依赖``板中板``，ICA这方面优化不好。
 
 💬 **connect 锐评**：ICA的似我觉得是最可惜的，IC系里我最喜欢的就是这款，UI简洁，功能丰富，特别是恰到的好处丝滑，白板页是类似希沃白板的界面，工具板块可以打开希沃视频展台，对于教师上手的学习成本相比于其他的版本是几乎最低的，以及ppt联动页也是类似希沃ppt助手，只可惜停更了，令我惋惜。
+
+💬 **2,2,3-三甲基戊烷 锐评**：虽然ICA在Aiwb里面它目前还在🥇的位置，但是我这个Aiwb maintainer认为它并不算比较好用的一款屏幕批注软件，甚至还比不上目前的ICC-CE。为什么呢？：①论绘制性能比不上基于C++的`智绘教Inkeys`；②论功能及其各方面的易用性不如ICC-CE；③ICA目前已经永久停更，不会再有功能更新与bug修复；④ICA总是会出现一些墨迹异常成为直线的情况，如下图所示：  
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f3ea2a3d-10c1-4646-a84e-73fe86300ecf" width="300" height="300"/>
+</div>
+
+<br/>
 
 <table align="center">
 <tr>
