@@ -54,7 +54,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/awesome-iwb/awesome-iwb&label=Visitors&countColor=%23263759&style=flat)
-![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B47%E6%9C%8830%E6%97%A5-orange)
+![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B411%E6%9C%8816%E6%97%A5-orange)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201004548404-white?style=flat&logo=qq)](https://qm.qq.com/q/im8ZtJpkZy)
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/71f72cdd85b0b13b41e368b54f1f94f3d378c9fa.svg "Repobeats analytics image")
 
@@ -338,7 +338,7 @@ Ink Canvas Plus 是一款由 Clover Yan 维护、复刻自 WXRIW/Ink Canvas 的 
 
 > <img src="./images/fork-icon.svg" width="18" height="18"/> forked from <a href="https://github.com/WXRIW/Ink-Canvas/">WXRIW/Ink-Canvas</a>.
 
-Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动查杀、荧光笔、图片插入等功能），并优化了使用体验，使其更适合课堂授课使用。目前暂时停更（可能得等到开发者大一放假了再说）。
+Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动查杀、荧光笔、图片插入等功能），并优化了使用体验，使其更适合课堂授课使用。目前已确认永久停更。
 
 🏷 **关键词**：<br/>
 ![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
@@ -356,6 +356,14 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 💬 **Makitoid 锐评**：ICA几乎解决了希沃白板的所有痛点，可以说是希沃白板的平替了。同样是用``C＃``开发的，为何差别这么大？但是，以下情况不建议使用ICA：①班里老师电脑水平普遍较差；②老师上课严重依赖``板中板``，ICA这方面优化不好。
 
 💬 **connect 锐评**：ICA的似我觉得是最可惜的，IC系里我最喜欢的就是这款，UI简洁，功能丰富，特别是恰到的好处丝滑，白板页是类似希沃白板的界面，工具板块可以打开希沃视频展台，对于教师上手的学习成本相比于其他的版本是几乎最低的，以及ppt联动页也是类似希沃ppt助手，只可惜停更了，令我惋惜。
+
+💬 **2,2,3-三甲基戊烷 锐评**：虽然ICA在Aiwb里面它目前还在🥇的位置，但是我这个Aiwb maintainer认为它并不算比较好用的一款屏幕批注软件，甚至还比不上目前的ICC-CE。为什么呢？：①论绘制性能比不上基于C++的`智绘教Inkeys`；②论功能及其各方面的易用性不如ICC-CE；③ICA目前已经永久停更，不会再有功能更新与bug修复；④ICA总是会出现一些墨迹异常成为直线的情况，如下图所示：  
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f3ea2a3d-10c1-4646-a84e-73fe86300ecf" width="300" height="300"/>
+</div>
+
+<br/>
 
 <table align="center">
 <tr>
@@ -3103,7 +3111,6 @@ Class-Scoring-Program是一个用于协助班委统计和分析班级同学量�
 
 ## 💗 友情链接
 
-- [界面生态](https://intereco.org.cn/) - 国内最大的 PPTOS 创意社区
 - [PhosoftWebPages](https://psoft.eu.org/) - 溪夏坡Zpcin 的个人网站
 - [Jursin的导航站](https://nav.jursin.top/) - ACS、实用工具、资源网站导航站
 - [宏星工作室｜MacroSTAR](https://macrostar.top/) - 宏星工作室官方网站，满天星光，终将汇聚宏伟星河！
@@ -3128,4 +3135,4 @@ Class-Scoring-Program是一个用于协助班委统计和分析班级同学量�
 
 ## Copyright
 
-© Copyright 2025 Douxiba & Aris & 2,2,3-三甲基戊烷（2-2-3-trimethylpentane）
+© Copyright 2025 智教联盟SmartTeachCN
