@@ -163,6 +163,7 @@
 | 🔴 [ClassAware](#ClassAware) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/unDefFtr/ClassAware?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xi-guang1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/unDefFtr.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/unDefFtr">unDefFtr</a> |
 | 🔴 [CsesWebEditor](#CsesWebEditor) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SmartTeachCN/CsesWebEditor?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/PYLXU.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/PYLXU.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/PYLXU">PYLXU</a> |
 | 🔴 [CSES规范](#CSES规范) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SmartTeachCN/CSES?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/unDefFtr.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/unDefFtr.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/unDefFtr">unDefFtr</a> |
+| 🔴 [HugoAura](#HugoAura) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/HugoAura/Seewo-HugoAura?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Minoricew.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Minoricew.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Minoricew">Minoricew</a> |
 
 
 <br/>
@@ -3216,6 +3217,49 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/UnDefFtr.png" width="20" height="20"/> <a href="https://github.com/UnDefFtr/">UnDefFtr</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="./images/seewo-hugoaura-icon.png" width="56" height="56"/>
+
+### HugoAura
+
+![banner](./banner/seewo-hugoaura-banner.png)
+
+[![stars](https://img.shields.io/github/stars/HugoAura/Seewo-HugoAura?style=flat&color=red)](https://github.com/HugoAura/Seewo-HugoAura/stargazers)
+[![forks](https://img.shields.io/github/forks/HugoAura/Seewo-HugoAura?style=flat&color=blue)](https://github.com/HugoAura/Seewo-HugoAura/forks)
+[![Watchers](https://img.shields.io/github/watchers/HugoAura/Seewo-HugoAura?style=flat&color=green)](https://github.com/HugoAura/Seewo-HugoAura/watchers)
+[![Downloads](https://img.shields.io/github/downloads/HugoAura/Seewo-HugoAura/total?style=flat&logo=github)](https://github.com/HugoAura/Seewo-HugoAura/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/HugoAura/Seewo-HugoAura?query=is%3Aopen&label=issues&color=purple)](https://github.com/HugoAura/Seewo-HugoAura/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/HugoAura/Seewo-HugoAura?style=flat)](https://github.com/HugoAura/Seewo-HugoAura/discussions)
+[![Created At](https://img.shields.io/github/created-at/HugoAura/Seewo-HugoAura)](https://github.com/HugoAura/Seewo-HugoAura)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HugoAura/Seewo-HugoAura)](https://github.com/HugoAura/Seewo-HugoAura/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/HugoAura/Seewo-HugoAura)](https://github.com/HugoAura/Seewo-HugoAura)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/HugoAura/Seewo-HugoAura?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/HugoAura/Seewo-HugoAura)
+![GitHub License](https://img.shields.io/github/license/HugoAura/Seewo-HugoAura?color=red)
+
+</div>
+
+一个希沃管家注入式修改方案
+
+🏷 **关键词**：<br/>
+![希沃管家](https://img.shields.io/badge/希沃管家-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/HugoAura/Seewo-HugoAura/">HugoAura/Seewo-HugoAura</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/Minoricew.png" width="20" height="20"/> <a href="https://github.com/Minoricew/">Minoricew</a></td>
 </tr>
 </table>
 
