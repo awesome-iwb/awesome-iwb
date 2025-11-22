@@ -164,6 +164,7 @@
 | 🔴 [CsesWebEditor](#CsesWebEditor) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SmartTeachCN/CsesWebEditor?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/PYLXU.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/PYLXU.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/PYLXU">PYLXU</a> |
 | 🔴 [CSES规范](#CSES规范) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SmartTeachCN/CSES?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/unDefFtr.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/unDefFtr.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/unDefFtr">unDefFtr</a> |
 | 🔴 [HugoAura](#HugoAura) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/HugoAura/Seewo-HugoAura?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Minoricew.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Minoricew.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Minoricew">Minoricew</a> |
+| 🔴 [VoiceHub](#VoiceHub) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/laoshuikaixue/VoiceHub?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/laoshuikaixue.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/laoshuikaixue.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/laoshuikaixue">laoshuikaixue</a> |
 
 
 <br/>
@@ -3260,6 +3261,47 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/Minoricew.png" width="20" height="20"/> <a href="https://github.com/Minoricew/">Minoricew</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+### VoiceHub
+
+![banner](./banner/voicehub-banner.png)
+
+[![stars](https://img.shields.io/github/stars/laoshuikaixue/VoiceHub?style=flat&color=red)](https://github.com/laoshuikaixue/VoiceHub/stargazers)
+[![forks](https://img.shields.io/github/forks/laoshuikaixue/VoiceHub?style=flat&color=blue)](https://github.com/laoshuikaixue/VoiceHub/forks)
+[![Watchers](https://img.shields.io/github/watchers/laoshuikaixue/VoiceHub?style=flat&color=green)](https://github.com/laoshuikaixue/VoiceHub/watchers)
+[![Downloads](https://img.shields.io/github/downloads/laoshuikaixue/VoiceHub/total?style=flat&logo=github)](https://github.com/laoshuikaixue/VoiceHub/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/laoshuikaixue/VoiceHub?query=is%3Aopen&label=issues&color=purple)](https://github.com/laoshuikaixue/VoiceHub/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/laoshuikaixue/VoiceHub?style=flat)](https://github.com/laoshuikaixue/VoiceHub/discussions)
+[![Created At](https://img.shields.io/github/created-at/laoshuikaixue/VoiceHub)](https://github.com/laoshuikaixue/VoiceHub)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/laoshuikaixue/VoiceHub)](https://github.com/laoshuikaixue/VoiceHub/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/laoshuikaixue/VoiceHub)](https://github.com/laoshuikaixue/VoiceHub)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/laoshuikaixue/VoiceHub?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/laoshuikaixue/VoiceHub)
+![GitHub License](https://img.shields.io/github/license/laoshuikaixue/VoiceHub?color=red)
+
+</div>
+
+这是一个使用Nuxt 3全栈框架开发的现代化校园广播站点歌管理系统。系统提供完整的点歌、投票、排期管理、通知推送、数据分析、权限控制和数据库管理功能，支持多角色权限管理和灵活的系统配置。
+
+🏷 **关键词**：<br/>
+![广播](https://img.shields.io/badge/广播-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/laoshuikaixue/VoiceHub/">laoshuikaixue/VoiceHub</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/laoshuikaixue.png" width="20" height="20"/> <a href="https://github.com/laoshuikaixue/">laoshuikaixue</a></td>
 </tr>
 </table>
 
