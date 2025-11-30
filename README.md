@@ -1127,8 +1127,13 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 <table align="center">
 <tr>
     <td><img src="https://raw.githubusercontent.com/Yamikani-Flipped/LingYun-Class-Widgets/refs/heads/main/Resource/ico/LINGYUN.ico" width="18" height="18"></td>
-    <td><b>临时官网</b></td>
-    <td><a href="https://lingyun-6e2.pages.dev/">https://lingyun-6e2.pages.dev/</a></td>
+    <td><b>官网</b></td>
+    <td><a href="https://www.yamikani.cn">https://www.yamikani.cn</a></td>
+</tr>
+<tr>
+    <td><img src="https://raw.githubusercontent.com/Yamikani-Flipped/LingYun-Class-Widgets/refs/heads/main/Resource/ico/LINGYUN.ico" width="18" height="18"></td>
+    <td><b>服务官网</b></td>
+    <td><a href="https://service.yamikani.cn">https://service.yamikani.cn</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
