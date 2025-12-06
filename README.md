@@ -2971,10 +2971,11 @@ SmartBoardTools是一个看板软件。使用原生JavaScript制作。主要亮�
 
 </div>
 
-SeewoSplash 是一个 Fluent 风格的图形化工具，允许你自定义希沃白板的启动图。
+SeewoSplash 是一个 Fluent 风格的图形化工具，允许你自定义希沃白板以及 WPS Office 的启动图。
 
 🏷 **关键词**：<br/>
 ![希沃白板](https://img.shields.io/badge/希沃白板-white)
+![WPS](https://img.shields.io/badge/WPS-white)
 ![自定义](https://img.shields.io/badge/自定义-white)
 ![美化](https://img.shields.io/badge/美化-white)
 
