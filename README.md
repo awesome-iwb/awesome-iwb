@@ -439,31 +439,6 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 💬 **Douxiba 锐评**：用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面 Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。最近出了内测版本，用 **Fluent Design System** 重构了设置页面，非常好看（有需要可以加入他们的 QQ 群了解更多，2024 年 12 月 4 日更新）
 
-⬇️ **下载：** <br>
-<img alt="GitHub Release" src="https://img.shields.io/github/v/release/Alan-CRL/Inkeys?label=stable&color=green">
-<img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Alan-CRL/Inkeys?color=green"><br>
-<img alt="GitHub Release" src="https://img.shields.io/github/v/release/Alan-CRL/Inkeys?label=pre-release&color=red&include_prereleases">
-<img alt="GitHub Release Date" src="https://img.shields.io/github/release-date-pre/Alan-CRL/Inkeys?color=red">
-<br>
-<a href="https://github.com/Alan-CRL/Inkeys/releases">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/download/github-dark.svg">
-      <img alt="github" src="./images/download/github-light.svg" height="48">
-    </picture>
-</a>
-<a href="https://www.123pan.com/s/duk9-n4dAd.html">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/download/123yunpan-dark.svg">
-      <img alt="123pan" src="./images/download/123yunpan-light.svg" height="48">
-    </picture>
-</a>
-<a href="https://t.me/s/awesomeiwb?q=%23Inkeys">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/download/telegram-dark.svg">
-      <img alt="telegram" src="./images/download/telegram-light.svg" height="48">
-    </picture>
-</a>
-
 <table align="center">
 <tr>
     <td><img src="images/bilibili-icon.svg" width="18" height="18"></td>
