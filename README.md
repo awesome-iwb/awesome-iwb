@@ -96,6 +96,8 @@
 | 🥇 [Ink Canvas Artistry](#ink-canvas-artistry) ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WuChanging.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WuChanging.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WuChanging">WuChanging</a> |
 | 🥈 [智绘教Inkeys](#智绘教inkeys) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Alan-CRL/Inkeys?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Alan-CRL">Alan-CRL</a> |
 | 🌟 [ICC-CE](#icc-ce) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/InkCanvasForClass/community?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CJKmkp">CJKmkp</a> |
+| 🔴 [InkCanvasForClass](#InkCanvasForClass) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/segf4ultk1nger/InkCanvasForClass?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/segf4ultk1nger.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/segf4ultk1nger.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/segf4ultk1nger">segf4ultk1nger</a> |
+| 🔴 [ICC-RE](#ICC-RE) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/LiuYan-xwx/InkCanvasForClass-Remastered?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/LiuYan-xwx.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/LiuYan-xwx.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/LiuYan-xwx">LiuYan-xwx</a> |
 | [ppInk](#ppink) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pubpub-zz/ppInk?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/pubpub-zz">pubpub-zz</a> |
 | 🔴 [Ink Canvas Better](#ink-canvas-better) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BaiYang2238/Ink-Canvas-Better?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">BaiYang2238</a> |
 | 🔴 [ShowWrite视频展台](#showwrite视频展台) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwcrdrvf6u/ShowWrite?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/wwcrdrvf6u">wwcrdrvf6u</a> |
@@ -173,6 +175,8 @@
 | 🔴 [蓝屏抽奖机](#蓝屏抽奖机) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lanpinggai666/lanpingChouJiang?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lanpinggai666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lanpinggai666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lanpinggai666">lanpinggai666</a> |
 | 🔴 [考试倒计时桌面小工具](#考试倒计时桌面小工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Zpcin/ExaminationCountdown?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Zpcin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Zpcin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Zpcin">Zpcin</a> |
 | 🔴 [国家中小学智慧教育平台电子课本下载工具](#国家中小学智慧教育平台电子课本下载工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/happycola233/tchMaterial-parser?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/happycola233.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/happycola233.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/happycola233">happycola233</a> |
+| 🔴 [希沃白板5激活工具](#希沃白板5激活工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/YXC-Lhy/EasiNote-5-Crack-Tool?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/YXC-Lhy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/YXC-Lhy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/YXC-Lhy">YXC-Lhy</a> |
+| 🔴 [SeewoGadgets](#SeewoGadgets) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/fengyec2/seewo-gadgets?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/fengyec2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/fengyec2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/fengyec2">fengyec2</a> |
 
 
 <br/>
@@ -438,31 +442,6 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 💬 **Douxiba 锐评**：用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面 Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。最近出了内测版本，用 **Fluent Design System** 重构了设置页面，非常好看（有需要可以加入他们的 QQ 群了解更多，2024 年 12 月 4 日更新）
 
-⬇️ **下载：** <br>
-<img alt="GitHub Release" src="https://img.shields.io/github/v/release/Alan-CRL/Inkeys?label=stable&color=green">
-<img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Alan-CRL/Inkeys?color=green"><br>
-<img alt="GitHub Release" src="https://img.shields.io/github/v/release/Alan-CRL/Inkeys?label=pre-release&color=red&include_prereleases">
-<img alt="GitHub Release Date" src="https://img.shields.io/github/release-date-pre/Alan-CRL/Inkeys?color=red">
-<br>
-<a href="https://github.com/Alan-CRL/Inkeys/releases">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/download/github-dark.svg">
-      <img alt="github" src="./images/download/github-light.svg" height="48">
-    </picture>
-</a>
-<a href="https://www.123pan.com/s/duk9-n4dAd.html">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/download/123yunpan-dark.svg">
-      <img alt="123pan" src="./images/download/123yunpan-light.svg" height="48">
-    </picture>
-</a>
-<a href="https://t.me/s/awesomeiwb?q=%23Inkeys">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/download/telegram-dark.svg">
-      <img alt="telegram" src="./images/download/telegram-light.svg" height="48">
-    </picture>
-</a>
-
 <table align="center">
 <tr>
     <td><img src="images/bilibili-icon.svg" width="18" height="18"></td>
@@ -560,6 +539,86 @@ ICC-CE 项目近期创建，开发者正在积极开发和优化中。虽然功�
     <td><img src="https://github.com/InkCanvasForClass/community/raw/main/icc.png" width="18" height="18"></td>
     <td><b>文档站</b></td>
     <td><a href="https://inkcanvasforclass.github.io/website/ ">https://inkcanvasforclass.github.io/website/ </a></td>
+</tr>
+</table>
+
+
+<div align="center">
+
+<br/>
+<br/>
+
+### InkCanvasForClass
+
+[![stars](https://img.shields.io/github/stars/Segf4ultk1nger/InkCanvasForClass?style=flat&color=red)](https://github.com/Segf4ultk1nger/InkCanvasForClass/stargazers)
+[![forks](https://img.shields.io/github/forks/Segf4ultk1nger/InkCanvasForClass?style=flat&color=blue)](https://github.com/Segf4ultk1nger/InkCanvasForClass/forks)
+[![Watchers](https://img.shields.io/github/watchers/Segf4ultk1nger/InkCanvasForClass?style=flat&color=green)](https://github.com/Segf4ultk1nger/InkCanvasForClass/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Segf4ultk1nger/InkCanvasForClass/total?style=flat&logo=github)](https://github.com/Segf4ultk1nger/InkCanvasForClass/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Segf4ultk1nger/InkCanvasForClass?query=is%3Aopen&label=issues&color=purple)](https://github.com/Segf4ultk1nger/InkCanvasForClass/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Segf4ultk1nger/InkCanvasForClass?style=flat)](https://github.com/Segf4ultk1nger/InkCanvasForClass/discussions)
+[![Created At](https://img.shields.io/github/created-at/Segf4ultk1nger/InkCanvasForClass)](https://github.com/Segf4ultk1nger/InkCanvasForClass)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Segf4ultk1nger/InkCanvasForClass)](https://github.com/Segf4ultk1nger/InkCanvasForClass/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Segf4ultk1nger/InkCanvasForClass)](https://github.com/Segf4ultk1nger/InkCanvasForClass)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Segf4ultk1nger/InkCanvasForClass?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/Segf4ultk1nger/InkCanvasForClass)
+![GitHub License](https://img.shields.io/github/license/Segf4ultk1nger/InkCanvasForClass?color=red)
+
+</div>
+
+InkCanvasForClass的readme仓库。
+
+🏷 **关键词**：<br/>
+![ICC](https://img.shields.io/badge/ICC-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/Segf4ultk1nger/InkCanvasForClass/">Segf4ultk1nger/InkCanvasForClass</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/Segf4ultk1nger.png" width="20" height="20"/> <a href="https://github.com/Segf4ultk1nger/">Segf4ultk1nger</a></td>
+</tr>
+</table>
+
+
+<div align="center">
+
+<br/>
+<br/>
+
+### ICC-RE
+
+[![stars](https://img.shields.io/github/stars/LiuYan-xwx/InkCanvasForClass-Remastered?style=flat&color=red)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/stargazers)
+[![forks](https://img.shields.io/github/forks/LiuYan-xwx/InkCanvasForClass-Remastered?style=flat&color=blue)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/forks)
+[![Watchers](https://img.shields.io/github/watchers/LiuYan-xwx/InkCanvasForClass-Remastered?style=flat&color=green)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/watchers)
+[![Downloads](https://img.shields.io/github/downloads/LiuYan-xwx/InkCanvasForClass-Remastered/total?style=flat&logo=github)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/LiuYan-xwx/InkCanvasForClass-Remastered?query=is%3Aopen&label=issues&color=purple)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/LiuYan-xwx/InkCanvasForClass-Remastered?style=flat)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/discussions)
+[![Created At](https://img.shields.io/github/created-at/LiuYan-xwx/InkCanvasForClass-Remastered)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/LiuYan-xwx/InkCanvasForClass-Remastered)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/LiuYan-xwx/InkCanvasForClass-Remastered)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/LiuYan-xwx/InkCanvasForClass-Remastered?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered)
+![GitHub License](https://img.shields.io/github/license/LiuYan-xwx/InkCanvasForClass-Remastered?color=red)
+
+</div>
+
+基于icc-0610fix进行二次开发的一款icc系软件。
+
+🏷 **关键词**：<br/>
+![ICC](https://img.shields.io/badge/ICC-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered/">LiuYan-xwx/InkCanvasForClass-Remastered</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/LiuYan-xwx.png" width="20" height="20"/> <a href="https://github.com/LiuYan-xwx/">LiuYan-xwx</a></td>
 </tr>
 </table>
 
@@ -3648,6 +3707,85 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/Happycola233.png" width="20" height="20"/> <a href="https://github.com/Happycola233/">Happycola233</a></td>
+</tr>
+</table>
+
+
+<div align="center">
+
+<br/>
+<br/>
+
+### 希沃白板5激活工具
+
+[![stars](https://img.shields.io/github/stars/YXC-Lhy/EasiNote-5-Crack-Tool?style=flat&color=red)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/stargazers)
+[![forks](https://img.shields.io/github/forks/YXC-Lhy/EasiNote-5-Crack-Tool?style=flat&color=blue)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/forks)
+[![Watchers](https://img.shields.io/github/watchers/YXC-Lhy/EasiNote-5-Crack-Tool?style=flat&color=green)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/watchers)
+[![Downloads](https://img.shields.io/github/downloads/YXC-Lhy/EasiNote-5-Crack-Tool/total?style=flat&logo=github)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/YXC-Lhy/EasiNote-5-Crack-Tool?query=is%3Aopen&label=issues&color=purple)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/YXC-Lhy/EasiNote-5-Crack-Tool?style=flat)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/discussions)
+[![Created At](https://img.shields.io/github/created-at/YXC-Lhy/EasiNote-5-Crack-Tool)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/YXC-Lhy/EasiNote-5-Crack-Tool)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/YXC-Lhy/EasiNote-5-Crack-Tool)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/YXC-Lhy/EasiNote-5-Crack-Tool?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool)
+![GitHub License](https://img.shields.io/github/license/YXC-Lhy/EasiNote-5-Crack-Tool?color=red)
+
+</div>
+
+一款用于激活希沃白板5至专业版的工具。
+🏷 **关键词**：<br/>
+![希沃白板](https://img.shields.io/badge/希沃白板-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/">YXC-Lhy/EasiNote-5-Crack-Tool</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/YXC-Lhy.png" width="20" height="20"/> <a href="https://github.com/YXC-Lhy/">YXC-Lhy</a></td>
+</tr>
+</table>
+
+
+<div align="center">
+
+<br/>
+<br/>
+
+### SeewoGadgets
+
+[![stars](https://img.shields.io/github/stars/Fengyec2/seewo-gadgets?style=flat&color=red)](https://github.com/Fengyec2/seewo-gadgets/stargazers)
+[![forks](https://img.shields.io/github/forks/Fengyec2/seewo-gadgets?style=flat&color=blue)](https://github.com/Fengyec2/seewo-gadgets/forks)
+[![Watchers](https://img.shields.io/github/watchers/Fengyec2/seewo-gadgets?style=flat&color=green)](https://github.com/Fengyec2/seewo-gadgets/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Fengyec2/seewo-gadgets/total?style=flat&logo=github)](https://github.com/Fengyec2/seewo-gadgets/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Fengyec2/seewo-gadgets?query=is%3Aopen&label=issues&color=purple)](https://github.com/Fengyec2/seewo-gadgets/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Fengyec2/seewo-gadgets?style=flat)](https://github.com/Fengyec2/seewo-gadgets/discussions)
+[![Created At](https://img.shields.io/github/created-at/Fengyec2/seewo-gadgets)](https://github.com/Fengyec2/seewo-gadgets)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Fengyec2/seewo-gadgets)](https://github.com/Fengyec2/seewo-gadgets/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Fengyec2/seewo-gadgets)](https://github.com/Fengyec2/seewo-gadgets)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Fengyec2/seewo-gadgets?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/Fengyec2/seewo-gadgets)
+![GitHub License](https://img.shields.io/github/license/Fengyec2/seewo-gadgets?color=red)
+
+</div>
+
+希沃一体机实用小工具与资源合集。
+
+🏷 **关键词**：<br/>
+![实用工具](https://img.shields.io/badge/实用工具-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/Fengyec2/seewo-gadgets/">Fengyec2/seewo-gadgets</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/Fengyec2.png" width="20" height="20"/> <a href="https://github.com/Fengyec2/">Fengyec2</a></td>
 </tr>
 </table>
 
