@@ -173,6 +173,7 @@
 | 🔴 [蓝屏抽奖机](#蓝屏抽奖机) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lanpinggai666/lanpingChouJiang?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lanpinggai666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lanpinggai666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lanpinggai666">lanpinggai666</a> |
 | 🔴 [考试倒计时桌面小工具](#考试倒计时桌面小工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Zpcin/ExaminationCountdown?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Zpcin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Zpcin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Zpcin">Zpcin</a> |
 | 🔴 [国家中小学智慧教育平台电子课本下载工具](#国家中小学智慧教育平台电子课本下载工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/happycola233/tchMaterial-parser?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/happycola233.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/happycola233.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/happycola233">happycola233</a> |
+| 🔴 [希沃白板5激活工具](#希沃白板5激活工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/YXC-Lhy/EasiNote-5-Crack-Tool?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/YXC-Lhy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/YXC-Lhy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/YXC-Lhy">YXC-Lhy</a> |
 
 
 <br/>
@@ -3648,6 +3649,45 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/Happycola233.png" width="20" height="20"/> <a href="https://github.com/Happycola233/">Happycola233</a></td>
+</tr>
+</table>
+
+
+<div align="center">
+
+<br/>
+<br/>
+
+### 希沃白板5激活工具
+
+[![stars](https://img.shields.io/github/stars/YXC-Lhy/EasiNote-5-Crack-Tool?style=flat&color=red)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/stargazers)
+[![forks](https://img.shields.io/github/forks/YXC-Lhy/EasiNote-5-Crack-Tool?style=flat&color=blue)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/forks)
+[![Watchers](https://img.shields.io/github/watchers/YXC-Lhy/EasiNote-5-Crack-Tool?style=flat&color=green)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/watchers)
+[![Downloads](https://img.shields.io/github/downloads/YXC-Lhy/EasiNote-5-Crack-Tool/total?style=flat&logo=github)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/YXC-Lhy/EasiNote-5-Crack-Tool?query=is%3Aopen&label=issues&color=purple)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/YXC-Lhy/EasiNote-5-Crack-Tool?style=flat)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/discussions)
+[![Created At](https://img.shields.io/github/created-at/YXC-Lhy/EasiNote-5-Crack-Tool)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/YXC-Lhy/EasiNote-5-Crack-Tool)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/YXC-Lhy/EasiNote-5-Crack-Tool)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/YXC-Lhy/EasiNote-5-Crack-Tool?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool)
+![GitHub License](https://img.shields.io/github/license/YXC-Lhy/EasiNote-5-Crack-Tool?color=red)
+
+</div>
+
+一款用于激活希沃白板5至专业版的工具。
+🏷 **关键词**：<br/>
+![希沃白板](https://img.shields.io/badge/希沃白板-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/YXC-Lhy/EasiNote-5-Crack-Tool/">YXC-Lhy/EasiNote-5-Crack-Tool</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/YXC-Lhy.png" width="20" height="20"/> <a href="https://github.com/YXC-Lhy/">YXC-Lhy</a></td>
 </tr>
 </table>
 
