@@ -3777,6 +3777,8 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 
 ### Kazuha万叶演示助手
 
+![banner](./banner/Kazuha-Banner.png)
+
 [![stars](https://img.shields.io/github/stars/Haraguse/Kazuha?style=flat&color=red)](https://github.com/Haraguse/Kazuha/stargazers)
 [![forks](https://img.shields.io/github/forks/Haraguse/Kazuha?style=flat&color=blue)](https://github.com/Haraguse/Kazuha/forks)
 [![Watchers](https://img.shields.io/github/watchers/Haraguse/Kazuha?style=flat&color=green)](https://github.com/Haraguse/Kazuha/watchers)
