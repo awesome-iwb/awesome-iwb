@@ -3775,7 +3775,7 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 
 <img src="./images/kazuha-icon.svg" width="56" height="56"/>
 
-### Kazuha万叶演示助手
+### Kazuha
 
 ![banner](./banner/Kazuha-Banner.png)
 
