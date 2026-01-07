@@ -3880,6 +3880,11 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 
 ## 💗 友情链接
 
+- [iNKORE!](https://inkore.net/) - iNKORE! 官方网站
+  本集合收录的部分项目使用了 iNKORE.UI.WPF.Modern 作为其 UI 库。
+  <a href=" ">
+    < img src="https://github.com/iNKORE-NET/UI.WPF.Modern/blob/main/assets/images/badges/UI.WPF.Modern_Main_Button.svg?raw=true" alt="iNKORE.UI.WPF.Modern">
+  </a >
 - [PhosoftWebPages](https://psoft.eu.org/) - 溪夏坡Zpcin 的个人网站
 - [Jursin的导航站](https://nav.jursin.top/) - ACS、实用工具、资源网站导航站
 - [宏星工作室｜MacroSTAR](https://macrostar.top/) - 宏星工作室官方网站，满天星光，终将汇聚宏伟星河！
