@@ -54,7 +54,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/awesome-iwb/awesome-iwb&label=Visitors&countColor=%23263759&style=flat)
-![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2026%E5%B9%B41%E6%9C%8810%E6%97%A5-orange)
+![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2026%E5%B9%B41%E6%9C%8811%E6%97%A5-orange)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201004548404-white?style=flat&logo=qq)](https://qm.qq.com/q/im8ZtJpkZy)
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/e21726d2782bb081ef5d8f89360f1ed0d93af4ef.svg "Repobeats analytics image")
 
@@ -2431,7 +2431,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 
 极域工具包，支持多种控制极域以及学生机房管理助手的工具。`StudentMain`、`Mythware`、`Jiyu`，支持不依赖 `taskkill`、`ntsd` 等工具杀掉极域。极域未运行时可启动极域，降权到登录用户（路径来自注册表），可显示极域存活状态、解除极域网络限制功能、解除极域 U 盘限制功能、窗口化/全屏化极域广播，支持解极域键盘锁。
 
-**因为我们学校的教室电脑被安装了极域学生端用于集控，找到了这个项目，帮助很大。**
+**因为~~我们学校~~dubi906w（防歧义更正，2026.1.11）的教室电脑被安装了极域学生端用于集控，找到了这个项目，帮助很大。**
 
 <table align="center">
 <tr>
@@ -2836,7 +2836,7 @@ Rand 是一款简洁、现代化、易用的抽号软件，专为触摸屏设备
 [![stars](https://img.shields.io/github/stars/NamePickerOrg/NamePicker?style=flat&color=red)](https://github.com/NamePickerOrg/NamePicker/stargazers)
 [![forks](https://img.shields.io/github/forks/NamePickerOrg/NamePicker?style=flat&color=blue)](https://github.com/NamePickerOrg/NamePicker/forks)
 [![Watchers](https://img.shields.io/github/watchers/NamePickerOrg/NamePicker?style=flat&color=green)](https://github.com/NamePickerOrg/NamePicker/watchers)
-[![Downloads](https://img.shields.io/github/downloads/NamePickerOrg/NamePicker/total?style=flat&logo=github)](https://github.com/NamePickerOrg/NamePicker/releases)<br/>
+[![下载s](https://img.shields.io/github/downloads/NamePickerOrg/NamePicker/total?style=flat&logo=github)](https://github.com/NamePickerOrg/NamePicker/releases)<br/>
 [![GitHub Issues](https://img.shields.io/github/issues-search/NamePickerOrg/NamePicker?query=is%3Aopen&label=issues&color=purple)](https://github.com/NamePickerOrg/NamePicker/issues)
 [![GitHub Discussions](https://img.shields.io/github/discussions/NamePickerOrg/NamePicker?style=flat)](https://github.com/NamePickerOrg/NamePicker/discussions)
 [![Created At](https://img.shields.io/github/created-at/NamePickerOrg/NamePicker)](https://github.com/NamePickerOrg/NamePicker)
@@ -2885,7 +2885,7 @@ NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基�
 [![stars](https://img.shields.io/github/stars/HUSX100/IslandCaller?style=flat&color=red)](https://github.com/HUSX100/IslandCaller/stargazers)
 [![forks](https://img.shields.io/github/forks/HUSX100/IslandCaller?style=flat&color=blue)](https://github.com/HUSX100/IslandCaller/forks)
 [![Watchers](https://img.shields.io/github/watchers/HUSX100/IslandCaller?style=flat&color=green)](https://github.com/HUSX100/IslandCaller/watchers)
-[![Downloads](https://img.shields.io/github/downloads/HUSX100/IslandCaller/total?style=flat&logo=github)](https://github.com/HUSX100/IslandCaller/releases)<br/>
+[![下载s](https://img.shields.io/github/downloads/HUSX100/IslandCaller/total?style=flat&logo=github)](https://github.com/HUSX100/IslandCaller/releases)<br/>
 [![GitHub Issues](https://img.shields.io/github/issues-search/HUSX100/IslandCaller?query=is%3Aopen&label=issues&color=purple)](https://github.com/HUSX100/IslandCaller/issues)
 [![GitHub Discussions](https://img.shields.io/github/discussions/HUSX100/IslandCaller?style=flat)](https://github.com/HUSX100/IslandCaller/discussions)
 [![Created At](https://img.shields.io/github/created-at/HUSX100/IslandCaller)](https://github.com/HUSX100/IslandCaller)
@@ -2922,7 +2922,7 @@ NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基�
 
 ### SecRandom
 
-![banner](https://forum.smart-teach.cn/assets/files/2025-06-07/1749311172-363995-cce7f258-8151-4889-a37b-a185ad59b377.png)
+![banner](https://github.com/SECTL/SecRandom/blob/master/resources/ScreenShots/zh-cn/pick.png)
 
 
 
