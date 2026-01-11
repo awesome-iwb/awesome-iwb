@@ -101,6 +101,7 @@
 | [ppInk](#ppink) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pubpub-zz/ppInk?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/pubpub-zz">pubpub-zz</a> |
 |  [Ink Canvas Better](#ink-canvas-better) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BaiYang2238/Ink-Canvas-Better?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">BaiYang2238</a> |
 |  [ShowWrite视频展台](#showwrite视频展台) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwcrdrvf6u/ShowWrite?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/wwcrdrvf6u">wwcrdrvf6u</a> |
+| 🔴 [LanStartWrite](#LanStartWrite) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwiinnddyy/LanStartWrite?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwiinnddyy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwiinnddyy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/wwiinnddyy">wwiinnddyy</a> |
 
 
 
@@ -805,39 +806,49 @@ ShowWrite 是一款为视频展台、直播教学等场景设计的软件，支�
 <br/>
 <br/>
 
-<img src="./images/kazuha-icon.svg" width="56" height="56"/>
+### LanStartWrite
 
-### Kazuha万叶演示助手
 
-[![stars](https://img.shields.io/github/stars/Haraguse/Kazuha?style=flat&color=red)](https://github.com/Haraguse/Kazuha/stargazers)
-[![forks](https://img.shields.io/github/forks/Haraguse/Kazuha?style=flat&color=blue)](https://github.com/Haraguse/Kazuha/forks)
-[![Watchers](https://img.shields.io/github/watchers/Haraguse/Kazuha?style=flat&color=green)](https://github.com/Haraguse/Kazuha/watchers)
-[![Downloads](https://img.shields.io/github/downloads/Haraguse/Kazuha/total?style=flat&logo=github)](https://github.com/Haraguse/Kazuha/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/Haraguse/Kazuha?query=is%3Aopen&label=issues&color=purple)](https://github.com/Haraguse/Kazuha/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/Haraguse/Kazuha?style=flat)](https://github.com/Haraguse/Kazuha/discussions)
-[![Created At](https://img.shields.io/github/created-at/Haraguse/Kazuha)](https://github.com/Haraguse/Kazuha)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Haraguse/Kazuha)](https://github.com/Haraguse/Kazuha/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/Haraguse/Kazuha)](https://github.com/Haraguse/Kazuha)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/Haraguse/Kazuha)](https://github.com/Haraguse/Kazuha)
-![GitHub License](https://img.shields.io/github/license/Haraguse/Kazuha?color=red)
+
+[![stars](https://img.shields.io/github/stars/wwiinnddyy/LanStartWrite?style=flat&color=red)](https://github.com/wwiinnddyy/LanStartWrite/stargazers)
+[![forks](https://img.shields.io/github/forks/wwiinnddyy/LanStartWrite?style=flat&color=blue)](https://github.com/wwiinnddyy/LanStartWrite/forks)
+[![Watchers](https://img.shields.io/github/watchers/wwiinnddyy/LanStartWrite?style=flat&color=green)](https://github.com/wwiinnddyy/LanStartWrite/watchers)
+[![Downloads](https://img.shields.io/github/downloads/wwiinnddyy/LanStartWrite/total?style=flat&logo=github)](https://github.com/wwiinnddyy/LanStartWrite/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/wwiinnddyy/LanStartWrite?query=is%3Aopen&label=issues&color=purple)](https://github.com/wwiinnddyy/LanStartWrite/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/wwiinnddyy/LanStartWrite?style=flat)](https://github.com/wwiinnddyy/LanStartWrite/discussions)
+[![Created At](https://img.shields.io/github/created-at/wwiinnddyy/LanStartWrite)](https://github.com/wwiinnddyy/LanStartWrite)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/wwiinnddyy/LanStartWrite)](https://github.com/wwiinnddyy/LanStartWrite/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/wwiinnddyy/LanStartWrite)](https://github.com/wwiinnddyy/LanStartWrite)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/wwiinnddyy/LanStartWrite?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/wwiinnddyy/LanStartWrite)
+![GitHub License](https://img.shields.io/github/license/wwiinnddyy/LanStartWrite?color=red)
 
 </div>
 
-一款用于演示软件上的批注工具。
+**LanStartWrite** 是一款基于 Electron 的书写应用（采用vibe coding），其集成了高性能书写画布、智能图形识别与强大的 `.lanmod` 插件系统。支持白板创作与透明批注双模式切换，旨在为用户提供极致流畅的数字化书写与教学演示体验。（项目处于起步阶段，请评估后使用）
 
 🏷 **关键词**：<br/>
-![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
+![Electron](https://img.shields.io/badge/Electron-white)
+![智能图形识别](https://img.shields.io/badge/智能图形识别-white)
+![多页管理](https://img.shields.io/badge/多页管理-white)
+![插件系统](https://img.shields.io/badge/插件系统-white)
+![批注模式](https://img.shields.io/badge/批注模式-white)
+![多点触控](https://img.shields.io/badge/多点触控-white)
+![开源](https://img.shields.io/badge/开源-white)
+![Windows](https://img.shields.io/badge/Windows-white)
+
+
+
 
 <table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/Haraguse/Kazuha/">Haraguse/Kazuha</a></td>
+    <td><a href="https://github.com/wwiinnddyy/LanStartWrite/">wwiinnddyy/LanStartWrite</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
-    <td><img src="https://github.com/Haraguse.png" width="20" height="20"/> <a href="https://github.com/Haraguse/">Haraguse</a></td>
+    <td><img src="https://github.com/wwiinnddyy.png" width="20" height="20"/> <a href="https://github.com/wwiinnddyy/">wwiinnddyy</a></td>
 </tr>
 </table>
 
