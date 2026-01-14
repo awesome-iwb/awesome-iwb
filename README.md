@@ -52,10 +52,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
-![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/awesome-iwb/awesome-iwb&label=Visitors&countColor=%23263759&style=flat)
-![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2026%E5%B9%B41%E6%9C%8811%E6%97%A5-orange)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201004548404-white?style=flat&logo=qq)](https://qm.qq.com/q/im8ZtJpkZy)
+![最新更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgh-api.jursin.top%2Fapi%2Fgithub%2Frepos%2FAwesome-iwb%2Fawesome-iwb%2Flast_commit%3Fdate%3Dlong%26time%3Dshort&query=formatted&label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)
+[![交流群](https://img.shields.io/badge/%E4%BA%A4%E6%B5%81%E7%BE%A4%20-1004548404-blue?style=flat&logo=qq&logoColor=white)](https://qm.qq.com/q/im8ZtJpkZy)
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/e21726d2782bb081ef5d8f89360f1ed0d93af4ef.svg "Repobeats analytics image")
 
 </div>
@@ -3987,7 +3986,8 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
   <image src="https://github.com/iNKORE-NET/UI.WPF.Modern/blob/main/assets/images/badges/UI.WPF.Modern_Main_Button.svg?raw=true" alt="iNKORE.UI.WPF.Modern"/>
 
 - [PhosoftWebPages](https://psoft.eu.org/) - 溪夏坡Zpcin 的个人网站
-- [Jursin的导航站](https://nav.jursin.top/) - ACS、实用工具、资源网站导航站
+- [Awesome-Class-Softwares](https://acs.jursin.top/) - Awesome-Class-Softwares 网站
+- [Jursin's Blog](https://blog.jursin.top/) - Jursin 的博客
 - [宏星工作室｜MacroSTAR](https://macrostar.top/) - 宏星工作室官方网站，满天星光，终将汇聚宏伟星河！
 - [电教委员指南](https://cnel.smart-teach.cn/) - 做一名优秀的电教委员
 
@@ -4006,7 +4006,7 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 
 ## 👋 同类项目推荐
 
-[![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
+[![Jursin/Awesome-Class-Softwares](https://github-readme-stats-indol-phi-94.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
 
 ## Copyright
 
