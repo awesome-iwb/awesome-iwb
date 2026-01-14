@@ -3987,7 +3987,8 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
   <image src="https://github.com/iNKORE-NET/UI.WPF.Modern/blob/main/assets/images/badges/UI.WPF.Modern_Main_Button.svg?raw=true" alt="iNKORE.UI.WPF.Modern"/>
 
 - [PhosoftWebPages](https://psoft.eu.org/) - 溪夏坡Zpcin 的个人网站
-- [Jursin的导航站](https://nav.jursin.top/) - ACS、实用工具、资源网站导航站
+- [Awesome-Class-Softwares](https://acs.jursin.top/) - Awesome-Class-Softwares 网站
+- [Jursin's Blog](https://blog.jursin.top/) - Jursin 的博客
 - [宏星工作室｜MacroSTAR](https://macrostar.top/) - 宏星工作室官方网站，满天星光，终将汇聚宏伟星河！
 - [电教委员指南](https://cnel.smart-teach.cn/) - 做一名优秀的电教委员
 
@@ -4006,7 +4007,7 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 
 ## 👋 同类项目推荐
 
-[![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
+[![Jursin/Awesome-Class-Softwares](https://github-readme-stats-indol-phi-94.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
 
 ## Copyright
 
