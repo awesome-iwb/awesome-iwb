@@ -52,10 +52,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
-![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/awesome-iwb/awesome-iwb&label=Visitors&countColor=%23263759&style=flat)
-![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2026%E5%B9%B41%E6%9C%8811%E6%97%A5-orange)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201004548404-white?style=flat&logo=qq)](https://qm.qq.com/q/im8ZtJpkZy)
+![最新更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgh-api.jursin.top%2Fapi%2Fgithub%2Frepos%2FAwesome-iwb%2Fawesome-iwb%2Flast_commit%3Fdate%3Dlong%26time%3Dshort&query=formatted&label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)
+[![交流群](https://img.shields.io/badge/%E4%BA%A4%E6%B5%81%E7%BE%A4%20-1004548404-blue?style=flat&logo=qq&logoColor=white)](https://qm.qq.com/q/im8ZtJpkZy)
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/e21726d2782bb081ef5d8f89360f1ed0d93af4ef.svg "Repobeats analytics image")
 
 </div>
