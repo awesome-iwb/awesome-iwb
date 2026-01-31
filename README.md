@@ -181,6 +181,7 @@
 | 🌟 [Kazuha](#Kazuha) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Yunofactory/Kazuha?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Haraguse.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Haraguse.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Haraguse">Haraguse</a> |
 | 🔴 [ClassWindow](#ClassWindow) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/xinghai-smartedu/classwindow?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xinghai-smartedu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/xinghai-smartedu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/xinghai-smartedu">xinghai-smartedu</a> |
 | 🔴 [C30 智能教学自动登录工具](#C30-智能教学自动登录工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/WSXYT/C30Auto-login?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WSXYT">WSXYT</a> |
+| 🔴 [ClassScreenLock](#ClassScreenLock) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/jiugulixiaoniu/ClassScreenLock?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/jiugulixiaoniu">jiugulixiaoniu</a> |
 
 <br/>
 
@@ -3980,6 +3981,61 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
     <td><picture><source media="(prefers-color-scheme: dark)" srcset="github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture> <a href="https://github.com/WSXYT">WSXYT</a></td>
 </tr>
 </table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+
+
+### ClassScreenLock
+
+![banner](./banner/ClassScreenLock.png)
+
+[![stars](https://img.shields.io/github/stars/jiugulixiaoniu/ClassScreenLock?style=flat&color=red)](https://github.com/jiugulixiaoniu/ClassScreenLock/stargazers)
+[![forks](https://img.shields.io/github/forks/jiugulixiaoniu/ClassScreenLock?style=flat&color=blue)](https://github.com/jiugulixiaoniu/ClassScreenLock/forks)
+[![Watchers](https://img.shields.io/github/watchers/jiugulixiaoniu/ClassScreenLock?style=flat&color=green)](https://github.com/jiugulixiaoniu/ClassScreenLock/watchers)
+[![Downloads](https://img.shields.io/github/downloads/jiugulixiaoniu/ClassScreenLock/total?style=flat&logo=github)](https://github.com/jiugulixiaoniu/ClassScreenLock/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/jiugulixiaoniu/ClassScreenLock?query=is%3Aopen&label=issues&color=purple)](https://github.com/jiugulixiaoniu/ClassScreenLock/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/jiugulixiaoniu/ClassScreenLock?style=flat)](https://github.com/jiugulixiaoniu/ClassScreenLock/discussions)
+[![Created At](https://img.shields.io/github/created-at/jiugulixiaoniu/ClassScreenLock)](https://github.com/jiugulixiaoniu/ClassScreenLock)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/jiugulixiaoniu/ClassScreenLock)](https://github.com/jiugulixiaoniu/ClassScreenLock/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/jiugulixiaoniu/ClassScreenLock)](https://github.com/jiugulixiaoniu/ClassScreenLock)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/jiugulixiaoniu/ClassScreenLock)](https://github.com/jiugulixiaoniu/ClassScreenLock)
+![GitHub License](https://img.shields.io/github/license/jiugulixiaoniu/ClassScreenLock?color=red)
+
+</div>
+
+ClassScreenLock是一款防止无计算机基础的学生会在下课/放学后对计算机进行操作而造成不必要的麻烦的软件，使用本软件可便于课堂的管控。
+
+🏷 **关键词**：<br/>
+![教育科技](https://img.shields.io/badge/教育科技-white)
+![屏幕锁](https://img.shields.io/badge/屏幕锁-white)
+![课堂管控](https://img.shields.io/badge/课堂管控-white)
+![开源工具](https://img.shields.io/badge/开源工具-white)
+![Windows工具](https://img.shields.io/badge/Windows工具-white)
+![教师必备](https://img.shields.io/badge/教师必备-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/jiugulixiaoniu/ClassScreenLock/">jiugulixiaoniu/ClassScreenLock</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/jiugulixiaoniu.png" width="20" height="20"/> <a href="https://github.com/jiugulixiaoniu/">jiugulixiaoniu</a></td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<br/>
+<br/>
 
 
 ## 🙏 贡献者和特别感谢
