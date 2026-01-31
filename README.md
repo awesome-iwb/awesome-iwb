@@ -54,7 +54,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/awesome-iwb/awesome-iwb&label=Visitors&countColor=%23263759&style=flat)
-![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2026%E5%B9%B41%E6%9C%8811%E6%97%A5-orange)
+![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2026%E5%B9%B41%E6%9C%8831%E6%97%A5-orange)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201004548404-white?style=flat&logo=qq)](https://qm.qq.com/q/im8ZtJpkZy)
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/e21726d2782bb081ef5d8f89360f1ed0d93af4ef.svg "Repobeats analytics image")
 
@@ -147,7 +147,7 @@
 | [OpenLuckyRandom](#openluckyrandom) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/WhatDamon/OpenLuckyRandom?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WhatDamon.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WhatDamon.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WhatDamon">WhatDamon</a> |
 | [MythwareToolkit](#mythwaretoolkit) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BengbuGuards/MythwareToolkit?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BengbuGuards.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BengbuGuards.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BengbuGuards">BengbuGuards</a> |
 | 🥈 [ENAL 希沃易登](#enal-希沃易登) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=https://raw.githubusercontent.com/awesome-iwb/awesome-iwb/master/images/xiaocuitang-avatar.png&v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/awesome-iwb/awesome-iwb/master/images/xiaocuitang-avatar.png&v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://i.iceawa.com/">Xiaocuitang</a> |
-|  [Auto Login for EasiNote](#auto-login-for-easinote) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/hxabcd/auto-login-for-easinote?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/hxabcd.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/hxabcd.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/hxabcd">hxabcd</a> |
+|  [EasiAuto](#EasiAuto) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/hxabcd/EasiAuto?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/hxabcd.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/hxabcd.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/hxabcd">hxabcd</a> |
 | [ExCaller](#ex-caller) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/typed-sigterm/ex-caller?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/typed-sigterm.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/typed-sigterm.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/typed-sigterm">typed-sigterm</a> |
 | [ClassNamePicker](#classnamepicker) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Chengzi600/ClassNamePicker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Chengzi600.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Chengzi600.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Chengzi600">Chengzi600</a> |
 | [SectionIstool](#sectionistool) ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lzy98276.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lzy98276.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lzy98276">lzy98276</a> |
@@ -180,6 +180,7 @@
 | 🔴 [SeewoGadgets](#SeewoGadgets) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/fengyec2/seewo-gadgets?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/fengyec2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/fengyec2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/fengyec2">fengyec2</a> |
 | 🌟 [Kazuha](#Kazuha) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Yunofactory/Kazuha?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Haraguse.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Haraguse.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Haraguse">Haraguse</a> |
 | 🔴 [ClassWindow](#ClassWindow) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/xinghai-smartedu/classwindow?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xinghai-smartedu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/xinghai-smartedu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/xinghai-smartedu">xinghai-smartedu</a> |
+| 🔴 [C30 智能教学自动登录工具](#C30-智能教学自动登录工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/WSXYT/C30Auto-login?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WSXYT">WSXYT</a> |
 
 <br/>
 
@@ -2503,25 +2504,27 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 <br/>
 <br/>
 
-### Auto Login for EasiNote
+<img src="./images/easiauto.ico" height="56"/> 
 
-![banner](./banner/EasiAuto-banner.png)
+### EasiAuto
 
-[![stars](https://img.shields.io/github/stars/hxabcd/auto-login-for-easinote?style=flat&color=red)](https://github.com/hxabcd/auto-login-for-easinote/stargazers)
-[![forks](https://img.shields.io/github/forks/hxabcd/auto-login-for-easinote?style=flat&color=blue)](https://github.com/hxabcd/auto-login-for-easinote/forks)
-[![Watchers](https://img.shields.io/github/watchers/hxabcd/auto-login-for-easinote?style=flat&color=green)](https://github.com/hxabcd/auto-login-for-easinote/watchers)
-[![Downloads](https://img.shields.io/github/downloads/hxabcd/auto-login-for-easinote/total?style=flat&logo=github)](https://github.com/hxabcd/auto-login-for-easinote/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/hxabcd/auto-login-for-easinote?query=is%3Aopen&label=issues&color=purple)](https://github.com/hxabcd/auto-login-for-easinote/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/hxabcd/auto-login-for-easinote?style=flat)](https://github.com/hxabcd/auto-login-for-easinote/discussions)
-[![创建d At](https://img.shields.io/github/created-at/hxabcd/auto-login-for-easinote)](https://github.com/hxabcd/auto-login-for-easinote)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/hxabcd/auto-login-for-easinote)](https://github.com/hxabcd/auto-login-for-easinote/commits/main)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/hxabcd/auto-login-for-easinote)](https://github.com/hxabcd/auto-login-for-easinote)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/hxabcd/auto-login-for-easinote)](https://github.com/hxabcd/auto-login-for-easinote)
-![GitHub License](https://img.shields.io/github/license/hxabcd/auto-login-for-easinote?color=red)
+![banner](./banner/EasiAutoPoster.png)
+
+[![stars](https://img.shields.io/github/stars/hxabcd/EasiAuto?style=flat&color=red)](https://github.com/hxabcd/EasiAuto/stargazers)
+[![forks](https://img.shields.io/github/forks/hxabcd/EasiAuto?style=flat&color=blue)](https://github.com/hxabcd/EasiAuto/forks)
+[![Watchers](https://img.shields.io/github/watchers/hxabcd/EasiAuto?style=flat&color=green)](https://github.com/hxabcd/EasiAuto/watchers)
+[![Downloads](https://img.shields.io/github/downloads/hxabcd/EasiAuto/total?style=flat&logo=github)](https://github.com/hxabcd/EasiAuto/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/hxabcd/EasiAuto?query=is%3Aopen&label=issues&color=purple)](https://github.com/hxabcd/EasiAuto/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/hxabcd/EasiAuto?style=flat)](https://github.com/hxabcd/EasiAuto/discussions)
+[![创建d At](https://img.shields.io/github/created-at/hxabcd/EasiAuto)](https://github.com/hxabcd/EasiAuto)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/hxabcd/EasiAuto)](https://github.com/hxabcd/EasiAuto/commits/main)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/hxabcd/EasiAuto)](https://github.com/hxabcd/EasiAuto)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/hxabcd/EasiAuto)](https://github.com/hxabcd/EasiAuto)
+![GitHub License](https://img.shields.io/github/license/hxabcd/EasiAuto?color=red)
 
 </div>
 
-Auto Login for EasiNote 是一个轻量级 CLI 工具，用 Python 编写，专门用于**一键自动登录希沃白板**。它基于 PyAutoGUI 实现图像识别与自动点击，能在希沃一体机或 Windows 电脑上完成账号密码输入与登录操作。支持与 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 的「自动化」功能联动，实现**按课表自动切换老师账号**，大大提升课堂效率。
+EasiAuto 是一个轻量级 CLI 工具，用 Python 编写，专门用于**一键自动登录希沃白板**。它基于 PyAutoGUI 实现图像识别与自动点击，能在希沃一体机或 Windows 电脑上完成账号密码输入与登录操作。支持与 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 的「自动化」功能联动，实现**按课表自动切换老师账号**，大大提升课堂效率。
 
 项目已在一台 Windows 10 希沃一体机上长期实测，稳定性良好；如遇误触打断，工具会自动重试。提供 4K 适配、登录前预警提示、日志输出等贴心选项，满足不同教学场景需求。
 
@@ -2538,7 +2541,7 @@ Auto Login for EasiNote 是一个轻量级 CLI 工具，用 Python 编写，专�
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/hxabcd/auto-login-for-easinote">hxabcd/auto-login-for-easinote</a></td>
+    <td><a href="https://github.com/hxabcd/EasiAuto">hxabcd/EasiAuto</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -3910,12 +3913,12 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 `ClassWindow`是一个美丽，精巧的用于班级的桌面悬浮窗，基于Electron构建，用于显示信息等
 
 🏷 **关键词**：<br/>
-![教育科技](https://img.shields.io/badge/教育科技-EDTech-blue)
-![屏幕批注](https://img.shields.io/badge/屏幕批注-Screen_Annotation-orange)
-![课堂互动](https://img.shields.io/badge/课堂互动-Interactive_Class-success)
-![开源工具](https://img.shields.io/badge/开源工具-Open_Source-brightgreen)
-![Windows工具](https://img.shields.io/badge/Windows-Utility-lightgrey)
-![教师必备](https://img.shields.io/badge/教师必备-Teacher_Tool-red)
+![教育科技](https://img.shields.io/badge/教育科技-white)
+![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
+![课堂互动](https://img.shields.io/badge/课堂互动-white)
+![开源工具](https://img.shields.io/badge/开源工具-white)
+![Windows工具](https://img.shields.io/badge/Windows工具-white)
+![教师必备](https://img.shields.io/badge/教师必备-white)
 
 <table align="center">
 <tr>
@@ -3931,6 +3934,52 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 </table>
 
 </div>
+
+<div align="center">
+
+<br/>
+<br/>
+
+
+
+
+### C30 智能教学自动登录工具
+
+[![stars](https://img.shields.io/github/stars/WSXYT/C30Auto-login?style=flat&color=red)](https://github.com/WSXYT/C30Auto-login/stargazers)
+[![forks](https://img.shields.io/github/forks/WSXYT/C30Auto-login?style=flat&color=blue)](https://github.com/WSXYT/C30Auto-login/forks)
+[![Watchers](https://img.shields.io/github/watchers/WSXYT/C30Auto-login?style=flat&color=green)](https://github.com/WSXYT/C30Auto-login/watchers)
+[![Downloads](https://img.shields.io/github/downloads/WSXYT/C30Auto-login/total?style=flat&logo=github)](https://github.com/WSXYT/C30Auto-login/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/WSXYT/C30Auto-login?query=is%3Aopen&label=issues&color=purple)](https://github.com/WSXYT/C30Auto-login/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/WSXYT/C30Auto-login?style=flat)](https://github.com/WSXYT/C30Auto-login/discussions)
+[![Created At](https://img.shields.io/github/created-at/WSXYT/C30Auto-login)](https://github.com/WSXYT/C30Auto-login)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/WSXYT/C30Auto-login)](https://github.com/WSXYT/C30Auto-login/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/WSXYT/C30Auto-login)](https://github.com/WSXYT/C30Auto-login)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/WSXYT/C30Auto-login)](https://github.com/WSXYT/C30Auto-login)
+![GitHub License](https://img.shields.io/github/license/WSXYT/C30Auto-login?color=red)
+
+</div>
+
+一个基于 图像识别（OpenCV） 与 自动化控制（PyAutoGUI/SendInput） 的  C30 教学软件自动登录工具 。专为简化教室场景下的日常登录流程而设计，支持自动降级匹配、输入框回退定位以及完善的异常处理。
+
+🏷 **关键词**：<br/>
+![自动登录](https://img.shields.io/badge/自动登录-white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white)
+![自动化控制](https://img.shields.io/badge/自动化控制-white)
+![C30教学软件](https://img.shields.io/badge/C30教学软件-white)
+![Python](https://img.shields.io/badge/Python-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/WSXYT/C30Auto-login">WSXYT/C30Auto-login</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>WSXYT</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture> <a href="https://github.com/WSXYT">WSXYT</a></td>
+</tr>
+</table>
 
 
 ## 🙏 贡献者和特别感谢
