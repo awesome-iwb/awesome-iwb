@@ -54,7 +54,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/awesome-iwb/awesome-iwb&label=Visitors&countColor=%23263759&style=flat)
-![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2026%E5%B9%B41%E6%9C%8831%E6%97%A5-orange)
+![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2026%E5%B9%B42%E6%9C%881%E6%97%A5-orange)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201004548404-white?style=flat&logo=qq)](https://qm.qq.com/q/im8ZtJpkZy)
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/e21726d2782bb081ef5d8f89360f1ed0d93af4ef.svg "Repobeats analytics image")
 
@@ -110,7 +110,7 @@
 | 名称 | 开发者 |
 | - | - |
 | 🥇 [ClassIsland](#classisland) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ClassIsland/ClassIsland?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/HelloWRC.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/HelloWRC.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/HelloWRC">HelloWRC</a> |
-| 🥇 [ZongziTEK 黑板贴](#zongzitek-黑板贴) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/STBBRD/ZongziTEK-Blackboard-Sticker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/STBBRD.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/STBBRD.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/STBBRD">STBBRD</a> |
+| 🥇 [ZongziTEK 黑板贴](#zongzitek-黑板贴) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ZongziTEK/ZongziTEK-Blackboard-Sticker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/ZongziTEK.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/ZongziTEK.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/ZongziTEK">ZongziTEK</a> |
 | 🌟 [Sticky-attention](#sticky-attention) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Sticky-attention/Sticky-attention?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/jizilin6732.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/jizilin6732.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/jizilin6732">jizilin6732</a> |
 | 🥈 [考试看板](#考试看板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ExamAware/dsz-exam-showboard?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Hello8693.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Hello8693.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Hello8693">Hello8693</a> |
 | 🌟 [ExtraIsland](#extraisland) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/LiPolymer/ExtraIsland?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/LiPolymer.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/LiPolymer.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/LiPolymer">LiPolymer</a> |
@@ -926,7 +926,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 <br/>
 <br/>
 
-<img src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/raw/master/ZongziTEK_Blackboard_Sticker/%E9%BB%91%E6%9D%BF%E8%B4%B4.png?raw=true" width="56" height="56"/> 
+<img src="https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker/raw/master/ZongziTEK_Blackboard_Sticker/%E9%BB%91%E6%9D%BF%E8%B4%B4.png?raw=true" width="56" height="56"/> 
 
 ### ZongziTEK 黑板贴
 
@@ -934,17 +934,17 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 ![FDS](https://img.shields.io/badge/Fluent%20UI-003E92)
-[![stars](https://img.shields.io/github/stars/STBBRD/ZongziTEK-Blackboard-Sticker?style=flat&color=red)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/stargazers)
-[![forks](https://img.shields.io/github/forks/STBBRD/ZongziTEK-Blackboard-Sticker?style=flat&color=blue)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/forks)
-[![Watchers](https://img.shields.io/github/watchers/STBBRD/ZongziTEK-Blackboard-Sticker?style=flat&color=green)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/watchers)
-[![Downloads](https://img.shields.io/github/downloads/STBBRD/ZongziTEK-Blackboard-Sticker/total?style=flat&logo=github)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/STBBRD/ZongziTEK-Blackboard-Sticker?query=is%3Aopen&label=issues&color=purple)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/STBBRD/ZongziTEK-Blackboard-Sticker?style=flat)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/discussions)
-[![Created At](https://img.shields.io/github/created-at/STBBRD/ZongziTEK-Blackboard-Sticker)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/STBBRD/ZongziTEK-Blackboard-Sticker)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/STBBRD/ZongziTEK-Blackboard-Sticker)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/STBBRD/ZongziTEK-Blackboard-Sticker)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
-![GitHub License](https://img.shields.io/github/license/STBBRD/ZongziTEK-Blackboard-Sticker?color=red)
+[![stars](https://img.shields.io/github/stars/ZongziTEK/ZongziTEK-Blackboard-Sticker?style=flat&color=red)](https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker/stargazers)
+[![forks](https://img.shields.io/github/forks/ZongziTEK/ZongziTEK-Blackboard-Sticker?style=flat&color=blue)](https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker/forks)
+[![Watchers](https://img.shields.io/github/watchers/ZongziTEK/ZongziTEK-Blackboard-Sticker?style=flat&color=green)](https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker/watchers)
+[![Downloads](https://img.shields.io/github/downloads/ZongziTEK/ZongziTEK-Blackboard-Sticker/total?style=flat&logo=github)](https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/ZongziTEK/ZongziTEK-Blackboard-Sticker?query=is%3Aopen&label=issues&color=purple)](https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/ZongziTEK/ZongziTEK-Blackboard-Sticker?style=flat)](https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker/discussions)
+[![Created At](https://img.shields.io/github/created-at/ZongziTEK/ZongziTEK-Blackboard-Sticker)](https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/ZongziTEK/ZongziTEK-Blackboard-Sticker)](https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/ZongziTEK/ZongziTEK-Blackboard-Sticker)](https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/ZongziTEK/ZongziTEK-Blackboard-Sticker)](https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker)
+![GitHub License](https://img.shields.io/github/license/ZongziTEK/ZongziTEK-Blackboard-Sticker?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201101582374-white?style=flat&logo=qq)](https://jq.qq.com/?_wv=1027&k=epb9KDPe)
 
 </div>
@@ -966,12 +966,12 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/">STBBRD/ZongziTEK-Blackboard-Sticker</a></td>
+    <td><a href="https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker/">ZongziTEK/ZongziTEK-Blackboard-Sticker</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
-    <td><img src="https://github.com/STBBRD.png" width="20" height="20"/> <a href="https://github.com/STBBRD/">ZongziTEK</a></td>
+    <td><img src="https://github.com/ZongziTEK.png" width="20" height="20"/> <a href="https://github.com/ZongziTEK/">ZongziTEK</a></td>
 </tr>
 </table>
 
