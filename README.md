@@ -930,7 +930,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 ### ZongziTEK 黑板贴
 
-![banner](https://zztek.top/images/Sticker-Screenshot-Light.png)
+![banner](./banner/ZongziTEK-Blackboard-Sticker.png)
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 ![FDS](https://img.shields.io/badge/Fluent%20UI-003E92)
