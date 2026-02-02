@@ -2937,7 +2937,7 @@ NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基�
 
 ### SecRandom
 
-![banner](https://github.com/SECTL/SecRandom/blob/master/resources/ScreenShots/zh-cn/pick.png)
+![banner](https://raw.githubusercontent.com/SECTL/SecRandom/refs/heads/master/data/assets/icon/secrandom-banner.png)
 
 
 
@@ -3156,7 +3156,8 @@ SeewoSplash 是一个 Fluent 风格的图形化工具，允许你自定义希沃
 ClassWebsite是一个网页类项目，它可以用来为您的班级建立专属的班级网页。
 
 🏷 **关键词**：<br/>
-![网页](https://img.shields.io/badge/网页-white)
+![班级网页](https://img.shields.io/badge/班级网页-white)
+![班级文化](https://img.shields.io/badge/班级文化-white)
 
 <table align="center">
 <tr>
