@@ -86,11 +86,11 @@ $\large{\textsf{Awesome Iwb - IwbPark}}$
 
 ### 📷 第三方视频展台
 
-这个分类下面没啥太多的选择，目前只有一个 ShowWrite 可以用，且用且珍惜吧。
+这个分类下面没啥太多的选择，目前只有 ShowWrite 这一款独苗可以用，且用且珍惜吧。
 
-| 名称 | 开发者 |
-| - | - |
-| 🔴 [ShowWrite视频展台](#showwrite视频展台) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=csharp&logoColor=white) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwcrdrvf6u/ShowWrite?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">wwcrdrvf6u</a> |
+| 排行/框架 | ![total](https://img.shields.io/badge/total-1-blue) ![active](https://img.shields.io/badge/active-1-red) | 开发者 |
+| - | - | - |
+| ![#1](https://img.shields.io/badge/-%2301-red?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjZWVlIj48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8%2BPHBhdGggZD0ibTE5LjQ5NiAxMy45ODMgMS45NjYgMy40MDZhMSAxIDAgMCAxLS43MDUgMS40ODhsLS4xMTMuMDExLS4xMTItLjAwMS0yLjkzMy0uMTktMS4zMDMgMi42MzZhMSAxIDAgMCAxLTEuNjA4LjI2bC0uMDgyLS4wOTQtLjA3Mi0uMTEtMS45NjgtMy40MDdhOSA5IDAgMCAwIDYuOTMtMy45OTltLTguMDY2IDMuOTk5TDkuNDY0IDIxLjM5YTEgMSAwIDAgMS0xLjYyMi4xNTdsLS4wNzYtLjEtLjA2NC0uMTE0LTEuMzA0LTIuNjM1LTIuOTMxLjE5YTEgMSAwIDAgMS0xLjAyMi0xLjI5bC4wNC0uMTA3LjA1LS4xIDEuOTY4LTMuNDA5YTkgOSAwIDAgMCA2LjkyNyA0LjAwMXpNMTIgMmwuMjQuMDA0QTcgNyAwIDAgMSAxOSA5bC0uMDAzLjE5My0uMDA3LjE5Mi0uMDE4LjI0NS0uMDI2LjI0Mi0uMDI0LjE3OGE3IDcgMCAwIDEtLjMxNyAxLjI2OGwtLjExNi4zMDgtLjE1My4zNDhhNy4wMDEgNy4wMDEgMCAwIDEtMTIuNjg4LS4wMjhsLS4xMy0uMjk3LS4wNTItLjEzMy0uMDgtLjIxNy0uMDk1LS4yOTRhNyA3IDAgMCAxLS4wOTMtLjM0NGwtLjA2LS4yNzEtLjA0OS0uMjcxLS4wMi0uMTM5LS4wMzktLjMyMy0uMDI0LS4zNjVMNSA5YTcgNyAwIDAgMSA2Ljc2LTYuOTk2eiIvPjwvc3ZnPg%3D%3D) &nbsp; <img src="./images/language_icons/csharp.svg" width="20" height="20"> | [**ShowWrite 视频展台**](#showwrite视频展台) &nbsp; ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwcrdrvf6u/ShowWrite?label=&color=gray) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/wwcrdrvf6u">wwcrdrvf6u</a> |
 
 ### 📆 课表类软件
 
