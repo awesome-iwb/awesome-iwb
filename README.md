@@ -1168,7 +1168,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 
 `Class Widgets` 提供了强大的通知系统，能够在上下课等时间点推出提醒；此外，插件也可调用通知接口，使其更加实用。`Class Widgets` 致力于提供高度的自定义选项，使每位用户能构建出独一无二的桌面课表。`Class Widgets` 采用了由微软推出的 Fluent Design 设计语言，使界面更加简洁、舒适和流畅，且使用了 QFluentWidgets UI 库。
 
-**静候佳音：全新`Class Widgets 2.0`预计将于今年9月上旬推出。（更新于2025年6月14日）**
+**静候佳音：全新`Class Widgets 2.0`正在紧锣密鼓的开发中！[GitHub仓库](https://github.com/RinLit-233-shiroko/Class-Widgets-2)**
 
 🏷 **关键词**：<br/>
 ![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
@@ -1559,11 +1559,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 ![日程待办](https://img.shields.io/badge/日程待办-white)
 
 <table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/SRInternet-Studio/TimerIn_Releases">SRInternet-Studio/TimerIn_Releases（仅供下载）</a></td>
-</tr>
+
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>官网</b></td>
@@ -2014,7 +2010,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 定制启动器，旨在让大多数软件的启动方式更加绚丽多彩。为 **希沃白板** 系列量身定做，其他程序也可以使用！🥳
 
 💬 **Douxiba 锐评**：如标题所述，如果只是想让希沃白板的 Splash Screen 变得高端大气上档次一些的话，我觉得还是不错的，部分小问题无伤大雅。
-💬 **Makitoid 锐评**：整活神奇，刚开始用时~~被老师骂了~~老师都震惊了。不过高负载情况下可能有卡顿。
+💬 **Makitoid 锐评**：整活神器，刚开始用时~~被老师骂了~~老师都震惊了。不过高负载情况下可能有卡顿。
 
 <table align="center">
 <tr>
