@@ -375,7 +375,7 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 💬 **Douxiba 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024 年 9 月 21 日，希沃白板 5 和希沃系软件的 Popup 弹窗会出 Bug），图片插入还是测试版，不过依旧还是好用！
 
-💬 **Makitoid 锐评**：ICA几乎解决了希沃白板的所有痛点，可以说是希沃白板的平替了。同样是用``C＃``开发的，为何差别这么大？但是，以下情况不建议使用ICA：①班里老师电脑水平普遍较差；②老师上课严重依赖``板中板``，ICA这方面优化不好。
+💬 **Makitoid 锐评**：ICA几乎解决了希沃白板的所有痛点，可以说是希沃白板的平替了。但是，以下情况不建议使用ICA：①班里老师电脑水平普遍较差；②老师上课严重依赖``板中板``，ICA这方面优化不好。
 
 💬 **connect 锐评**：ICA的似我觉得是最可惜的，IC系里我最喜欢的就是这款，UI简洁，功能丰富，特别是恰到的好处丝滑，白板页是类似希沃白板的界面，工具板块可以打开希沃视频展台，对于教师上手的学习成本相比于其他的版本是几乎最低的，以及ppt联动页也是类似希沃ppt助手，只可惜停更了，令我惋惜。
 
@@ -1181,7 +1181,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 
 `Class Widgets` 提供了强大的通知系统，能够在上下课等时间点推出提醒；此外，插件也可调用通知接口，使其更加实用。`Class Widgets` 致力于提供高度的自定义选项，使每位用户能构建出独一无二的桌面课表。`Class Widgets` 采用了由微软推出的 Fluent Design 设计语言，使界面更加简洁、舒适和流畅，且使用了 QFluentWidgets UI 库。
 
-**静候佳音：全新`Class Widgets 2.0`预计将于今年9月上旬推出。（更新于2025年6月14日）**
+**静候佳音：全新`Class Widgets 2.0`正在紧锣密鼓的开发中！[GitHub仓库](https://github.com/RinLit-233-shiroko/Class-Widgets-2)**
 
 🏷 **关键词**：<br/>
 ![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
@@ -1580,11 +1580,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 ![日程待办](https://img.shields.io/badge/日程待办-white)
 
 <table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/SRInternet-Studio/TimerIn_Releases">SRInternet-Studio/TimerIn_Releases（仅供下载）</a></td>
-</tr>
+
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>官网</b></td>
@@ -2294,7 +2290,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 定制启动器，旨在让大多数软件的启动方式更加绚丽多彩。为 **希沃白板** 系列量身定做，其他程序也可以使用！🥳
 
 💬 **Douxiba 锐评**：如标题所述，如果只是想让希沃白板的 Splash Screen 变得高端大气上档次一些的话，我觉得还是不错的，部分小问题无伤大雅。
-💬 **Makitoid 锐评**：整活神奇，刚开始用时~~被老师骂了~~老师都震惊了。不过高负载情况下可能有卡顿。
+💬 **Makitoid 锐评**：整活神器，刚开始用时~~被老师骂了~~老师都震惊了。不过高负载情况下可能有卡顿。
 
 <table align="center">
 <tr>
