@@ -590,9 +590,12 @@ ICC-CE 项目近期创建，开发者正在积极开发和优化中。虽然功�
 </table>
 
 
-<div style="text-align: center;">
-  ### SketchNow
-</div>
+<div align="center">
+
+<br/>
+<br/>
+
+### SketchNow
 
 SketchNow 是一款现代 Windows 绘图工具，可让您在屏幕上的任何位置实时绘制草图。它采用 Material Design 设计，界面优雅，支持压感输入。该应用程序注重隐私，将所有数据保存在本地，仅在版本更新时连接到 GitHub。SketchNow 带来了在屏幕任意位置绘图的自由，同时保持了系统的稳定性和性能。
 
