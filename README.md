@@ -590,20 +590,12 @@ ICC-CE 项目近期创建，开发者正在积极开发和优化中。虽然功�
 </table>
 
 
-<div align="center">
-<br/>
-<br/>
-<img src="https://avatars.githubusercontent.com/u/181708430?s=48&v=4" width="56" height="56"/>
-
-
 
 ### SketchNow
-
 
 SketchNow 是一款现代 Windows 绘图工具，可让您在屏幕上的任何位置实时绘制草图。它采用 Material Design 设计，界面优雅，支持压感输入。该应用程序注重隐私，将所有数据保存在本地，仅在版本更新时连接到 GitHub。SketchNow 带来了在屏幕任意位置绘图的自由，同时保持了系统的稳定性和性能。
 
 SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Canvas 家族没有关系，但实际上底层还是使用的是 WPF 的 InkCanvas 控件。只不过比 IC 家族好太多了（人家用的是 MVVM！）。
-
 
 **该项目作者已删库跑路**
 
@@ -616,12 +608,6 @@ SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Ca
 
 💬 **Douxiba 锐评**：又一个新开的基于 InkCanvas 控件的项目，希望后面能够继续发展吧，争取能够干爆 Ink Canvas，虽然目前功能还不是很多，有一些 Bug 等待被修复，但前途是一片光明啊。
 
-<table align="center">
-
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/realybin.png" width="20" height="20"/> <a href="https://github.com/realybin/">realybin</a></td>
-</tr>
-</table>
 
 <div align="center">
 
