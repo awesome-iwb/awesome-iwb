@@ -100,11 +100,6 @@ $\large{\textsf{Awesome Iwb - IwbPark}}$
 | - | - | - |
 | ![#1](https://img.shields.io/badge/-%2301-red?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjZWVlIj48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8%2BPHBhdGggZD0ibTE5LjQ5NiAxMy45ODMgMS45NjYgMy40MDZhMSAxIDAgMCAxLS43MDUgMS40ODhsLS4xMTMuMDExLS4xMTItLjAwMS0yLjkzMy0uMTktMS4zMDMgMi42MzZhMSAxIDAgMCAxLTEuNjA4LjI2bC0uMDgyLS4wOTQtLjA3Mi0uMTEtMS45NjgtMy40MDdhOSA5IDAgMCAwIDYuOTMtMy45OTltLTguMDY2IDMuOTk5TDkuNDY0IDIxLjM5YTEgMSAwIDAgMS0xLjYyMi4xNTdsLS4wNzYtLjEtLjA2NC0uMTE0LTEuMzA0LTIuNjM1LTIuOTMxLjE5YTEgMSAwIDAgMS0xLjAyMi0xLjI5bC4wNC0uMTA3LjA1LS4xIDEuOTY4LTMuNDA5YTkgOSAwIDAgMCA2LjkyNyA0LjAwMXpNMTIgMmwuMjQuMDA0QTcgNyAwIDAgMSAxOSA5bC0uMDAzLjE5My0uMDA3LjE5Mi0uMDE4LjI0NS0uMDI2LjI0Mi0uMDI0LjE3OGE3IDcgMCAwIDEtLjMxNyAxLjI2OGwtLjExNi4zMDgtLjE1My4zNDhhNy4wMDEgNy4wMDEgMCAwIDEtMTIuNjg4LS4wMjhsLS4xMy0uMjk3LS4wNTItLjEzMy0uMDgtLjIxNy0uMDk1LS4yOTRhNyA3IDAgMCAxLS4wOTMtLjM0NGwtLjA2LS4yNzEtLjA0OS0uMjcxLS4wMi0uMTM5LS4wMzktLjMyMy0uMDI0LS4zNjVMNSA5YTcgNyAwIDAgMSA2Ljc2LTYuOTk2eiIvPjwvc3ZnPg%3D%3D) &nbsp; <img src="./images/language_icons/csharp.svg" width="20" height="20"> | [**ShowWrite 视频展台**](#showwrite视频展台) &nbsp; ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwcrdrvf6u/ShowWrite?label=&color=gray) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/wwcrdrvf6u">wwcrdrvf6u</a> |
 
-### 📆 课表类软件
-
-该分类下的软件可以在桌面上常驻显示动态的课程表或排课信息。非常建议各位试试 ClassIsland，是目前使用人数最多，同时也是维护最为积极的。当然如果你不习惯，也可以看看下面的其他选择。
-
-> 请注意：这个分类和下面的 桌面小组件 分类可以合着一起看，因为很多项目不仅有课程表功能，也同时包含很多桌面实用组件，这就导致对分类不太友好，所以这个分类只列出广为人知的课程表软件。
 
 ### 📆 课表类软件
 
@@ -332,6 +327,8 @@ Ink Canvas Plus 是一款由 Clover Yan 维护、复刻自 WXRIW/Ink Canvas 的 
 
 💬 **2,2,3-三甲基戊烷 锐评**：俗话说的好：“（对于开源屏幕批注软件）要稳定inkeys，要好用icp。”而其中的icp便是原版ic的延续，继承了原版ic简洁易用的特点。真心希望后续发展越来越好！
 
+💬 **Makitoid**作为批注软件还是很不错的，但是作为白板软件还是差一点。希望持续的优化！
+
 <table align="center">
 <tr>
     <td><img src="https://raw.githubusercontent.com/clover-yan/Ink-Canvas-Plus/master/Ink%20Canvas/Resources/InkCanvas.png" width="18" height="18"></td>
@@ -396,9 +393,17 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 💬 **Douxiba 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024 年 9 月 21 日，希沃白板 5 和希沃系软件的 Popup 弹窗会出 Bug），图片插入还是测试版，不过依旧还是好用！
 
-💬 **Makitoid 锐评**：ICA几乎解决了希沃白板的所有痛点，可以说是希沃白板的平替了。同样是用``C＃``开发的，为何差别这么大？但是，以下情况不建议使用ICA：①班里老师电脑水平普遍较差；②老师上课严重依赖``板中板``，ICA这方面优化不好。
+💬 **Makitoid 锐评**：ICA几乎解决了希沃白板的所有痛点，可以说是希沃白板的平替了。但是，以下情况不建议使用ICA：①班里老师电脑水平普遍较差；②老师上课严重依赖``板中板``，ICA这方面优化不好。话说回来，现在也有比ICA更好用的软件啦，欢迎品鉴😋
 
 💬 **connect 锐评**：ICA的似我觉得是最可惜的，IC系里我最喜欢的就是这款，UI简洁，功能丰富，特别是恰到的好处丝滑，白板页是类似希沃白板的界面，工具板块可以打开希沃视频展台，对于教师上手的学习成本相比于其他的版本是几乎最低的，以及ppt联动页也是类似希沃ppt助手，只可惜停更了，令我惋惜。
+
+💬 **2,2,3-三甲基戊烷 锐评**：虽然ICA在Aiwb里面目前还在🥇的位置，但是我这个Aiwb maintainer认为它并不算比较好用的一款屏幕批注软件，甚至还比不上目前的ICC-CE。为什么呢？：①论绘制性能比不上基于C++的智绘教Inkeys；②论功能及其各方面的易用性不如ICC-CE；③ICA目前已经永久停更，不会再有功能更新与bug修复；④ICA总是会出现一些墨迹异常成为直线的情况，如下图所示：
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f3ea2a3d-10c1-4646-a84e-73fe86300ecf" height="300"/>
+</div>
+
+<br/>
 
 <table align="center">
 <tr>
@@ -549,7 +554,7 @@ ICC-CE 项目近期创建，开发者正在积极开发和优化中。虽然功�
 ![边缘手势屏蔽](https://img.shields.io/badge/边缘手势屏蔽-white)
 ![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
 
-💬 **2,2,3-三甲基戊烷 锐评**：~~太好了，是ICC社区版，我们有救了！~~ 众所周知，InkCanvasForClass 在不久之前就停更了，而这个社区版则完美弥补了停更所造成的空白，也是IC系列为数不多的活跃项目。~~ICC石山还是太多了~~，目前这个社区版还有诸多大大小小的的bug亟待解决和部分操作逻辑的优化（~~历史遗留问题是吧……~~），请诸位遇到bug尽量发个issue，好让开发者定位问题，谢谢。
+💬 **2,2,3-三甲基戊烷 锐评**：现在有幸看到ICC-CE发展越来越好，期待后续版本。此外，目前本人班上也在使用该项目，老师给了积极的反馈。归纳下来就是：项目前景远大，潜力无限；主开发者`CJK_mkp`也超级可爱。
 
 <table align="center">
 <tr>
@@ -586,38 +591,17 @@ ICC-CE 项目近期创建，开发者正在积极开发和优化中。虽然功�
 
 
 <div align="center">
+
 <br/>
 <br/>
-<img src="https://avatars.githubusercontent.com/u/181708430?s=48&v=4" width="56" height="56"/>
-
-
 
 ### SketchNow
-
-![banner](https://github.com/SketchNow/SketchNow.WPF/raw/main/docs/banner.png)
-
-![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-[![stars](https://img.shields.io/github/stars/SketchNow/SketchNow.WPF?style=flat&color=red)](https://github.com/SketchNow/SketchNow.WPF/stargazers)
-[![forks](https://img.shields.io/github/forks/SketchNow/SketchNow.WPF?style=flat&color=blue)](https://github.com/SketchNow/SketchNow.WPF/forks)
-[![Watchers](https://img.shields.io/github/watchers/SketchNow/SketchNow.WPF?style=flat&color=green)](https://github.com/SketchNow/SketchNow.WPF/watchers)
-[![Downloads](https://img.shields.io/github/downloads/SketchNow/SketchNow.WPF/total?style=flat&logo=github)](https://github.com/SketchNow/SketchNow.WPF/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/SketchNow/SketchNow.WPF?query=is%3Aopen&label=issues&color=purple)](https://github.com/SketchNow/SketchNow.WPF/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/SketchNow/SketchNow.WPF?style=flat)](https://github.com/SketchNow/SketchNow.WPF/discussions)
-[![Created At](https://img.shields.io/github/created-at/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
-![GitHub License](https://img.shields.io/github/license/SketchNow/SketchNow.WPF?color=red)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20703302328-white?style=flat&logo=qq)](https://qm.qq.com/q/NhE0ZUNK0O)
-[![Discord](https://img.shields.io/discord/1299211548367261756?logo=discord&logoColor=white&label=&color=%235865F2)](https://discord.gg/Aub356Dmqs)
-
-</div>
 
 SketchNow 是一款现代 Windows 绘图工具，可让您在屏幕上的任何位置实时绘制草图。它采用 Material Design 设计，界面优雅，支持压感输入。该应用程序注重隐私，将所有数据保存在本地，仅在版本更新时连接到 GitHub。SketchNow 带来了在屏幕任意位置绘图的自由，同时保持了系统的稳定性和性能。
 
 SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Canvas 家族没有关系，但实际上底层还是使用的是 WPF 的 InkCanvas 控件。只不过比 IC 家族好太多了（人家用的是 MVVM！）。
 
-~~目前虽然还没有中文支持~~ **（2025 年 1 月 9 日更新：v1.0.0 已经发布，终于支持了了中文）** ，不过开发者空闲时间比较多，开发的效率也比较高，最近也比较活跃。据悉，SketchNow 后续版本将提供插件、墨迹分析等高级功能。
+**该项目作者已删库跑路**
 
 🏷 **关键词**：<br/>
 ![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
@@ -628,18 +612,6 @@ SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Ca
 
 💬 **Douxiba 锐评**：又一个新开的基于 InkCanvas 控件的项目，希望后面能够继续发展吧，争取能够干爆 Ink Canvas，虽然目前功能还不是很多，有一些 Bug 等待被修复，但前途是一片光明啊。
 
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/SketchNow/SketchNow.WPF/">SketchNow/SketchNow.WPF</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/realybin.png" width="20" height="20"/> <a href="https://github.com/realybin/">realybin</a></td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -887,7 +859,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 💬 **Douxiba 锐评**：~~**非常好用，由你好微软草开发的课是地，使我开学必装**~~，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！
 
-💬 **Makitoid 锐评**：classisland 目前来看没有课表软件比Ci好用，但是整个软件配置比较复杂，不建议在班里电脑上盲开。建议先在家里设置好，研究明白再安到电脑上。如果你电脑水平较弱，那建议你~~别当电教~~移步其它软件
+💬 **Makitoid 锐评**：目前来看没有课表软件比Ci好用，但是整个软件配置比较复杂，不建议在班里电脑上盲开。建议先在家里设置好，研究明白再安到电脑上。如果你电脑水平较弱，那建议你~~别当电教~~移步其它软件
 
 <table align="center">
 <tr>
@@ -1165,7 +1137,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 
 `Class Widgets` 提供了强大的通知系统，能够在上下课等时间点推出提醒；此外，插件也可调用通知接口，使其更加实用。`Class Widgets` 致力于提供高度的自定义选项，使每位用户能构建出独一无二的桌面课表。`Class Widgets` 采用了由微软推出的 Fluent Design 设计语言，使界面更加简洁、舒适和流畅，且使用了 QFluentWidgets UI 库。
 
-**静候佳音：全新`Class Widgets 2.0`预计将于今年9月上旬推出。（更新于2025年6月14日）**
+**静候佳音：全新`Class Widgets 2.0`正在紧锣密鼓的开发中！[GitHub仓库](https://github.com/RinLit-233-shiroko/Class-Widgets-2)**
 
 🏷 **关键词**：<br/>
 ![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
@@ -1556,11 +1528,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 ![日程待办](https://img.shields.io/badge/日程待办-white)
 
 <table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/SRInternet-Studio/TimerIn_Releases">SRInternet-Studio/TimerIn_Releases（仅供下载）</a></td>
-</tr>
+
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>官网</b></td>
@@ -2011,7 +1979,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 定制启动器，旨在让大多数软件的启动方式更加绚丽多彩。为 **希沃白板** 系列量身定做，其他程序也可以使用！🥳
 
 💬 **Douxiba 锐评**：如标题所述，如果只是想让希沃白板的 Splash Screen 变得高端大气上档次一些的话，我觉得还是不错的，部分小问题无伤大雅。
-💬 **Makitoid 锐评**：整活神奇，刚开始用时~~被老师骂了~~老师都震惊了。不过高负载情况下可能有卡顿。
+💬 **Makitoid 锐评**：整活神器，刚开始用时~~被老师骂了~~老师都震惊了。不过高负载情况下可能有卡顿。
 
 <table align="center">
 <tr>
