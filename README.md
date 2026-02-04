@@ -403,6 +403,7 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 <img src="https://github.com/user-attachments/assets/f3ea2a3d-10c1-4646-a84e-73fe86300ecf" height="300"/>
 </div>
 
+<br/>
 
 <table align="center">
 <tr>
@@ -553,7 +554,7 @@ ICC-CE 项目近期创建，开发者正在积极开发和优化中。虽然功�
 ![边缘手势屏蔽](https://img.shields.io/badge/边缘手势屏蔽-white)
 ![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
 
-💬 **2,2,3-三甲基戊烷 锐评**：~~太好了，是ICC社区版，我们有救了！~~ 众所周知，InkCanvasForClass 在不久之前就停更了，而这个社区版则完美弥补了停更所造成的空白，也是IC系列为数不多的活跃项目。~~ICC石山还是太多了~~，目前这个社区版还有诸多大大小小的的bug亟待解决和部分操作逻辑的优化（~~历史遗留问题是吧……~~），请诸位遇到bug尽量发个issue，好让开发者定位问题，谢谢。
+💬 **2,2,3-三甲基戊烷 锐评**：现在有幸看到ICC-CE发展越来越好，期待后续版本。此外，目前本人班上也在使用该项目，老师给了积极的反馈。归纳下来就是：项目前景远大，潜力无限；主开发者`CJK_mkp`也超级可爱。
 
 <table align="center">
 <tr>
@@ -622,6 +623,8 @@ SketchNow 是一款现代 Windows 绘图工具，可让您在屏幕上的任何�
 SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Canvas 家族没有关系，但实际上底层还是使用的是 WPF 的 InkCanvas 控件。只不过比 IC 家族好太多了（人家用的是 MVVM！）。
 
 ~~目前虽然还没有中文支持~~ **（2025 年 1 月 9 日更新：v1.0.0 已经发布，终于支持了了中文）** ，不过开发者空闲时间比较多，开发的效率也比较高，最近也比较活跃。据悉，SketchNow 后续版本将提供插件、墨迹分析等高级功能。
+
+**该项目作者已跑路**
 
 🏷 **关键词**：<br/>
 ![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
