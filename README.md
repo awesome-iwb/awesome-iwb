@@ -182,7 +182,7 @@
 | 🔴 [ClassWindow](#ClassWindow) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/xinghai-smartedu/classwindow?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xinghai-smartedu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/xinghai-smartedu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/xinghai-smartedu">xinghai-smartedu</a> |
 | 🔴 [C30 智能教学自动登录工具](#C30-智能教学自动登录工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/WSXYT/C30Auto-login?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WSXYT">WSXYT</a> |
 | 🔴 [ClassScreenLock](#ClassScreenLock) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/jiugulixiaoniu/ClassScreenLock?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/jiugulixiaoniu">jiugulixiaoniu</a> |
-
+| 🔴 [Sidebar for Class](#SidebarForClass) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/PANDAJSR/sidebar-for-class?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/PANDAJSR.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/PANDAJSR.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/PANDAJSR">PANDAJSR</a> |
 <br/>
 
 <details>
@@ -4001,6 +4001,7 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 <br/>
 
 
+<div align="center">
 
 ### ClassScreenLock
 
@@ -4045,8 +4046,49 @@ ClassScreenLock是一款防止无计算机基础的学生会在下课/放学后�
 
 </div>
 
+<br/><br/>
 
 
+<div align="center">
+
+### SidebarForClass
+
+![banner](./banner/sidebar-for-class.png)
+
+[![stars](https://img.shields.io/github/stars/PANDAJSR/sidebar-for-class?style=flat&color=red)](https://github.com/PANDAJSR/sidebar-for-class/stargazers)
+[![forks](https://img.shields.io/github/forks/PANDAJSR/sidebar-for-class?style=flat&color=blue)](https://github.com/PANDAJSR/sidebar-for-class/forks)
+[![Watchers](https://img.shields.io/github/watchers/PANDAJSR/sidebar-for-class?style=flat&color=green)](https://github.com/PANDAJSR/sidebar-for-class/watchers)
+[![Downloads](https://img.shields.io/github/downloads/PANDAJSR/sidebar-for-class/total?style=flat&logo=github)](https://github.com/PANDAJSR/sidebar-for-class/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/PANDAJSR/sidebar-for-class?query=is%3Aopen&label=issues&color=purple)](https://github.com/PANDAJSR/sidebar-for-class/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/PANDAJSR/sidebar-for-class?style=flat)](https://github.com/PANDAJSR/sidebar-for-class/discussions)
+[![Created At](https://img.shields.io/github/created-at/PANDAJSR/sidebar-for-class)](https://github.com/PANDAJSR/sidebar-for-class)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/PANDAJSR/sidebar-for-class)](https://github.com/PANDAJSR/sidebar-for-class/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/PANDAJSR/sidebar-for-class)](https://github.com/PANDAJSR/sidebar-for-class)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/PANDAJSR/sidebar-for-class)](https://github.com/PANDAJSR/sidebar-for-class)
+![GitHub License](https://img.shields.io/github/license/PANDAJSR/sidebar-for-class?color=red)
+
+
+一个为班级大屏设计的侧边栏应用，使用 Electron + React
+
+🏷 **关键词**：<br/>
+![侧边栏](https://img.shields.io/badge/侧边栏-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/PANDAJSR/sidebar-for-class/">PANDAJSR/sidebar-for-class</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/PANDAJSR.png" width="20" height="20"/> <a href="https://github.com/PANDAJSR/">PANDAJSR</a></td>
+</tr>
+</table>
+
+</div>
+
+<br/><br/>
 
 ## 🙏 贡献者和特别感谢
 
