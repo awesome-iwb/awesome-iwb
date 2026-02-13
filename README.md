@@ -61,10 +61,10 @@
 </div>
 
 > [!note]
-> 诚邀各位开发者加入 Awesome Iwb 的交流群。如果你的项目在 Awesome Iwb 上面上榜了，请加入开发者交流群：1004548404。新版 Awesome Iwb 需要各位开发者完善自己项目的介绍。
+> 诚邀各位开发者加入 Awesome Iwb 的交流群。如果你的项目在 Awesome Iwb 上面上榜了，请加入开发者交流群：1004548404。
 
 > [!note]
-> 目前 Awesome Iwb 所有权已转移至 智教联盟 旗下，详见 [https://forum.smart-teach.cn/d/831](https://forum.smart-teach.cn/d/831)。
+> 目前正在开发网页版，README 版本后续将减缓维护频率。
 
 ---
 
