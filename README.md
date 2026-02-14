@@ -801,6 +801,11 @@ ShowWrite 是一款为视频展台、直播教学等场景设计的软件，支�
     <td><b>开发者</b></td>
     <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture> <a href="https://github.com/wwcrdrvf6u/">wwcrdrvf6u</a></td>
 </tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>组织</b></td>
+    <td><img src="https://github.com/SECTL.png" width="20" height="20"/> <a href="https://github.com/SECTL">SECTL</a></td>
+</tr>
 </table>
 
 <div align="center">
@@ -2975,6 +2980,11 @@ SecRandom 是一个便捷且现代化的随机抽取工具，支持多种抽取�
     <td><b>开发者</b></td>
     <td><img src="https://github.com/lzy98276.png" width="20" height="20"/> <a href="https://github.com/lzy98276">lzy98276</a></td>
 </tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>组织</b></td>
+    <td><img src="https://github.com/SECTL.png" width="20" height="20"/> <a href="https://github.com/SECTL">SECTL</a></td>
+</tr>
 </table>
 
 
@@ -3894,6 +3904,11 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/Haraguse.png" width="20" height="20"/> <a href="https://github.com/Haraguse/">Haraguse</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>组织</b></td>
+    <td><img src="https://github.com/SECTL.png" width="20" height="20"/> <a href="https://github.com/SECTL">SECTL</a></td>
 </tr>
 </table>
 
