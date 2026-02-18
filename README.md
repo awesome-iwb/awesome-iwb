@@ -164,6 +164,7 @@
 | 🔴 [Class-Website](#ClassWebsite) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/jiugulixiaoniu/Class-Website-V2.5?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/jiugulixiaoniu">jiugulixiaoniu</a> |
 | 🔴 [Class-Scoring-Program](#Class-Scoring-Program) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/andycey/Class-Scoring-Program?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/andycey.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/andycey.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/andycey">andycey</a> |
 | 🔴 [沉浸式时钟](#沉浸式时钟) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/QQHKX/Immersive-clock?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/QQHKX.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/QQHKX.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/QQHKX">QQHKX</a> |
+| 🔴 [沉浸式噪音监测](#沉浸式噪音监测) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/QQHKX/Immersive-clock-monitor?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/QQHKX.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/QQHKX.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/QQHKX">QQHKX</a> |
 | 🔴 [360拖堂卫士](#360拖堂卫士) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BSOD-MEMZ/360-Class-Guard?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BSOD-MEMZ.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BSOD-MEMZ.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BSOD-MEMZ">BSOD-MEMZ</a> |
 | 🔴 [教室座位安排系统](#教室座位安排系统) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/xi-guang1/SeatsChanger?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xi-guang1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/xi-guang1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/xi-guang1">xi-guang1</a> |
 | 🔴 [ClassAware](#ClassAware) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/unDefFtr/ClassAware?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xi-guang1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/unDefFtr.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/unDefFtr">unDefFtr</a> |
@@ -3252,6 +3253,46 @@ Class-Scoring-Program是一个用于协助班委统计和分析班级同学量�
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
     <td><a href="https://github.com/QQHKX/Immersive-clock">QQHKX/Immersive-clock</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/QQHKX.png" width="20" height="20"/> <a href="https://github.com/QQHKX/">QQHKX</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+### 沉浸式噪音监测
+
+[![stars](https://img.shields.io/github/stars/QQHKX/Immersive-clock-monitor?style=flat&color=red)](https://github.com/QQHKX/Immersive-clock-monitor)
+[![forks](https://img.shields.io/github/forks/QQHKX/Immersive-clock-monitor?style=flat&color=blue)](https://github.com/QQHKX/Immersive-clock-monitor)
+[![Watchers](https://img.shields.io/github/watchers/QQHKX/Immersive-clock-monitor?style=flat&color=green)](https://github.com/QQHKX/Immersive-clock-monitor)
+[![Downloads](https://img.shields.io/github/downloads/QQHKX/Immersive-clock-monitor/total?style=flat&logo=github)](https://github.com/QQHKX/Immersive-clock-monitor)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/QQHKX/Immersive-clock-monitor?query=is%3Aopen&label=issues&color=purple)](https://github.com/QQHKX/Immersive-clock-monitor)
+[![GitHub Discussions](https://img.shields.io/github/discussions/QQHKX/Immersive-clock-monitor?style=flat)](https://github.com/QQHKX/Immersive-clock-monitor/discussions)
+[![Created At](https://img.shields.io/github/created-at/QQHKX/Immersive-clock-monitor)](https://github.com/QQHKX/Immersive-clock-monitor)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/QQHKX/Immersive-clock-monitor)](https://github.com/QQHKX/Immersive-clock-monitor/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/QQHKX/Immersive-clock-monitor)](https://github.com/QQHKX/Immersive-clock-monitor)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/QQHKX/Immersive-clock-monitor?)](https://github.com/QQHKX/Immersive-clock-monitor)
+![GitHub License](https://img.shields.io/github/license/QQHKX/Immersive-clock-monitor?color=red)
+
+</div>
+
+沉浸式时钟衍生作品。本项目从沉浸式时钟项目中提取并独立了噪音监测模块，旨在公开其基于心理声学与专注力理论的噪音评分引擎，为社区提供了一个高质量的噪音监测算法实现参考。该算法不仅仅是一个简单的分贝计，而是通过多维度加权扣分制，客观量化环境噪音对学习心流的干扰程度。
+
+🏷 **关键词**：<br/>
+![噪音监测](https://img.shields.io/badge/噪音监测-white)
+![专注度](https://img.shields.io/badge/专注度-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/QQHKX/Immersive-clock-monitor">QQHKX/Immersive-clock-monitor</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
