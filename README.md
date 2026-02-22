@@ -542,6 +542,11 @@ InkCanvasForClass 的社区版本，支持 Windows 平台（最低支持Windows 
 </tr>
 <tr>
     <td><img src="https://github.com/InkCanvasForClass/community/raw/main/icc.png" width="18" height="18"></td>
+    <td><b>官网（备用）</b></td>
+    <td><a href="https://cjk-is-so-cute.netlify.app/ ">https://cjk-is-so-cute.netlify.app/ </a></td>
+</tr>
+<tr>
+    <td><img src="https://github.com/InkCanvasForClass/community/raw/main/icc.png" width="18" height="18"></td>
     <td><b>文档站</b></td>
     <td><a href="https://inkcanvasforclass.github.io/website/ ">https://inkcanvasforclass.github.io/website/ </a></td>
 </tr>
