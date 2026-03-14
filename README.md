@@ -54,7 +54,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/awesome-iwb/awesome-iwb&label=Visitors&countColor=%23263759&style=flat)
-![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2026%E5%B9%B42%E6%9C%881%E6%97%A5-orange)
+![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2026%E5%B9%B43%E6%9C%8814%E6%97%A5-orange)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201004548404-white?style=flat&logo=qq)](https://qm.qq.com/q/im8ZtJpkZy)
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/e21726d2782bb081ef5d8f89360f1ed0d93af4ef.svg "Repobeats analytics image")
 
@@ -1518,52 +1518,6 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 </tr>
 </table>
 
-<div align="center">
-
-<br/>
-<br/>
-
-<img src="https://norkm.com/web/favicon.ico" width="56" height="56"/> 
-
-### 极序
-
-![banner](https://www.norkm.com/markdownImage/4ddbc1177ac038138fbdf72007985658.png)
-
-![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d)
-![Price](https://img.shields.io/badge/price-free-green)
-![Platforms](https://img.shields.io/badge/win%20%7C%20harmony--os%20%7C%20android%20%7C%20ios-brightgreen?label=supports)<br/>
-
-</div>
-
-**（Windows 版本）** 强大的桌面工具集合。适用于 Windows 10、11 系统的电脑或平板 （ 不支持 Windows 10 以下的操作系统 ）。
-
-支持电脑桌面笔记、番茄专注、待办、便签、日程、倒数日等十几款桌面组件，部分组件功能还可与极序手机版搭配使用，极大帮助工作学习效率的提升，更有丰富的窗口样式设置，轻松融入各种桌面壁纸。
-
-极序新版本添加了 `桌面课程表` 功能。课程设置过程很简单和直观，支持课程导入导出为 xls 表格文档，这样可以很快进行课表切换，支持垂直和水平两种桌面组件排列方式， **和 `ClassIsland` 等软件区别之处，在于其课程表设置页面更加简单直观，但是缺少单双周轮换等功能。**
-
-🏷 **关键词**：<br/>
-![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
-![课程表](https://img.shields.io/badge/课程表-white)
-![倒计日](https://img.shields.io/badge/倒计日-white)
-![桌面笔记](https://img.shields.io/badge/桌面笔记-white)
-![桌面待办](https://img.shields.io/badge/桌面待办-white)
-![每日一句](https://img.shields.io/badge/每日一句-white)
-![番茄时钟](https://img.shields.io/badge/番茄时钟-white)
-![桌面便签](https://img.shields.io/badge/桌面便签-white)
-![周期倒数日](https://img.shields.io/badge/周期倒数日-white)
-
-<table align="center">
-<tr>
-    <td><img src="https://norkm.com/web/favicon.ico" width="18" height="18"></td>
-    <td><b>官网</b></td>
-    <td><a href="https://norkm.com/">https://norkm.com/</a></td>
-</tr>
-<tr>
-    <td></td>
-    <td><b>开发者QQ</b></td>
-    <td>2518354833</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -1696,6 +1650,8 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 ![Web](https://img.shields.io/badge/Web-white)
 ![Vue](https://img.shields.io/badge/Vue-white)
 ![随机点名](https://img.shields.io/badge/随机点名-white)
+![自习噪音监测](https://img.shields.io/badge/自习噪音监测-white)
+
 
 <table align="center">
 <tr>
@@ -2262,6 +2218,7 @@ ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于R
 ![Avalonia](https://img.shields.io/badge/Avalonia-white)
 ![CI课表联动](https://img.shields.io/badge/CI课表联动-white)
 ![跨平台](https://img.shields.io/badge/跨平台-white)
+![自习噪音监测](https://img.shields.io/badge/自习噪音监测-white)
 
 <table align="center">
 <tr>
