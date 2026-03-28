@@ -1,0 +1,57 @@
+<svg viewBox="0 0 943 943.001" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="943.000000" height="943.000732" fill="none" customFrame="#000000">
+	<defs>
+		<filter id="pixso_custom_mask_type_alpha">
+			<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 " />
+		</filter>
+		<linearGradient id="paint_linear_1" x1="-29.500061" x2="963.000305" y1="-91.4999695" y2="914.499878" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(71,129,206)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(108,101,213)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<g id="pixso_custom_effect_2">
+			<effect visibility="visible" effectType="backgroundBlur" saturation="0" stdDeviation="48" />
+		</g>
+		<filter id="filter_2" width="839.000000" height="839.000977" x="52.000000" y="52.000000" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_2)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feBlend result="shape" in="SourceGraphic" in2="BackgroundImageFix" mode="normal" />
+		</filter>
+		<clipPath id="outline_mask_2" transform="matrix(1,0,0,1,-52,-52)">
+			<path d="M891 471.5C891 239.817 703.183 52 471.5 52C239.817 52 52 239.817 52 471.5C52 703.184 239.817 891.001 471.5 891.001C703.183 891.001 891 703.184 891 471.5Z" fill="rgb(255,255,255)" fill-rule="evenodd" />
+		</clipPath>
+		<g id="pixso_custom_effect_3">
+			<effect visibility="visible" effectType="backgroundBlur" saturation="0" stdDeviation="4" />
+		</g>
+		<filter id="filter_3" width="722.000000" height="722.060547" x="110.000000" y="111.000000" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_3)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feBlend result="shape" in="SourceGraphic" in2="BackgroundImageFix" mode="normal" />
+		</filter>
+		<clipPath id="outline_mask_3" transform="matrix(1,0,0,1,-110,-111)">
+			<path d="M814.293 441.33L616.071 326.99L501.73 128.767C488.113 105.078 453.948 105.078 440.249 128.767L325.99 326.99L127.767 441.33C104.078 454.948 104.078 489.113 127.767 502.811L325.99 617.071L440.249 815.293C453.867 838.983 488.032 838.983 501.73 815.293L616.071 617.071L814.293 502.811C837.902 489.113 837.902 454.948 814.293 441.33Z" fill="rgb(255,255,255)" fill-rule="evenodd" />
+		</clipPath>
+	</defs>
+	<mask id="mask_1" width="943.000000" height="943.000671" x="0.000000" y="0.000000" maskUnits="userSpaceOnUse">
+		<g filter="url(#pixso_custom_mask_type_alpha)">
+			<ellipse id="椭圆 1" rx="471.500000" ry="471.500336" cx="471.5" cy="471.500336" fill="rgb(196,196,196)" />
+		</g>
+	</mask>
+	<g id="蒙版" mask="url(#mask_1)">
+		<circle id="椭圆 2" cx="471.5" cy="471.5" r="471.5" fill="url(#paint_linear_1)" />
+		<g data-pixso-skip-parse="true">
+			<foreignObject width="839.000000" height="839.000977" x="52.000000" y="52.000000">
+				<div xmlns="http://www.w3.org/1999/xhtml" style="clip-path:url(#outline_mask_2);height:100%;backdrop-filter:blur(24.000000px);width:100%;-webkit-backdrop-filter:blur(24.000000px);" />
+			</foreignObject>
+		</g>
+		<g filter="url(#filter_2)">
+			<ellipse id="椭圆 3" rx="419.500000" ry="419.500458" cx="471.5" cy="471.500458" fill="rgb(227,226,226)" fill-opacity="0.319999993" />
+			<ellipse id="椭圆 3" rx="419.000000" ry="419.000458" cx="471.5" cy="471.500458" stroke="rgb(255,255,255)" stroke-opacity="0.209999993" stroke-width="1.000000" />
+		</g>
+		<g data-pixso-skip-parse="true">
+			<foreignObject width="722.000000" height="722.060547" x="110.000000" y="111.000000">
+				<div xmlns="http://www.w3.org/1999/xhtml" style="clip-path:url(#outline_mask_3);height:100%;backdrop-filter:blur(2.000000px);width:100%;-webkit-backdrop-filter:blur(2.000000px);" />
+			</foreignObject>
+		</g>
+		<g filter="url(#filter_3)">
+			<path id="矢量 6" d="M814.293 441.33L616.071 326.99L501.73 128.767C488.113 105.078 453.948 105.078 440.249 128.767L325.99 326.99L127.767 441.33C104.078 454.948 104.078 489.113 127.767 502.811L325.99 617.071L440.249 815.293C453.867 838.983 488.032 838.983 501.73 815.293L616.071 617.071L814.293 502.811C837.902 489.113 837.902 454.948 814.293 441.33Z" fill="rgb(255,255,255)" fill-opacity="0.300000012" fill-rule="nonzero" />
+			<path id="矢量 6" d="M616.071 326.99L501.73 128.767C488.113 105.078 453.948 105.078 440.249 128.767L325.99 326.99L127.767 441.33C104.078 454.948 104.078 489.113 127.767 502.811L325.99 617.071L440.249 815.293C453.867 838.983 488.032 838.983 501.73 815.293L616.071 617.071L814.293 502.811C837.902 489.113 837.902 454.948 814.293 441.33L616.071 326.99ZM500.864 129.267L615.205 327.489L615.339 327.722L813.793 442.196C817.068 444.085 819.905 446.367 822.303 449.042C823.983 450.915 825.448 452.981 826.698 455.239C827.946 457.495 828.923 459.829 829.628 462.243C830.543 465.375 831 468.641 831 472.04C831 475.41 830.551 478.65 829.652 481.76C828.945 484.206 827.96 486.572 826.698 488.857C825.446 491.123 823.979 493.197 822.296 495.078C819.899 497.758 817.065 500.047 813.794 501.945L615.339 616.339L500.865 814.792C498.942 818.117 496.619 820.992 493.896 823.417C492.041 825.068 490.001 826.51 487.775 827.744C485.467 829.023 483.078 830.018 480.607 830.729C477.519 831.617 474.303 832.061 470.96 832.061C467.58 832.061 464.332 831.607 461.217 830.7C458.784 829.991 456.432 829.006 454.16 827.744C451.938 826.51 449.902 825.067 448.053 823.416C445.339 820.991 443.026 818.117 441.116 814.794L326.722 616.339L128.268 501.945C124.944 500.023 122.07 497.701 119.645 494.978C117.993 493.123 116.551 491.082 115.316 488.856C114.038 486.55 113.044 484.163 112.334 481.693C111.445 478.604 111 475.386 111 472.04C111 468.662 111.453 465.415 112.36 462.3C113.069 459.866 114.054 457.513 115.316 455.241C116.551 453.018 117.994 450.981 119.647 449.132C122.071 446.418 124.944 444.106 128.267 442.196L326.722 327.722L441.115 129.268C443.038 125.943 445.361 123.068 448.085 120.643C449.939 118.992 451.979 117.55 454.205 116.316C456.511 115.038 458.898 114.044 461.368 113.333C464.457 112.444 467.675 112 471.02 112C474.398 112 477.644 112.453 480.758 113.36C483.193 114.068 485.547 115.054 487.82 116.316C490.042 117.55 492.078 118.994 493.928 120.646C496.642 123.07 498.954 125.944 500.864 129.267Z" fill="rgb(255,255,255)" fill-opacity="0.50999999" fill-rule="evenodd" />
+		</g>
+	</g>
+</svg>
