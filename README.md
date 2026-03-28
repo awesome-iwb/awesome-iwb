@@ -3908,11 +3908,11 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 <br/>
 <br/>
 
-<img src="./images/kazuha-icon.svg" width="56" height="56"/>
+<img src="./images/luminalium-icon.svg" width="56" height="56"/>
 
 ### Kazuha
 
-![banner](./banner/Kazuha-Banner.png)
+![banner](./banner/Luminalium-Banner.png)
 
 [![stars](https://img.shields.io/github/stars/Yunofactory/Kazuha?style=flat&color=red)](https://github.com/Yunofactory/Kazuha/stargazers)
 [![forks](https://img.shields.io/github/forks/Yunofactory/Kazuha?style=flat&color=blue)](https://github.com/Yunofactory/Kazuha/forks)
