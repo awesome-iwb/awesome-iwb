@@ -54,7 +54,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/awesome-iwb/awesome-iwb&label=Visitors&countColor=%23263759&style=flat)
-![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2026%E5%B9%B43%E6%9C%8814%E6%97%A5-orange)
+![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2026%E5%B9%B44%E6%9C%883%E6%97%A5-orange)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201004548404-white?style=flat&logo=qq)](https://qm.qq.com/q/im8ZtJpkZy)
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/e21726d2782bb081ef5d8f89360f1ed0d93af4ef.svg "Repobeats analytics image")
 
@@ -184,6 +184,11 @@
 | 🔴 [C30 智能教学自动登录工具](#C30-智能教学自动登录工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/WSXYT/C30Auto-login?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WSXYT">WSXYT</a> |
 | 🔴 [ClassScreenLock](#ClassScreenLock) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/jiugulixiaoniu/ClassScreenLock?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/jiugulixiaoniu">jiugulixiaoniu</a> |
 | 🔴 [Sidebar for Class](#SidebarForClass) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/PANDAJSR/sidebar-for-class?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/PANDAJSR.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/PANDAJSR.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/PANDAJSR">PANDAJSR</a> |
+| 🔴 [DD-CLASS](#dd-class) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/joyapple/DD-CLASS?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/joyapple.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/joyapple.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/joyapple">joyapple</a> |
+| 🔴 [EasiNote-Theme-Patcher](#EasiNote-Theme-Patcher) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BSOD-MEMZ/EasiNote-Theme-Patcher?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BSOD-MEMZ.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BSOD-MEMZ.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BSOD-MEMZ">BSOD-MEMZ</a> |
+| 🔴 [SeatingChartEditor2](#SeatingChartEditor2) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Braydenccc/SeatingChartEditor2?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Braydenccc.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Braydenccc.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Braydenccc">Braydenccc</a> |
+| 🔴 [随机点名Plus 3](#随机点名Plus-3) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Macrohard0001/Random_Choice_Plus_3?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Macrohard0001.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Macrohard0001.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Macrohard0001">Macrohard0001</a> |
+
 <br/>
 
 <details>
@@ -4154,6 +4159,179 @@ ClassScreenLock是一款防止无计算机基础的学生会在下课/放学后�
 </table>
 
 </div>
+<div align="center">
+
+### DD-CLASS
+
+![banner](./banner/DD-CLASS.png)
+
+[![stars](https://img.shields.io/github/stars/joyapple/DD-CLASS?style=flat&color=red)](https://github.com/joyapple/DD-CLASS/stargazers)
+[![forks](https://img.shields.io/github/forks/joyapple/DD-CLASS?style=flat&color=blue)](https://github.com/joyapple/DD-CLASS/forks)
+[![Watchers](https://img.shields.io/github/watchers/joyapple/DD-CLASS?style=flat&color=green)](https://github.com/joyapple/DD-CLASS/watchers)
+[![Downloads](https://img.shields.io/github/downloads/joyapple/DD-CLASS/total?style=flat&logo=github)](https://github.com/joyapple/DD-CLASS/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/joyapple/DD-CLASS?query=is%3Aopen&label=issues&color=purple)](https://github.com/joyapple/DD-CLASS/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/joyapple/DD-CLASS?style=flat)](https://github.com/joyapple/DD-CLASS/discussions)
+[![Created At](https://img.shields.io/github/created-at/joyapple/DD-CLASS)](https://github.com/joyapple/DD-CLASS)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/joyapple/DD-CLASS)](https://github.com/joyapple/DD-CLASS/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/joyapple/DD-CLASS)](https://github.com/joyapple/DD-CLASS)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/joyapple/DD-CLASS)](https://github.com/joyapple/DD-CLASS)
+![GitHub License](https://img.shields.io/github/license/joyapple/DD-CLASS?color=red)
+
+
+一个现代化的班级管理系统，使用 FastAPI 后端和 Vue3 前端构建，支持学生管理、成绩管理、考勤管理、积分系统等核心功能。
+
+🏷 **关键词**：<br/>
+![班级管理系统](https://img.shields.io/badge/班级管理系统-white)
+![Vue](https://img.shields.io/badge/Vue-white)
+![学生管理](https://img.shields.io/badge/学生管理-white)
+![考勤管理](https://img.shields.io/badge/考勤管理-white)
+![积分系统](https://img.shields.io/badge/积分系统-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/joyapple/DD-CLASS/">joyapple/DD-CLASS</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/joyapple.png" width="20" height="20"/> <a href="https://github.com/joyapple/">joyapple</a></td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+<img src="./images/EasiNote-Theme-Patcher.ico" width="56" height="56"/>
+
+### EasiNote Theme Patcher
+
+![banner](./banner/entp.png)
+
+[![stars](https://img.shields.io/github/stars/BSOD-MEMZ/EasiNote-Theme-Patcher?style=flat&color=red)](https://github.com/BSOD-MEMZ/EasiNote-Theme-Patcher/stargazers)
+[![forks](https://img.shields.io/github/forks/BSOD-MEMZ/EasiNote-Theme-Patcher?style=flat&color=blue)](https://github.com/BSOD-MEMZ/EasiNote-Theme-Patcher/forks)
+[![Watchers](https://img.shields.io/github/watchers/BSOD-MEMZ/EasiNote-Theme-Patcher?style=flat&color=green)](https://github.com/BSOD-MEMZ/EasiNote-Theme-Patcher/watchers)
+[![Downloads](https://img.shields.io/github/downloads/BSOD-MEMZ/EasiNote-Theme-Patcher/total?style=flat&logo=github)](https://github.com/BSOD-MEMZ/EasiNote-Theme-Patcher/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/BSOD-MEMZ/EasiNote-Theme-Patcher?query=is%3Aopen&label=issues&color=purple)](https://github.com/BSOD-MEMZ/EasiNote-Theme-Patcher/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/BSOD-MEMZ/EasiNote-Theme-Patcher?style=flat)](https://github.com/BSOD-MEMZ/EasiNote-Theme-Patcher/discussions)
+[![Created At](https://img.shields.io/github/created-at/BSOD-MEMZ/EasiNote-Theme-Patcher)](https://github.com/BSOD-MEMZ/EasiNote-Theme-Patcher)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/BSOD-MEMZ/EasiNote-Theme-Patcher)](https://github.com/BSOD-MEMZ/EasiNote-Theme-Patcher/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/BSOD-MEMZ/EasiNote-Theme-Patcher)](https://github.com/BSOD-MEMZ/EasiNote-Theme-Patcher)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/BSOD-MEMZ/EasiNote-Theme-Patcher)](https://github.com/BSOD-MEMZ/EasiNote-Theme-Patcher)
+![GitHub License](https://img.shields.io/github/license/BSOD-MEMZ/EasiNote-Theme-Patcher?color=red)
+
+
+一个用于编辑与打包希沃白板主题资源的桌面工具（PySide2 + Fluent Widgets）。
+
+🏷 **关键词**：<br/>
+![桌面工具](https://img.shields.io/badge/桌面工具-white)
+![PySide2](https://img.shields.io/badge/PySide2-white)
+![Fluent Widgets](https://img.shields.io/badge/FluentWidgets-white)
+![课堂互动](https://img.shields.io/badge/课堂互动-white)
+![希沃白板](https://img.shields.io/badge/希沃白板-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/BSOD-MEMZ/EasiNote-Theme-Patcher/">BSOD-MEMZ/EasiNote-Theme-Patcher</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/BSOD-MEMZ.png" width="20" height="20"/> <a href="https://github.com/BSOD-MEMZ/">BSOD-MEMZ</a></td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### SeatingChartEditor2
+
+![banner](./banner/SeatingChartEditor2.jpeg)
+
+[![stars](https://img.shields.io/github/stars/Braydenccc/SeatingChartEditor2?style=flat&color=red)](https://github.com/Braydenccc/SeatingChartEditor2/stargazers)
+[![forks](https://img.shields.io/github/forks/Braydenccc/SeatingChartEditor2?style=flat&color=blue)](https://github.com/Braydenccc/SeatingChartEditor2/forks)
+[![Watchers](https://img.shields.io/github/watchers/Braydenccc/SeatingChartEditor2?style=flat&color=green)](https://github.com/Braydenccc/SeatingChartEditor2/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Braydenccc/SeatingChartEditor2/total?style=flat&logo=github)](https://github.com/Braydenccc/SeatingChartEditor2/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Braydenccc/SeatingChartEditor2?query=is%3Aopen&label=issues&color=purple)](https://github.com/Braydenccc/SeatingChartEditor2/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Braydenccc/SeatingChartEditor2?style=flat)](https://github.com/Braydenccc/SeatingChartEditor2/discussions)
+[![Created At](https://img.shields.io/github/created-at/Braydenccc/SeatingChartEditor2)](https://github.com/Braydenccc/SeatingChartEditor2)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Braydenccc/SeatingChartEditor2)](https://github.com/Braydenccc/SeatingChartEditor2/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Braydenccc/SeatingChartEditor2)](https://github.com/Braydenccc/SeatingChartEditor2)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Braydenccc/SeatingChartEditor2)](https://github.com/Braydenccc/SeatingChartEditor2)
+![GitHub License](https://img.shields.io/github/license/Braydenccc/SeatingChartEditor2?color=red)
+
+
+一个跨平台、现代化的座位表可视化编辑器。
+支持在浏览器直接使用，也可下载纯净桌面版（轻量级 Tauri 版 和 独立 Electron 版）。
+
+🏷 **关键词**：<br/>
+![座位表](https://img.shields.io/badge/座位表-white)
+![跨平台](https://img.shields.io/badge/跨平台-white)
+![极速名单录入](https://img.shields.io/badge/极速名单录入-white)
+![跨端云同步](https://img.shields.io/badge/跨端云同步-white)
+![WebDAV支持](https://img.shields.io/badge/WebDAV支持-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/Braydenccc/SeatingChartEditor2/">Braydenccc/SeatingChartEditor2</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/Braydenccc.png" width="20" height="20"/> <a href="https://github.com/Braydenccc/">Braydenccc</a></td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 随机点名Plus 3
+
+![banner](./banner/Random_Choice_Plus_3.png)
+
+[![stars](https://img.shields.io/github/stars/Macrohard0001/Random_Choice_Plus_3?style=flat&color=red)](https://github.com/Macrohard0001/Random_Choice_Plus_3/stargazers)
+[![forks](https://img.shields.io/github/forks/Macrohard0001/Random_Choice_Plus_3?style=flat&color=blue)](https://github.com/Macrohard0001/Random_Choice_Plus_3/forks)
+[![Watchers](https://img.shields.io/github/watchers/Macrohard0001/Random_Choice_Plus_3?style=flat&color=green)](https://github.com/Macrohard0001/Random_Choice_Plus_3/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Macrohard0001/Random_Choice_Plus_3/total?style=flat&logo=github)](https://github.com/Macrohard0001/Random_Choice_Plus_3/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Macrohard0001/Random_Choice_Plus_3?query=is%3Aopen&label=issues&color=purple)](https://github.com/Macrohard0001/Random_Choice_Plus_3/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Macrohard0001/Random_Choice_Plus_3?style=flat)](https://github.com/Macrohard0001/Random_Choice_Plus_3/discussions)
+[![Created At](https://img.shields.io/github/created-at/Macrohard0001/Random_Choice_Plus_3)](https://github.com/Macrohard0001/Random_Choice_Plus_3)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Macrohard0001/Random_Choice_Plus_3)](https://github.com/Macrohard0001/Random_Choice_Plus_3/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Macrohard0001/Random_Choice_Plus_3)](https://github.com/Macrohard0001/Random_Choice_Plus_3)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Macrohard0001/Random_Choice_Plus_3)](https://github.com/Macrohard0001/Random_Choice_Plus_3)
+![GitHub License](https://img.shields.io/github/license/Macrohard0001/Random_Choice_Plus_3?color=red)
+
+
+一个基于PyGame开发的课堂点名工具，支持多种点名模式和概率调整，帮助教师实现公平高效的点名
+
+
+🏷 **关键词**：<br/>
+![课堂点名工具](https://img.shields.io/badge/课堂点名工具-white)
+![PyGame](https://img.shields.io/badge/PyGame-white)
+![响应式布局](https://img.shields.io/badge/响应式布局-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/Macrohard0001/Random_Choice_Plus_3/">Macrohard0001/Random_Choice_Plus_3</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/Macrohard0001.png" width="20" height="20"/> <a href="https://github.com/Macrohard0001/">Macrohard0001</a></td>
+</tr>
+</table>
+
+</div>
+
 
 <br/><br/>
 
