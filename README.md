@@ -111,7 +111,7 @@
 | - | - |
 | 🥇 [ClassIsland](#classisland) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ClassIsland/ClassIsland?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/HelloWRC.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/HelloWRC.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/HelloWRC">HelloWRC</a> |
 | 🥇 [ZongziTEK 黑板贴](#zongzitek-黑板贴) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ZongziTEK/ZongziTEK-Blackboard-Sticker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/ZongziTEK.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/ZongziTEK.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/ZongziTEK">ZongziTEK</a> |
-| 🌟 [Sticky-attention](#sticky-attention) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Sticky-attention/Sticky-attention?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/jizilin6732.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/jizilin6732.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/jizilin6732">jizilin6732</a> |
+| 🌟 [StickyHomeworks2](#StickyHomeworks2) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/StickyHomeworks2/StickyHomeworks2?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/StickyHomeworks2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/StickyHomeworks2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/StickyHomeworks2">StickyHomeworks2</a> |
 | 🥈 [考试看板](#考试看板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ExamAware/dsz-exam-showboard?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Hello8693.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Hello8693.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Hello8693">Hello8693</a> |
 | 🌟 [ExtraIsland](#extraisland) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/LiPolymer/ExtraIsland?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/LiPolymer.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/LiPolymer.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/LiPolymer">LiPolymer</a> |
 | 🥈 [Class Widgets](#class-widgets) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/RinLit-233-shiroko/Class-Widgets?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/RinLit-233-shiroko.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/RinLit-233-shiroko.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/RinLit-233-shiroko">RinLit-233-shiroko</a> |
@@ -135,6 +135,7 @@
 | ~~[ElectronClassSchedule](#electronclassschedule)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/EnderWolf006.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/EnderWolf006.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/EnderWolf006">EnderWolf006</a> |
 | ~~[ClassTools](#classtools)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/clansty.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/clansty.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/clansty">clansty</a> |
 | ~~[StickyHomeworks](#stickyhomeworks)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/HelloWRC.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/HelloWRC.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/HelloWRC">HelloWRC</a> |
+| ~~[Sticky-attention](#sticky-attention)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/jizilin6732.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/jizilin6732.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/jizilin6732">jizilin6732</a> |
 | ~~[HomeworkBoard](#homeworkboard)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/EnderWolf006.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/EnderWolf006.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/EnderWolf006">EnderWolf006</a> |
 
 ### 🛠️ 辅助类软件与实用工具
@@ -996,29 +997,28 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 <br/>
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/183182916?s=48&v=4" width="56" height="56"/> 
+<img src="https://github.com/user-attachments/assets/40d567c2-77bc-4c3e-bb1f-5215cc0bb376" width="56" height="56"/> 
 
-### Sticky-attention
+### StickyHomeworks2
 
-![banner](https://github.com/Sticky-attention/Sticky-attention/raw/master/image/banner.jpg)
 
-![MDS](https://img.shields.io/badge/MD2%20UI-003E92)
-[![stars](https://img.shields.io/github/stars/Sticky-attention/Sticky-attention?style=flat&color=red)](https://github.com/Sticky-attention/Sticky-attention/stargazers)
-[![forks](https://img.shields.io/github/forks/Sticky-attention/Sticky-attention?style=flat&color=blue)](https://github.com/Sticky-attention/Sticky-attention/forks)
-[![Watchers](https://img.shields.io/github/watchers/Sticky-attention/Sticky-attention?style=flat&color=green)](https://github.com/Sticky-attention/Sticky-attention/watchers)
-[![Downloads](https://img.shields.io/github/downloads/Sticky-attention/Sticky-attention/total?style=flat&logo=github)](https://github.com/Sticky-attention/Sticky-attention/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/Sticky-attention/Sticky-attention?query=is%3Aopen&label=issues&color=purple)](https://github.com/Sticky-attention/Sticky-attention/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/Sticky-attention/Sticky-attention?style=flat)](https://github.com/Sticky-attention/Sticky-attention/discussions)
-[![Created At](https://img.shields.io/github/created-at/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention)
-![GitHub License](https://img.shields.io/github/license/Sticky-attention/Sticky-attention?color=red)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20680019081-white?style=flat&logo=qq)](https://qm.qq.com/q/FbG57VTzTG)
 
-</div>
+[![stars](https://img.shields.io/github/stars/StickyHomeworks2/StickyHomeworks2?style=flat&color=red)](https://github.com/StickyHomeworks2/StickyHomeworks2/stargazers)
+[![forks](https://img.shields.io/github/forks/StickyHomeworks2/StickyHomeworks2?style=flat&color=blue)](https://github.com/StickyHomeworks2/StickyHomeworks2/forks)
+[![Watchers](https://img.shields.io/github/watchers/StickyHomeworks2/StickyHomeworks2?style=flat&color=green)](https://github.com/StickyHomeworks2/StickyHomeworks2/watchers)
+[![Downloads](https://img.shields.io/github/downloads/StickyHomeworks2/StickyHomeworks2/total?style=flat&logo=github)](https://github.com/StickyHomeworks2/StickyHomeworks2/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/StickyHomeworks2/StickyHomeworks2?query=is%3Aopen&label=issues&color=purple)](https://github.com/StickyHomeworks2/StickyHomeworks2/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/StickyHomeworks2/StickyHomeworks2?style=flat)](https://github.com/StickyHomeworks2/StickyHomeworks2/discussions)
+[![Created At](https://img.shields.io/github/created-at/StickyHomeworks2/StickyHomeworks2)](https://github.com/StickyHomeworks2/StickyHomeworks2)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/StickyHomeworks2/StickyHomeworks2)](https://github.com/StickyHomeworks2/StickyHomeworks2/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/StickyHomeworks2/StickyHomeworks2)](https://github.com/StickyHomeworks2/StickyHomeworks2)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/StickyHomeworks2/StickyHomeworks2)](https://github.com/StickyHomeworks2/StickyHomeworks2)
+![GitHub License](https://img.shields.io/github/license/StickyHomeworks2/StickyHomeworks2?color=red)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201101582374-white?style=flat&logo=qq)](https://jq.qq.com/?_wv=1027&k=epb9KDPe)
 
-StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示工具，基于 [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks/) 开发，可以展示各科作业信息，且支持富文本，按科目分类，导出作业截图等功能。后续将添加更多新内容，敬请期待！
+
+
+StickyHomeworks2 是一款支持富文本的桌面作业贴工具。
 
 🏷 **关键词**：<br/>
 ![作业展示](https://img.shields.io/badge/作业展示-white)
@@ -1026,20 +1026,20 @@ StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示�
 ![桌面小工具](https://img.shields.io/badge/桌面小工具-white)
 ![富文本支持](https://img.shields.io/badge/富文本支持-white)
 
-💬 **Douxiba 锐评**：之前在教室下过一次，不过当时用的时候不知道什么原因，很卡顿，现在不知道怎么样了，不过作为微软草的作业贴的后继者，还是希望这个项目能够持续发展下去吧。目前看来，如果你有 **文本格式的作业展示需求** 的话，最推荐这个，如果你需要展示手写版作业的话，还是用 **[粽子黑板贴](#zongzitek-黑板贴)** 吧！
-
-<table align="center">
+<table>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/Sticky-attention/Sticky-attention/">Sticky-attention/Sticky-attention</a></td>
+    <td><a href="https://github.com/StickyHomeworks2/StickyHomeworks2/">StickyHomeworks2/StickyHomeworks2</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
-    <td><img src="https://github.com/jizilin6732.png" width="20" height="20"/> <a href="https://github.com/jizilin6732/">jizilin6732</a></td>
+    <td><img src="https://github.com/StickyHomeworks2.png" width="20" height="20"/> <a href="https://github.com/StickyHomeworks2/">StickyHomeworks2</a></td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
@@ -1099,6 +1099,8 @@ DSZ 考试看板。**一款显示当前时间与考试详细信息的看板类�
     <td><img src="https://github.com/Hello8693.png" width="20" height="20"/> <a href="https://github.com/Hello8693/">Hello8693</a></td>
 </tr>
 </table>
+
+
 
 <div align="center">
 
@@ -1844,7 +1846,7 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 
 </div>
 
-> 该项目已经停止更新，并由 `jizilin6732` 接手。
+> 该项目已经停止更新，并由 `jizilin6732` 接手，请去尝试使用StickyHomeworks2吧。
 
 StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科目分组作业、为作业添加标签、自动清理过期作业、导出作业截图等功能。
 
@@ -1858,6 +1860,58 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科�
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/HelloWRC.png" width="20" height="20"/> <a href="https://github.com/HelloWRC/">HelloWRC</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="https://avatars.githubusercontent.com/u/183182916?s=48&v=4" width="56" height="56"/> 
+
+### Sticky-attention
+
+![banner](https://github.com/Sticky-attention/Sticky-attention/raw/master/image/banner.jpg)
+
+![MDS](https://img.shields.io/badge/MD2%20UI-003E92)
+[![stars](https://img.shields.io/github/stars/Sticky-attention/Sticky-attention?style=flat&color=red)](https://github.com/Sticky-attention/Sticky-attention/stargazers)
+[![forks](https://img.shields.io/github/forks/Sticky-attention/Sticky-attention?style=flat&color=blue)](https://github.com/Sticky-attention/Sticky-attention/forks)
+[![Watchers](https://img.shields.io/github/watchers/Sticky-attention/Sticky-attention?style=flat&color=green)](https://github.com/Sticky-attention/Sticky-attention/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Sticky-attention/Sticky-attention/total?style=flat&logo=github)](https://github.com/Sticky-attention/Sticky-attention/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Sticky-attention/Sticky-attention?query=is%3Aopen&label=issues&color=purple)](https://github.com/Sticky-attention/Sticky-attention/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Sticky-attention/Sticky-attention?style=flat)](https://github.com/Sticky-attention/Sticky-attention/discussions)
+[![Created At](https://img.shields.io/github/created-at/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention)
+![GitHub License](https://img.shields.io/github/license/Sticky-attention/Sticky-attention?color=red)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20680019081-white?style=flat&logo=qq)](https://qm.qq.com/q/FbG57VTzTG)
+
+</div>
+
+> 该项目已经停止更新，请去尝试使用StickyHomeworks2吧。
+
+StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示工具，基于 [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks/) 开发，可以展示各科作业信息，且支持富文本，按科目分类，导出作业截图等功能。
+
+🏷 **关键词**：<br/>
+![作业展示](https://img.shields.io/badge/作业展示-white)
+![作业看板](https://img.shields.io/badge/作业看板-white)
+![桌面小工具](https://img.shields.io/badge/桌面小工具-white)
+![富文本支持](https://img.shields.io/badge/富文本支持-white)
+
+💬 **Douxiba 锐评**：之前在教室下过一次，不过当时用的时候不知道什么原因，很卡顿，现在不知道怎么样了，不过作为微软草的作业贴的后继者，还是希望这个项目能够持续发展下去吧。目前看来，如果你有 **文本格式的作业展示需求** 的话，最推荐这个，如果你需要展示手写版作业的话，还是用 **[粽子黑板贴](#zongzitek-黑板贴)** 吧！
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/Sticky-attention/Sticky-attention/">Sticky-attention/Sticky-attention</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/jizilin6732.png" width="20" height="20"/> <a href="https://github.com/jizilin6732/">jizilin6732</a></td>
 </tr>
 </table>
 
