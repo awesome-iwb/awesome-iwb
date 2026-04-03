@@ -1030,7 +1030,7 @@ StickyHomeworks2 是一款支持富文本的桌面作业贴工具。
 <tr>
     <td><img src="https://github.com/user-attachments/assets/40d567c2-77bc-4c3e-bb1f-5215cc0bb376" width="18" height="18"></td>
     <td><b>官网</b></td>
-    <td><a href="https://sh2.xn--fjqu59cvx0aoqi.icu/">https://sh2.课是乐队.icu></td>
+    <td><a href="https://sh2.xn--fjqu59cvx0aoqi.icu/">https://sh2.课是乐队.icu</td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
