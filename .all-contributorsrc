@@ -1,6 +1,6 @@
 {
-  "projectName": "Awesome-Iwb",
-  "projectOwner": "Awesome-Iwb",
+  "projectName": "awesome-iwb",
+  "projectOwner": "awesome-iwb",
   "files": [
     "README.md"
   ],
@@ -121,6 +121,18 @@
         "doc",
         "bug",
         "content"
+      ]
+    },
+    {
+      "login": "2-2-3-trimethylpentane",
+      "name": "2,2,3-三甲基戊烷",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141403762?v=4",
+      "profile": "https://github.com/2-2-3-trimethylpentane",
+      "contributions": [
+        "maintenance",
+        "code",
+        "content",
+        "eventOrganizing"
       ]
     }
   ]
