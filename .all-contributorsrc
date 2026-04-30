@@ -9,10 +9,10 @@
   "contributorsPerLine": 7,
   "contributors": [
     {
-      "login": "dubi906w",
-      "name": "Dubi906w",
-      "avatar_url": "https://avatars.githubusercontent.com/u/185512682?v=4",
-      "profile": "https://github.com/dubi906w",
+      "login": "2-2-3-trimethylpentane",
+      "name": "2,2,3-三甲基戊烷",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141403762?v=4",
+      "profile": "https://github.com/2-2-3-trimethylpentane",
       "contributions": [
         "content",
         "data",
@@ -123,17 +123,5 @@
         "content"
       ]
     },
-    {
-      "login": "2-2-3-trimethylpentane",
-      "name": "2,2,3-三甲基戊烷",
-      "avatar_url": "https://avatars.githubusercontent.com/u/141403762?v=4",
-      "profile": "https://github.com/2-2-3-trimethylpentane",
-      "contributions": [
-        "maintenance",
-        "code",
-        "content",
-        "eventOrganizing"
-      ]
-    }
   ]
 }
