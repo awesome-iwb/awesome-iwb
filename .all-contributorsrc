@@ -21,6 +21,28 @@
         "maintenance"
       ]
     },
+        {
+      "login": "wwiinnddyy",
+      "name": "lincube",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170236045?v=4",
+      "profile": "https://github.com/wwiinnddyy",
+      "contributions": [
+        "ideas",
+        "tool"
+      ]
+    },
+    {
+      "login": "Aris-Offline",
+      "name": "Aris",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65645068?v=4",
+      "profile": "https://github.com/Aris-Offline",
+      "contributions": [
+        "content",
+        "data",
+        "doc",
+        "maintenance"
+      ]
+    },
     {
       "login": "LiPolymer",
       "name": "LiPolymer",
@@ -41,18 +63,6 @@
         "content",
         "data",
         "doc"
-      ]
-    },
-    {
-      "login": "Aris-Offline",
-      "name": "Aris",
-      "avatar_url": "https://avatars.githubusercontent.com/u/65645068?v=4",
-      "profile": "https://github.com/Aris-Offline",
-      "contributions": [
-        "content",
-        "data",
-        "doc",
-        "maintenance"
       ]
     },
     {
@@ -121,16 +131,6 @@
         "doc",
         "bug",
         "content"
-      ]
-    },
-    {
-      "login": "wwiinnddyy",
-      "name": "lincube",
-      "avatar_url": "https://avatars.githubusercontent.com/u/170236045?v=4",
-      "profile": "https://github.com/wwiinnddyy",
-      "contributions": [
-        "ideas",
-        "tool"
       ]
     }
   ]
