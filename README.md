@@ -480,7 +480,7 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 <div align="center">
 <br/>
 <br/>
-<img src="https://github.com/InkCanvasForClass/community/raw/main/icc.png" width="56" height="56"/>
+<img src="https://github.com/InkCanvasForClass/community/raw/net6/icc.png" width="56" height="56"/>
 
 
 
