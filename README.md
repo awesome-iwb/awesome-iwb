@@ -203,7 +203,7 @@
 | [SeewoMonitorSystem](https://github.com/DengHanxu/SeewoMonitorSystem/)（原仓库，现不可访问） | `DengHanxu`（原作者，账号现不可访问） |
 | [BanSeewo](https://github.com/DengHanxu/BanSeewo/)（原仓库，现不可访问） | `DengHanxu`（原作者，账号现不可访问） |
 | [希沃管家密码 V2 破解(seewoaprt)](https://github.com/gohj99/seewoaprt/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/gohj99/seewoaprt?label=updated) | <img src="https://github.com/gohj99.png" width="20" height="20"/> `gohj99` |
-| [Seewo-Activation-Code-Calculator](https://github.com/f4bb0/Seewo-Activation-Code-Calculator/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/f4bb0/Seewo-Activation-Code-Calculator?label=updated) | <img src="https://github.com/Farbitrarily.png" width="20" height="20"/> `Farbitrarily` |
+| [Seewo-Activation-Code-Calculator](https://github.com/f4bb0/Seewo-Activation-Code-Calculator/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/f4bb0/Seewo-Activation-Code-Calculator?label=updated) | <img src="https://github.com/f4bb0.png" width="20" height="20"/> `fabbo` |
 | [LemonxNote](https://github.com/lh11117/LemonxNote/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/lh11117/LemonxNote?label=updated) | <img src="https://github.com/lh11117.png" width="20" height="20"/> `lh11117` |
 | [灵动课表](https://github.com/DuguSand/class_form/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form?label=updated) | <img src="https://github.com/DuguSand.png" width="20" height="20"/> `DuguSand` |
 | [SeewoHUB](https://github.com/CNwenwen/SeewoHUB/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB?label=updated) | <img src="https://github.com/CNwenwen.png" width="20" height="20"/> `CNwenwen` |
