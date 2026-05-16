@@ -96,12 +96,12 @@
 | 🥇 [Ink Canvas Artistry](#ink-canvas-artistry) ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WuChanging.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WuChanging.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WuChanging">WuChanging</a> |
 | 🥈 [智绘教Inkeys](#智绘教inkeys) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Alan-CRL/Inkeys?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Alan-CRL">Alan-CRL</a> |
 | 🥈 [ICC-CE](#icc-ce) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/InkCanvasForClass/community?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CJKmkp">CJKmkp</a> |
-| 🔴 [InkCanvasForClass](#InkCanvasForClass) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/segf4ultk1nger/InkCanvasForClass?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/segf4ultk1nger.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/segf4ultk1nger.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/segf4ultk1nger">segf4ultk1nger</a> |
-| 🔴 [ICC-Re](#ICC-Re) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/LiuYan-xwx/InkCanvasForClass-Remastered?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/LiuYan-xwx.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/LiuYan-xwx.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/LiuYan-xwx">LiuYan-xwx</a> |
+| 🔴 [InkCanvasForClass](#inkcanvasforclass) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/segf4ultk1nger-universe/InkCanvasForClass?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/segf4ultk1nger.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/segf4ultk1nger.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/segf4ultk1nger">segf4ultk1nger</a> |
+| 🔴 [ICC-Re](#icc-re) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/LiuYan-xwx/InkCanvasForClass-Remastered?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/LiuYan-xwx.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/LiuYan-xwx.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/LiuYan-xwx">LiuYan-xwx</a> |
 | [ppInk](#ppink) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pubpub-zz/ppInk?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/pubpub-zz">pubpub-zz</a> |
 |  [Ink Canvas Better](#ink-canvas-better) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BaiYang2238/Ink-Canvas-Better?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">BaiYang2238</a> |
-|  [ShowWrite视频展台](#showwrite视频展台) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwcrdrvf6u/ShowWrite?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/wwcrdrvf6u">wwcrdrvf6u</a> |
-| 🔴 [LanStartWrite](#LanStartWrite) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwiinnddyy/LanStartWrite?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwiinnddyy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwiinnddyy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/wwiinnddyy">wwiinnddyy</a> |
+|  [ShowWrite视频展台](#showwrite视频展台) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SECTL/ShowWrite?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/wwcrdrvf6u">wwcrdrvf6u</a> |
+| 🔴 [LanStartWrite](#lanstartwrite) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwiinnddyy/LanStartWrite?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwiinnddyy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwiinnddyy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/wwiinnddyy">wwiinnddyy</a> |
 
 
 
@@ -111,26 +111,26 @@
 | - | - |
 | 🥇 [ClassIsland](#classisland) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ClassIsland/ClassIsland?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/HelloWRC.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/HelloWRC.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/HelloWRC">HelloWRC</a> |
 | 🥇 [ZongziTEK 黑板贴](#zongzitek-黑板贴) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ZongziTEK/ZongziTEK-Blackboard-Sticker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/ZongziTEK.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/ZongziTEK.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/ZongziTEK">ZongziTEK</a> |
-| 🌟 [StickyHomeworks2](#StickyHomeworks2) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/StickyHomeworks2/StickyHomeworks2?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/StickyHomeworks2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/StickyHomeworks2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/StickyHomeworks2">StickyHomeworks2</a> |
-| 🥈 [考试看板](#考试看板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ExamAware/dsz-exam-showboard?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Hello8693.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Hello8693.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Hello8693">Hello8693</a> |
+| 🌟 [StickyHomeworks2](#stickyhomeworks2) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/StickyHomeworks2/StickyHomeworks2?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/StickyHomeworks2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/StickyHomeworks2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/StickyHomeworks2">StickyHomeworks2</a> |
+| 🥈 [考试看板-Legacy](#考试看板-legacy) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ExamAware/ExamShowboard-Legacy?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Hello8693.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Hello8693.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Hello8693">Hello8693</a> |
 | 🌟 [ExtraIsland](#extraisland) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/LiPolymer/ExtraIsland?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/LiPolymer.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/LiPolymer.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/LiPolymer">LiPolymer</a> |
-| 🥈 [Class Widgets](#class-widgets) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/RinLit-233-shiroko/Class-Widgets?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/RinLit-233-shiroko.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/RinLit-233-shiroko.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/RinLit-233-shiroko">RinLit-233-shiroko</a> |
+| 🥈 [Class Widgets](#class-widgets) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Class-Widgets/Class-Widgets?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/RinLit-233-shiroko.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/RinLit-233-shiroko.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/RinLit-233-shiroko">RinLit-233-shiroko</a> |
 |  [凌云班级组件](#凌云班级组件) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Yamikani-Flipped/LingYun-Class-Widgets?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Yamikani-Flipped.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Yamikani-Flipped.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Yamikani-Flipped">Yamikani-Flipped</a> |
 | [Education Clock](#education-clock) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Return-Log/Education-Clock?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Return-Log.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Return-Log.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Return-Log">Return-Log</a> |
-| [ClassBoardSharp](#classboardsharp) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Candlest/ClassBoardSharp?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Candlest.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Candlest.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Candlest">Candlest</a> |
+| [ClassBoard](#classboard) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Candlest/ClassBoard?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Candlest.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Candlest.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Candlest">Candlest</a> |
 | [班级热搜排行](#class-hot-search-班级热搜排行) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SRInternet-Studio/Class_Hot_Search?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/SRInternet-Studio.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/SRInternet-Studio.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/SRInternet-Studio">SRInternet-Studio</a> |
 | [Ris_ClassTool](#ris_classtool-瑞思课堂工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Ris-Soft/Ris_ClassTool?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/PYLXU.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/PYLXU.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/PYLXU">PYLXU</a> |
 | [TimerIn](#timerin) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/SRInternet-Studio.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/SRInternet-Studio.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/SRInternet-Studio">SRInternet-Studio</a> |
 | [ExamSchedule](#examschedule) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ExamAware/ExamSchedule?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/MKStoler1024.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/MKStoler1024.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/MKStoler1024">MKStoler1024</a> |
-| [Classworks](#classworks) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/zerocatdev/classworks?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/SunWuyuan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/SunWuyuan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/SunWuyuan">SunWuyuan</a> |
-| 🔴 [Classpaper-v4](#Classpaper) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/E7G/Classpaper-v4?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/E7G.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/E7G.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/E7G">E7G</a> |
+| [Classworks](#classworks) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Moonrend/Classworks?label=) | <img src="https://avatars.githubusercontent.com/u/88357633?s=48" width="20" height="20"/> 孙悟元（原 GitHub 主页目前不可访问） |
+| 🔴 [Classpaper-v4](#classpaper) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/E7G/Classpaper-v4?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/E7G.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/E7G.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/E7G">E7G</a> |
 | 🔴 [考试语音播报系统](#考试语音播报系统) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/cloudy059/ExamBroadcast?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/cloudy059.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/cloudy059.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/cloudy059">cloudy059</a> |
-| 🔴 [ExamClock](#ExamClock) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/L33Z22L11/ExamClock?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/L33Z22L11.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/L33Z22L11.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/L33Z22L11">L33Z22L11</a> |
-| 🔴 [iClass](#iClass) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/gpuawa/iClass?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/gpuawa.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/gpuawa.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/gpuawa">gpuawa</a> |
-| 🔴 [FinitoBoard](#FinitoBoard) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Xwei1645/finito_board?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Xwei1645.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Xwei1645.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Xwei1645">Xwei1645</a> |
-| 🔴 [ElectronClassScheduleX](#ElectronClassScheduleX) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Enigfrank/ElectronClassScheduleX?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Enigfrank.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Enigfrank.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Enigfrank">Enigfrank</a> |
+| 🔴 [ExamClock](#examclock) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/L33Z22L11/ExamClock?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/L33Z22L11.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/L33Z22L11.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/L33Z22L11">L33Z22L11</a> |
+| 🔴 [iClass](#iclass) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/gpuawa/iClass?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/gpuawa.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/gpuawa.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/gpuawa">gpuawa</a> |
+| 🔴 [Zooni](#zooni) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Xwei1645/Zooni?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Xwei1645.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Xwei1645.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Xwei1645">Xwei1645</a> |
+| 🔴 [ElectronClassScheduleX](#electronclassschedulex) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Enigfrank/ElectronClassScheduleX?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Enigfrank.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Enigfrank.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Enigfrank">Enigfrank</a> |
 | 🔴 [每日作业面板](#每日作业面板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BearWhite-Z/Daily-Commission-Panel?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BearWhite-Z.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BearWhite-Z.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BearWhite-Z">BearWhite-Z</a> |
-| 🔴 [LanMountainDesktop](#LanMountainDesktop) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwiinnddyy/LanMountainDesktop?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwiinnddyy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwiinnddyy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/wwiinnddyy">wwiinnddyy</a> |
+| 🔴 [LanMountainDesktop](#lanmountaindesktop) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwiinnddyy/LanMountainDesktop?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwiinnddyy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwiinnddyy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/wwiinnddyy">wwiinnddyy</a> |
 | ~~[CountBoard](#countboard)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Gaoyongxian666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Gaoyongxian666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Gaoyongxian666">Gaoyongxian666</a> |
 | ~~[ElectronClassSchedule](#electronclassschedule)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/EnderWolf006.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/EnderWolf006.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/EnderWolf006">EnderWolf006</a> |
 | ~~[ClassTools](#classtools)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/clansty.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/clansty.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/clansty">clansty</a> |
@@ -148,7 +148,7 @@
 | [OpenLuckyRandom](#openluckyrandom) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/WhatDamon/OpenLuckyRandom?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WhatDamon.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WhatDamon.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WhatDamon">WhatDamon</a> |
 | [MythwareToolkit](#mythwaretoolkit) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BengbuGuards/MythwareToolkit?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BengbuGuards.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BengbuGuards.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BengbuGuards">BengbuGuards</a> |
 | 🥈 [ENAL 希沃易登](#enal-希沃易登) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=https://raw.githubusercontent.com/awesome-iwb/awesome-iwb/master/images/xiaocuitang-avatar.png&v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/awesome-iwb/awesome-iwb/master/images/xiaocuitang-avatar.png&v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://i.iceawa.com/">Xiaocuitang</a> |
-|  [EasiAuto](#EasiAuto) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/hxabcd/EasiAuto?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/hxabcd.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/hxabcd.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/hxabcd">hxabcd</a> |
+|  [EasiAuto](#easiauto) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/hxabcd/EasiAuto?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/hxabcd.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/hxabcd.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/hxabcd">hxabcd</a> |
 | [ExCaller](#ex-caller) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/typed-sigterm/ex-caller?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/typed-sigterm.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/typed-sigterm.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/typed-sigterm">typed-sigterm</a> |
 | [ClassNamePicker](#classnamepicker) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Chengzi600/ClassNamePicker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Chengzi600.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Chengzi600.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Chengzi600">Chengzi600</a> |
 | [SectionIstool](#sectionistool) ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lzy98276.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lzy98276.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lzy98276">lzy98276</a> |
@@ -160,35 +160,35 @@
 |  [IslandCaller](#islandcaller) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/HUSX100/IslandCaller?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/HUSX100.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/HUSX100.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/HUSX100">HUSX100</a> |
 |  [SecRandom](#secrandom) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SECTL/SecRandom?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lzy98276.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lzy98276.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lzy98276">lzy98276</a> |
 |  [RandPicker](#randpicker) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/xuanxuan1231/RandPicker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xuanxuan1231.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/xuanxuan1231.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/xuanxuan1231">xuanxuan1231</a> |
-| 🔴 [SmartBoardTools](#SmartBoardTools) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/FeedWhisper5148/SmartBoardTools_OpenSourced?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/FeedWhisper5148.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/FeedWhisper5148.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/FeedWhisper5148">FeedWhisper5148</a> |
-| 🔴 [SeewoSplash](#SeewoSplash) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/fengyec2/custom-seewo-splash-screen?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/fengyec2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/fengyec2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/fengyec2">fengyec2</a> |
-| 🔴 [Class-Website](#ClassWebsite) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/jiugulixiaoniu/Class-Website-V2.5?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/jiugulixiaoniu">jiugulixiaoniu</a> |
-| 🔴 [Class-Scoring-Program](#Class-Scoring-Program) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/andycey/Class-Scoring-Program?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/andycey.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/andycey.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/andycey">andycey</a> |
+| 🔴 [SmartBoardTools](#smartboardtools) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/FeedWhisper5148/SmartBoardTools_OpenSourced?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/FeedWhisper5148.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/FeedWhisper5148.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/FeedWhisper5148">FeedWhisper5148</a> |
+| 🔴 [SeewoSplash](#seewosplash) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/fengyec2/custom-seewo-splash-screen?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/fengyec2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/fengyec2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/fengyec2">fengyec2</a> |
+| 🔴 [Class-Website](#classwebsite) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/jiugulixiaoniu/CWBS-ClassWebsite?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/jiugulixiaoniu">jiugulixiaoniu</a> |
+| 🔴 [Class-Scoring-Program](#class-scoring-program) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/andycey/Class-Scoring-Program?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/andycey.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/andycey.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/andycey">andycey</a> |
 | 🔴 [沉浸式时钟](#沉浸式时钟) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/QQHKX/Immersive-clock?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/QQHKX.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/QQHKX.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/QQHKX">QQHKX</a> |
 | 🔴 [沉浸式噪音监测](#沉浸式噪音监测) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/QQHKX/Immersive-clock-monitor?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/QQHKX.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/QQHKX.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/QQHKX">QQHKX</a> |
 | 🔴 [360拖堂卫士](#360拖堂卫士) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BSOD-MEMZ/360-Class-Guard?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BSOD-MEMZ.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BSOD-MEMZ.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BSOD-MEMZ">BSOD-MEMZ</a> |
 | 🔴 [教室座位安排系统](#教室座位安排系统) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/xi-guang1/SeatsChanger?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xi-guang1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/xi-guang1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/xi-guang1">xi-guang1</a> |
-| 🔴 [ClassAware](#ClassAware) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/unDefFtr/ClassAware?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xi-guang1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/unDefFtr.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/unDefFtr">unDefFtr</a> |
-| 🔴 [CsesWebEditor](#CsesWebEditor) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SmartTeachCN/CsesWebEditor?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/PYLXU.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/PYLXU.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/PYLXU">PYLXU</a> |
-| 🔴 [CSES规范](#CSES规范) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SmartTeachCN/CSES?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/unDefFtr.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/unDefFtr.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/unDefFtr">unDefFtr</a> |
-| 🥇 [HugoAura](#HugoAura) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/HugoAura/Seewo-HugoAura?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Minoricew.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Minoricew.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Minoricew">Minoricew</a> |
-| 🔴 [VoiceHub](#VoiceHub) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/laoshuikaixue/VoiceHub?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/laoshuikaixue.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/laoshuikaixue.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/laoshuikaixue">laoshuikaixue</a> |
+| 🔴 [ClassAware](#classaware) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/unDefFtr/ClassAware?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xi-guang1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/unDefFtr.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/unDefFtr">unDefFtr</a> |
+| 🔴 [CsesWebEditor](#cseswebeditor) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SmartTeachCN/CsesWebEditor?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/PYLXU.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/PYLXU.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/PYLXU">PYLXU</a> |
+| 🔴 [CSES规范](#cses规范) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SmartTeachCN/CSES?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/unDefFtr.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/unDefFtr.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/unDefFtr">unDefFtr</a> |
+| 🥇 [HugoAura](#hugoaura) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/HugoAura/Seewo-HugoAura?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Minoricew.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Minoricew.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Minoricew">Minoricew</a> |
+| 🔴 [VoiceHub](#voicehub) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/laoshuikaixue/VoiceHub?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/laoshuikaixue.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/laoshuikaixue.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/laoshuikaixue">laoshuikaixue</a> |
 | 🔴 [学生任务分配系统](#学生任务分配系统) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/VacuolePaoo/stu-task-generate?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/VacuolePaoo.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/VacuolePaoo.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/VacuolePaoo">VacuolePaoo</a> |
-| 🔴 [Class-Roster-Picker-NEXT](#Class-Roster-Picker-NEXT) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Yish1/Class-Roster-Picker-NEXT?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Yish1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Yish1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Yish1">Yish1</a> |
+| 🔴 [Class-Roster-Picker-NEXT](#class-roster-picker-next) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Yish1/Class-Roster-Picker-NEXT?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Yish1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Yish1.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Yish1">Yish1</a> |
 | 🔴 [蓝屏抽奖机](#蓝屏抽奖机) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lanpinggai666/lanpingChouJiang?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lanpinggai666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lanpinggai666.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lanpinggai666">lanpinggai666</a> |
 | 🔴 [考试倒计时桌面小工具](#考试倒计时桌面小工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Zpcin/ExaminationCountdown?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Zpcin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Zpcin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Zpcin">Zpcin</a> |
 | 🔴 [国家中小学智慧教育平台电子课本下载工具](#国家中小学智慧教育平台电子课本下载工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/happycola233/tchMaterial-parser?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/happycola233.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/happycola233.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/happycola233">happycola233</a> |
 | 🔴 [希沃白板5激活工具](#希沃白板5激活工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/YXC-Lhy/EasiNote-5-Crack-Tool?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/YXC-Lhy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/YXC-Lhy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/YXC-Lhy">YXC-Lhy</a> |
-| 🔴 [SeewoGadgets](#SeewoGadgets) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/fengyec2/seewo-gadgets?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/fengyec2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/fengyec2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/fengyec2">fengyec2</a> |
-| 🌟 [Luminalium](#Luminalium) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Yunofactory/Kazuha?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Haraguse.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Haraguse.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Haraguse">Haraguse</a> |
-| 🔴 [ClassWindow](#ClassWindow) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/xinghai-smartedu/classwindow?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xinghai-smartedu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/xinghai-smartedu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/xinghai-smartedu">xinghai-smartedu</a> |
-| 🔴 [C30 智能教学自动登录工具](#C30-智能教学自动登录工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/WSXYT/C30Auto-login?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WSXYT">WSXYT</a> |
-| 🔴 [ClassScreenLock](#ClassScreenLock) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/jiugulixiaoniu/ClassScreenLock?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/jiugulixiaoniu">jiugulixiaoniu</a> |
-| 🔴 [Sidebar for Class](#SidebarForClass) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/PANDAJSR/sidebar-for-class?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/PANDAJSR.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/PANDAJSR.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/PANDAJSR">PANDAJSR</a> |
+| 🔴 [SeewoGadgets](#seewogadgets) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/fengyec2/seewo-gadgets?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/fengyec2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/fengyec2.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/fengyec2">fengyec2</a> |
+| 🌟 [Luminalium](#luminalium) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SECTL/Luminalium?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Haraguse.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Haraguse.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Haraguse">Haraguse</a> |
+| 🔴 [ClassWindow](#classwindow) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/xinghai-smartedu/classwindow?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xinghai-smartedu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/xinghai-smartedu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/xinghai-smartedu">xinghai-smartedu</a> |
+| 🔴 [C30 智能教学自动登录工具](#c30-智能教学自动登录工具) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/WSXYT/C30Auto-login?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WSXYT.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WSXYT">WSXYT</a> |
+| 🔴 [ClassScreenLock](#classscreenlock) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ClassScreenLock/ClassScreenLock?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/jiugulixiaoniu.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/jiugulixiaoniu">jiugulixiaoniu</a> |
+| 🔴 [Sidebar for Class](#sidebarforclass) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/PANDAJSR/sidebar-for-class?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/PANDAJSR.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/PANDAJSR.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/PANDAJSR">PANDAJSR</a> |
 | 🔴 [DD-CLASS](#dd-class) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/joyapple/DD-CLASS?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/joyapple.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/joyapple.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/joyapple">joyapple</a> |
-| 🔴 [EasiNote-Theme-Patcher](#EasiNote-Theme-Patcher) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BSOD-MEMZ/EasiNote-Theme-Patcher?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BSOD-MEMZ.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BSOD-MEMZ.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BSOD-MEMZ">BSOD-MEMZ</a> |
-| 🔴 [SeatingChartEditor2](#SeatingChartEditor2) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Braydenccc/SeatingChartEditor2?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Braydenccc.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Braydenccc.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Braydenccc">Braydenccc</a> |
-| 🔴 [随机点名Plus 3](#随机点名Plus-3) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Macrohard0001/Random_Choice_Plus_3?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Macrohard0001.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Macrohard0001.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Macrohard0001">Macrohard0001</a> |
+| 🔴 [EasiNote-Theme-Patcher](#easinote-theme-patcher) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BSOD-MEMZ/EasiNote-Theme-Patcher?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BSOD-MEMZ.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BSOD-MEMZ.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BSOD-MEMZ">BSOD-MEMZ</a> |
+| 🔴 [SeatingChartEditor2](#seatingcharteditor2) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Braydenccc/SeatingChartEditor2?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Braydenccc.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Braydenccc.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Braydenccc">Braydenccc</a> |
+| 🔴 [随机点名Plus 3](#随机点名plus-3) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Macrohard0001/Random_Choice_Plus_3?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Macrohard0001.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Macrohard0001.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Macrohard0001">Macrohard0001</a> |
 | 🔴 [不想排座位](#不想排座位) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/laosan577622/open_fuckseats?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/laosan577622.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/laosan577622.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/laosan577622">laosan577622</a> |
 
 <br/>
@@ -200,10 +200,10 @@
 | - | - |
 | [SeewoKiller](https://github.com/whstu/SeewoKiller/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/whstu/SeewoKiller?label=updated) | <img src="https://github.com/whstu.png" width="20" height="20"/> `硬硬屎` |
 | [seewo_jailbreak](https://github.com/CatMe0w/seewo_jailbreak/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/CatMe0w/seewo_jailbreak?label=updated) | <img src="https://github.com/CatMe0w.png" width="20" height="20"/> `CatMe0w` |
-| [SeewoMonitorSystem](https://github.com/DengHanxu/SeewoMonitorSystem/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/DengHanxu/SeewoMonitorSystem?label=updated) | <img src="https://github.com/DengHanxu.png" width="20" height="20"/> `DengHanxu` |
-| [BanSeewo](https://github.com/DengHanxu/BanSeewo/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/DengHanxu/BanSeewo?label=updated) | <img src="https://github.com/DengHanxu.png" width="20" height="20"/> `DengHanxu` |
+| [SeewoMonitorSystem](https://github.com/DengHanxu/SeewoMonitorSystem/)（原仓库，现不可访问） | `DengHanxu`（原作者，账号现不可访问） |
+| [BanSeewo](https://github.com/DengHanxu/BanSeewo/)（原仓库，现不可访问） | `DengHanxu`（原作者，账号现不可访问） |
 | [希沃管家密码 V2 破解(seewoaprt)](https://github.com/gohj99/seewoaprt/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/gohj99/seewoaprt?label=updated) | <img src="https://github.com/gohj99.png" width="20" height="20"/> `gohj99` |
-| [Seewo-Activation-Code-Calculator](https://github.com/Farbitrarily/Seewo-Activation-Code-Calculator/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Farbitrarily/Seewo-Activation-Code-Calculator?label=updated) | <img src="https://github.com/Farbitrarily.png" width="20" height="20"/> `Farbitrarily` |
+| [Seewo-Activation-Code-Calculator](https://github.com/f4bb0/Seewo-Activation-Code-Calculator/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/f4bb0/Seewo-Activation-Code-Calculator?label=updated) | <img src="https://github.com/Farbitrarily.png" width="20" height="20"/> `Farbitrarily` |
 | [LemonxNote](https://github.com/lh11117/LemonxNote/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/lh11117/LemonxNote?label=updated) | <img src="https://github.com/lh11117.png" width="20" height="20"/> `lh11117` |
 | [灵动课表](https://github.com/DuguSand/class_form/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form?label=updated) | <img src="https://github.com/DuguSand.png" width="20" height="20"/> `DuguSand` |
 | [SeewoHUB](https://github.com/CNwenwen/SeewoHUB/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB?label=updated) | <img src="https://github.com/CNwenwen.png" width="20" height="20"/> `CNwenwen` |
@@ -220,7 +220,7 @@
 <br/>
 <br/>
 
-<img src="https://github.com/WXRIW/Ink-Canvas/raw/master/Ink%20Canvas/Resources/InkCanvas.png?raw=true" width="56" height="56"/> 
+<img src="https://github.com/WXRIW/Ink-Canvas/raw/master/Ink%20Canvas/Resources/InkCanvas.png?raw=true" width="56" height="56"/>
 
 ### Ink Canvas
 
@@ -348,7 +348,7 @@ Ink Canvas Plus 是一款由 Clover Yan 维护、复刻自 WXRIW/Ink Canvas 的 
 
 ### Ink Canvas Artistry
 
-![banner](https://github.com/ChangSakura/Ink-Canvas/raw/master/Images/Screenshot1.png)
+![banner](https://github.com/InkCanvas/Ink-Canvas-Artistry/raw/master/Images/Screenshot1.png)
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 [![stars](https://img.shields.io/github/stars/InkCanvas/Ink-Canvas-Artistry?style=flat&color=red)](https://github.com/InkCanvas/Ink-Canvas-Artistry/stargazers)
@@ -387,7 +387,7 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 💬 **connect 锐评**：ICA的似我觉得是最可惜的，IC系里我最喜欢的就是这款，UI简洁，功能丰富，特别是恰到的好处丝滑，白板页是类似希沃白板的界面，工具板块可以打开希沃视频展台，对于教师上手的学习成本相比于其他的版本是几乎最低的，以及ppt联动页也是类似希沃ppt助手，只可惜停更了，令我惋惜。
 
-💬 **2,2,3-三甲基戊烷 锐评**：虽然ICA在Aiwb里面目前还在🥇的位置，但是我这个Aiwb maintainer认为它并不算比较好用的一款屏幕批注软件，甚至还比不上目前的ICC-CE。为什么呢？：①论绘制性能比不上基于C++的`智绘教Inkeys`；②论功能及其各方面的易用性不如ICC-CE；③ICA目前已经永久停更，不会再有功能更新与bug修复；④ICA总是会出现一些墨迹异常成为直线的情况，如下图所示：  
+💬 **2,2,3-三甲基戊烷 锐评**：虽然ICA在Aiwb里面目前还在🥇的位置，但是我这个Aiwb maintainer认为它并不算比较好用的一款屏幕批注软件，甚至还比不上目前的ICC-CE。为什么呢？：①论绘制性能比不上基于C++的`智绘教Inkeys`；②论功能及其各方面的易用性不如ICC-CE；③ICA目前已经永久停更，不会再有功能更新与bug修复；④ICA总是会出现一些墨迹异常成为直线的情况，如下图所示：
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/f3ea2a3d-10c1-4646-a84e-73fe86300ecf" height="300"/>
@@ -413,7 +413,7 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/Alan-CRL/Inkeys/main/GithubRes/logo.png" width="56" height="56"/> 
+<img src="https://raw.githubusercontent.com/Alan-CRL/Inkeys/main/GithubRes/logo.png" width="56" height="56"/>
 
 ### 智绘教Inkeys
 
@@ -480,7 +480,7 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 <div align="center">
 <br/>
 <br/>
-<img src="https://github.com/InkCanvasForClass/community/raw/main/icc.png" width="56" height="56"/> 
+<img src="https://github.com/InkCanvasForClass/community/raw/main/icc.png" width="56" height="56"/>
 
 
 
@@ -567,17 +567,17 @@ InkCanvasForClass 的社区版本，支持 Windows 平台（最低支持Windows 
 
 ### InkCanvasForClass
 
-[![stars](https://img.shields.io/github/stars/Segf4ultk1nger/InkCanvasForClass?style=flat&color=red)](https://github.com/Segf4ultk1nger/InkCanvasForClass/stargazers)
-[![forks](https://img.shields.io/github/forks/Segf4ultk1nger/InkCanvasForClass?style=flat&color=blue)](https://github.com/Segf4ultk1nger/InkCanvasForClass/forks)
-[![Watchers](https://img.shields.io/github/watchers/Segf4ultk1nger/InkCanvasForClass?style=flat&color=green)](https://github.com/Segf4ultk1nger/InkCanvasForClass/watchers)
-[![Downloads](https://img.shields.io/github/downloads/Segf4ultk1nger/InkCanvasForClass/total?style=flat&logo=github)](https://github.com/Segf4ultk1nger/InkCanvasForClass/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/Segf4ultk1nger/InkCanvasForClass?query=is%3Aopen&label=issues&color=purple)](https://github.com/Segf4ultk1nger/InkCanvasForClass/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/Segf4ultk1nger/InkCanvasForClass?style=flat)](https://github.com/Segf4ultk1nger/InkCanvasForClass/discussions)
-[![Created At](https://img.shields.io/github/created-at/Segf4ultk1nger/InkCanvasForClass)](https://github.com/Segf4ultk1nger/InkCanvasForClass)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Segf4ultk1nger/InkCanvasForClass)](https://github.com/Segf4ultk1nger/InkCanvasForClass/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/Segf4ultk1nger/InkCanvasForClass)](https://github.com/Segf4ultk1nger/InkCanvasForClass)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/Segf4ultk1nger/InkCanvasForClass)](https://github.com/Segf4ultk1nger/InkCanvasForClass)
-![GitHub License](https://img.shields.io/github/license/Segf4ultk1nger/InkCanvasForClass?color=red)
+[![stars](https://img.shields.io/github/stars/segf4ultk1nger-universe/InkCanvasForClass?style=flat&color=red)](https://github.com/segf4ultk1nger-universe/InkCanvasForClass/stargazers)
+[![forks](https://img.shields.io/github/forks/segf4ultk1nger-universe/InkCanvasForClass?style=flat&color=blue)](https://github.com/segf4ultk1nger-universe/InkCanvasForClass/forks)
+[![Watchers](https://img.shields.io/github/watchers/segf4ultk1nger-universe/InkCanvasForClass?style=flat&color=green)](https://github.com/segf4ultk1nger-universe/InkCanvasForClass/watchers)
+[![Downloads](https://img.shields.io/github/downloads/segf4ultk1nger-universe/InkCanvasForClass/total?style=flat&logo=github)](https://github.com/segf4ultk1nger-universe/InkCanvasForClass/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/segf4ultk1nger-universe/InkCanvasForClass?query=is%3Aopen&label=issues&color=purple)](https://github.com/segf4ultk1nger-universe/InkCanvasForClass/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/segf4ultk1nger-universe/InkCanvasForClass?style=flat)](https://github.com/segf4ultk1nger-universe/InkCanvasForClass/discussions)
+[![Created At](https://img.shields.io/github/created-at/segf4ultk1nger-universe/InkCanvasForClass)](https://github.com/segf4ultk1nger-universe/InkCanvasForClass)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/segf4ultk1nger-universe/InkCanvasForClass)](https://github.com/segf4ultk1nger-universe/InkCanvasForClass/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/segf4ultk1nger-universe/InkCanvasForClass)](https://github.com/segf4ultk1nger-universe/InkCanvasForClass)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/segf4ultk1nger-universe/InkCanvasForClass)](https://github.com/segf4ultk1nger-universe/InkCanvasForClass)
+![GitHub License](https://img.shields.io/github/license/segf4ultk1nger-universe/InkCanvasForClass?color=red)
 
 </div>
 
@@ -597,7 +597,7 @@ InkCanvasForClass的readme仓库。
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/Segf4ultk1nger/InkCanvasForClass/">Segf4ultk1nger/InkCanvasForClass</a></td>
+    <td><a href="https://github.com/segf4ultk1nger-universe/InkCanvasForClass/">segf4ultk1nger-universe/InkCanvasForClass</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -611,7 +611,7 @@ InkCanvasForClass的readme仓库。
 
 <br/>
 <br/>
-<img src="https://raw.githubusercontent.com/LiuYan-xwx/InkCanvasForClass-Remastered/refs/heads/master/InkCanvasForClass-Remastered/Resources/Icons-png/ICC-Re.png" width="56" height="56"/> 
+<img src="https://raw.githubusercontent.com/LiuYan-xwx/InkCanvasForClass-Remastered/refs/heads/master/InkCanvasForClass-Remastered/Resources/Icons-png/ICC-Re.png" width="56" height="56"/>
 
 ### ICC-Re
 
@@ -767,21 +767,21 @@ Ink Canvas Better 是一款基于 InkCanvas/Ink-Canvas-Artistry 开发的 Window
 <div align="center">
 <br/>
 <br/>
-<img src="https://github.com/wwcrdrvf6u/ShowWrite/raw/main/logo-SW.png" width="56" height="56"/>    
+<img src="https://github.com/SECTL/ShowWrite/raw/main/logo-SW.png" width="56" height="56"/>
 
 ### ShowWrite视频展台
 
-[![stars](https://img.shields.io/github/stars/wwcrdrvf6u/ShowWrite?style=flat&color=red)](https://github.com/wwcrdrvf6u/ShowWrite/stargazers)
-[![forks](https://img.shields.io/github/forks/wwcrdrvf6u/ShowWrite?style=flat&color=blue)](https://github.com/wwcrdrvf6u/ShowWrite/forks)
-[![Watchers](https://img.shields.io/github/watchers/wwcrdrvf6u/ShowWrite?style=flat&color=green)](https://github.com/wwcrdrvf6u/ShowWrite/watchers)
-[![Downloads](https://img.shields.io/github/downloads/wwcrdrvf6u/ShowWrite/total?style=flat&logo=github)](https://github.com/wwcrdrvf6u/ShowWrite/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/wwcrdrvf6u/ShowWrite?query=is%3Aopen&label=issues&color=purple)](https://github.com/wwcrdrvf6u/ShowWrite/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/wwcrdrvf6u/ShowWrite?style=flat)](https://github.com/wwcrdrvf6u/ShowWrite/discussions)
-[![Created At](https://img.shields.io/github/created-at/wwcrdrvf6u/ShowWrite)](https://github.com/wwcrdrvf6u/ShowWrite)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/wwcrdrvf6u/ShowWrite)](https://github.com/wwcrdrvf6u/ShowWrite/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/wwcrdrvf6u/ShowWrite)](https://github.com/wwcrdrvf6u/ShowWrite)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/wwcrdrvf6u/ShowWrite)](https://github.com/wwcrdrvf6u/ShowWrite)
-![GitHub License](https://img.shields.io/github/license/wwcrdrvf6u/ShowWrite?color=red)
+[![stars](https://img.shields.io/github/stars/SECTL/ShowWrite?style=flat&color=red)](https://github.com/SECTL/ShowWrite/stargazers)
+[![forks](https://img.shields.io/github/forks/SECTL/ShowWrite?style=flat&color=blue)](https://github.com/SECTL/ShowWrite/forks)
+[![Watchers](https://img.shields.io/github/watchers/SECTL/ShowWrite?style=flat&color=green)](https://github.com/SECTL/ShowWrite/watchers)
+[![Downloads](https://img.shields.io/github/downloads/SECTL/ShowWrite/total?style=flat&logo=github)](https://github.com/SECTL/ShowWrite/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/SECTL/ShowWrite?query=is%3Aopen&label=issues&color=purple)](https://github.com/SECTL/ShowWrite/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/SECTL/ShowWrite?style=flat)](https://github.com/SECTL/ShowWrite/discussions)
+[![Created At](https://img.shields.io/github/created-at/SECTL/ShowWrite)](https://github.com/SECTL/ShowWrite)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/SECTL/ShowWrite)](https://github.com/SECTL/ShowWrite/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/SECTL/ShowWrite)](https://github.com/SECTL/ShowWrite)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/SECTL/ShowWrite)](https://github.com/SECTL/ShowWrite)
+![GitHub License](https://img.shields.io/github/license/SECTL/ShowWrite?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201051061830-white?style=flat&logo=qq)](https://qm.qq.com/q/nNpEuIVfwe)
 
 </div>
@@ -807,7 +807,7 @@ ShowWrite 是一款为视频展台、直播教学等场景设计的软件，支�
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/wwcrdrvf6u/ShowWrite/">wwcrdrvf6u/ShowWrite</a></td>
+    <td><a href="https://github.com/SECTL/ShowWrite/">SECTL/ShowWrite</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -881,7 +881,7 @@ ShowWrite 是一款为视频展台、直播教学等场景设计的软件，支�
 <br/>
 <br/>
 
-<img src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" width="56" height="56"/> 
+<img src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" width="56" height="56"/>
 
 ### ClassIsland
 
@@ -944,7 +944,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 <br/>
 <br/>
 
-<img src="https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker/raw/master/ZongziTEK_Blackboard_Sticker/%E9%BB%91%E6%9D%BF%E8%B4%B4.png?raw=true" width="56" height="56"/> 
+<img src="https://github.com/ZongziTEK/ZongziTEK-Blackboard-Sticker/raw/master/ZongziTEK_Blackboard_Sticker/%E9%BB%91%E6%9D%BF%E8%B4%B4.png?raw=true" width="56" height="56"/>
 
 ### ZongziTEK 黑板贴
 
@@ -998,7 +998,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 <br/>
 <br/>
 
-<img src="https://github.com/user-attachments/assets/40d567c2-77bc-4c3e-bb1f-5215cc0bb376" width="56" height="56"/> 
+<img src="https://github.com/user-attachments/assets/40d567c2-77bc-4c3e-bb1f-5215cc0bb376" width="56" height="56"/>
 
 ### StickyHomeworks2
 
@@ -1052,35 +1052,35 @@ StickyHomeworks2 是一款支持富文本的桌面作业贴工具。
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/ExamAware/dsz-exam-showboard/master/resources/icon.png" height="56" width="56"/> 
+<img src="https://raw.githubusercontent.com/ExamAware/ExamShowboard-Legacy/master/resources/icon.png" height="56" width="56"/>
 
-### 考试看板
+### 考试看板-Legacy
 
 ![banner](https://github.com/ProjectCampus-CH/exam-showboard-next/raw/master/.Screenshots/InfoPage.png)
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 ![MDS](https://img.shields.io/badge/MD2%20UI-003E92)
-[![stars](https://img.shields.io/github/stars/ExamAware/dsz-exam-showboard?style=flat&color=red)](https://github.com/ExamAware/dsz-exam-showboard/stargazers)
-[![forks](https://img.shields.io/github/forks/ExamAware/dsz-exam-showboard?style=flat&color=blue)](https://github.com/ExamAware/dsz-exam-showboard/forks)
-[![Watchers](https://img.shields.io/github/watchers/ExamAware/dsz-exam-showboard?style=flat&color=green)](https://github.com/ExamAware/dsz-exam-showboard/watchers)
-[![Downloads](https://img.shields.io/github/downloads/ExamAware/dsz-exam-showboard/total?style=flat&logo=github)](https://github.com/ExamAware/dsz-exam-showboard/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/ExamAware/dsz-exam-showboard?query=is%3Aopen&label=issues&color=purple)](https://github.com/ExamAware/dsz-exam-showboard/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/ExamAware/dsz-exam-showboard?style=flat)](https://github.com/ExamAware/dsz-exam-showboard/discussions)
-[![Created At](https://img.shields.io/github/created-at/ExamAware/dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/ExamAware/dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/ExamAware/dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/ExamAware/dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard)
-![GitHub License](https://img.shields.io/github/license/ExamAware/dsz-exam-showboard?color=red)
+[![stars](https://img.shields.io/github/stars/ExamAware/ExamShowboard-Legacy?style=flat&color=red)](https://github.com/ExamAware/ExamShowboard-Legacy/stargazers)
+[![forks](https://img.shields.io/github/forks/ExamAware/ExamShowboard-Legacy?style=flat&color=blue)](https://github.com/ExamAware/ExamShowboard-Legacy/forks)
+[![Watchers](https://img.shields.io/github/watchers/ExamAware/ExamShowboard-Legacy?style=flat&color=green)](https://github.com/ExamAware/ExamShowboard-Legacy/watchers)
+[![Downloads](https://img.shields.io/github/downloads/ExamAware/ExamShowboard-Legacy/total?style=flat&logo=github)](https://github.com/ExamAware/ExamShowboard-Legacy/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/ExamAware/ExamShowboard-Legacy?query=is%3Aopen&label=issues&color=purple)](https://github.com/ExamAware/ExamShowboard-Legacy/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/ExamAware/ExamShowboard-Legacy?style=flat)](https://github.com/ExamAware/ExamShowboard-Legacy/discussions)
+[![Created At](https://img.shields.io/github/created-at/ExamAware/ExamShowboard-Legacy)](https://github.com/ExamAware/ExamShowboard-Legacy)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/ExamAware/ExamShowboard-Legacy)](https://github.com/ExamAware/ExamShowboard-Legacy/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/ExamAware/ExamShowboard-Legacy)](https://github.com/ExamAware/ExamShowboard-Legacy)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/ExamAware/ExamShowboard-Legacy)](https://github.com/ExamAware/ExamShowboard-Legacy)
+![GitHub License](https://img.shields.io/github/license/ExamAware/ExamShowboard-Legacy?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20901670561-white?style=flat&logo=qq)](https://qm.qq.com/q/zDiEipHsaI)
 
 </div>
 
-DSZ 考试看板。**一款显示当前时间与考试详细信息的看板类软件。**
+DSZ 考试看板-Legacy。**一款显示当前时间与考试详细信息的看板类软件。**
 
-**考试看板** 皆在提供一个简单明了的 UI 界面用于展示考试信息：可以展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前 15 分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。
+**考试看板-Legacy** 皆在提供一个简单明了的 UI 界面用于展示考试信息：可以展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前 15 分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。
 
 🏷 **关键词**：<br/>
-![考试看板](https://img.shields.io/badge/考试看板-white)
+![考试看板-Legacy](https://img.shields.io/badge/考试看板-Legacy-white)
 ![考试倒计时](https://img.shields.io/badge/考试倒计时-white)
 ![Electron](https://img.shields.io/badge/Electron-white)
 ![多平台支持](https://img.shields.io/badge/多平台支持-white)
@@ -1092,12 +1092,12 @@ DSZ 考试看板。**一款显示当前时间与考试详细信息的看板类�
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/ExamAware/dsz-exam-showboard/">ExamAware/dsz-exam-showboard</a></td>
+    <td><a href="https://github.com/ExamAware/ExamShowboard-Legacy/">ExamAware/ExamShowboard-Legacy</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub(镜像)</b></td>
-    <td><a href="https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/">ProjectCampus-CH/dsz-exam-showboard-next</a></td>
+    <td><a href="https://github.com/ProjectCampus-CH/exam-showboard-next/">ProjectCampus-CH/exam-showboard-next</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -1113,7 +1113,7 @@ DSZ 考试看板。**一款显示当前时间与考试详细信息的看板类�
 <br/>
 <br/>
 
-<img src="./images/extraisland-icon.png" width="56" height="56"/> 
+<img src="./images/extraisland-icon.png" width="56" height="56"/>
 
 ### ExtraIsland
 
@@ -1176,7 +1176,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 <br/>
 <br/>
 
-<img src="https://github.com/RinLit-233-shiroko/Class-Widgets/raw/main/img/Logo.png" width="56" height="56"/> 
+<img src="https://github.com/Class-Widgets/Class-Widgets/raw/main/img/Logo.png" width="56" height="56"/>
 
 ### Class Widgets
 
@@ -1184,17 +1184,17 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 ![FDS](https://img.shields.io/badge/Fluent%20UI-003E92)
-[![stars](https://img.shields.io/github/stars/RinLit-233-shiroko/Class-Widgets?style=flat&color=red)](https://github.com/RinLit-233-shiroko/Class-Widgets/stargazers)
-[![forks](https://img.shields.io/github/forks/RinLit-233-shiroko/Class-Widgets?style=flat&color=blue)](https://github.com/RinLit-233-shiroko/Class-Widgets/forks)
-[![Watchers](https://img.shields.io/github/watchers/RinLit-233-shiroko/Class-Widgets?style=flat&color=green)](https://github.com/RinLit-233-shiroko/Class-Widgets/watchers)
-[![Downloads](https://img.shields.io/github/downloads/RinLit-233-shiroko/Class-Widgets/total?style=flat&logo=github)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/RinLit-233-shiroko/Class-Widgets?query=is%3Aopen&label=issues&color=purple)](https://github.com/RinLit-233-shiroko/Class-Widgets/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/RinLit-233-shiroko/Class-Widgets?style=flat)](https://github.com/RinLit-233-shiroko/Class-Widgets/discussions)
-[![Created At](https://img.shields.io/github/created-at/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-![GitHub License](https://img.shields.io/github/license/RinLit-233-shiroko/Class-Widgets?color=red)
+[![stars](https://img.shields.io/github/stars/Class-Widgets/Class-Widgets?style=flat&color=red)](https://github.com/Class-Widgets/Class-Widgets/stargazers)
+[![forks](https://img.shields.io/github/forks/Class-Widgets/Class-Widgets?style=flat&color=blue)](https://github.com/Class-Widgets/Class-Widgets/forks)
+[![Watchers](https://img.shields.io/github/watchers/Class-Widgets/Class-Widgets?style=flat&color=green)](https://github.com/Class-Widgets/Class-Widgets/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Class-Widgets/Class-Widgets/total?style=flat&logo=github)](https://github.com/Class-Widgets/Class-Widgets/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Class-Widgets/Class-Widgets?query=is%3Aopen&label=issues&color=purple)](https://github.com/Class-Widgets/Class-Widgets/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Class-Widgets/Class-Widgets?style=flat)](https://github.com/Class-Widgets/Class-Widgets/discussions)
+[![Created At](https://img.shields.io/github/created-at/Class-Widgets/Class-Widgets)](https://github.com/Class-Widgets/Class-Widgets)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Class-Widgets/Class-Widgets)](https://github.com/Class-Widgets/Class-Widgets/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Class-Widgets/Class-Widgets)](https://github.com/Class-Widgets/Class-Widgets)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Class-Widgets/Class-Widgets)](https://github.com/Class-Widgets/Class-Widgets)
+![GitHub License](https://img.shields.io/github/license/Class-Widgets/Class-Widgets?color=red)
 [![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20169200380-white?style=flat&logo=qq)](https://qm.qq.com/q/XWDc2CUrei)
 
 </div>
@@ -1205,7 +1205,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 
 `Class Widgets` 提供了强大的通知系统，能够在上下课等时间点推出提醒；此外，插件也可调用通知接口，使其更加实用。`Class Widgets` 致力于提供高度的自定义选项，使每位用户能构建出独一无二的桌面课表。`Class Widgets` 采用了由微软推出的 Fluent Design 设计语言，使界面更加简洁、舒适和流畅，且使用了 QFluentWidgets UI 库。
 
-**静候佳音：全新`Class Widgets 2.0`正在紧锣密鼓的开发中！[GitHub仓库](https://github.com/RinLit-233-shiroko/Class-Widgets-2)**
+**静候佳音：全新`Class Widgets 2.0`正在紧锣密鼓的开发中！[GitHub仓库](https://github.com/Class-Widgets/Class-Widgets-2)**
 
 🏷 **关键词**：<br/>
 ![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
@@ -1228,7 +1228,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/RinLit-233-shiroko/Class-Widgets/">RinLit-233-shiroko/Class-Widgets</a></td>
+    <td><a href="https://github.com/Class-Widgets/Class-Widgets/">Class-Widgets/Class-Widgets</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -1357,24 +1357,24 @@ Education Clock 是一个实用的班级信息看板。是一款适合学校使�
 <br/>
 <br/>
 
-<img src="https://github.com/Candlest/ClassBoardSharp/raw/main/Resources/icon.ico" width="56" height="56"/> 
+<img src="https://github.com/Candlest/ClassBoard/raw/main/Resources/icon.ico" width="56" height="56"/>
 
-### ClassBoardSharp
+### ClassBoard
 
-![banner](https://github.com/Candlest/ClassBoardSharp/raw/main/README/theme_breeze.png)
+![banner](https://github.com/Candlest/ClassBoard/raw/main/README/theme_breeze.png)
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-[![stars](https://img.shields.io/github/stars/Candlest/ClassBoardSharp?style=flat&color=red)](https://github.com/Candlest/ClassBoardSharp/stargazers)
-[![forks](https://img.shields.io/github/forks/Candlest/ClassBoardSharp?style=flat&color=blue)](https://github.com/Candlest/ClassBoardSharp/forks)
-[![Watchers](https://img.shields.io/github/watchers/Candlest/ClassBoardSharp?style=flat&color=green)](https://github.com/Candlest/ClassBoardSharp/watchers)
-[![Downloads](https://img.shields.io/github/downloads/Candlest/ClassBoardSharp/total?style=flat&logo=github)](https://github.com/Candlest/ClassBoardSharp/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/Candlest/ClassBoardSharp?query=is%3Aopen&label=issues&color=purple)](https://github.com/Candlest/ClassBoardSharp/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/Candlest/ClassBoardSharp?style=flat)](https://github.com/Candlest/ClassBoardSharp/discussions)
-[![Created At](https://img.shields.io/github/created-at/Candlest/ClassBoardSharp)](https://github.com/Candlest/ClassBoardSharp)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Candlest/ClassBoardSharp)](https://github.com/Candlest/ClassBoardSharp/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/Candlest/ClassBoardSharp)](https://github.com/Candlest/ClassBoardSharp)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/Candlest/ClassBoardSharp)](https://github.com/Candlest/ClassBoardSharp)
-![GitHub License](https://img.shields.io/github/license/Candlest/ClassBoardSharp?color=red)<br/>
+[![stars](https://img.shields.io/github/stars/Candlest/ClassBoard?style=flat&color=red)](https://github.com/Candlest/ClassBoard/stargazers)
+[![forks](https://img.shields.io/github/forks/Candlest/ClassBoard?style=flat&color=blue)](https://github.com/Candlest/ClassBoard/forks)
+[![Watchers](https://img.shields.io/github/watchers/Candlest/ClassBoard?style=flat&color=green)](https://github.com/Candlest/ClassBoard/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Candlest/ClassBoard/total?style=flat&logo=github)](https://github.com/Candlest/ClassBoard/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Candlest/ClassBoard?query=is%3Aopen&label=issues&color=purple)](https://github.com/Candlest/ClassBoard/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Candlest/ClassBoard?style=flat)](https://github.com/Candlest/ClassBoard/discussions)
+[![Created At](https://img.shields.io/github/created-at/Candlest/ClassBoard)](https://github.com/Candlest/ClassBoard)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Candlest/ClassBoard)](https://github.com/Candlest/ClassBoard/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Candlest/ClassBoard)](https://github.com/Candlest/ClassBoard)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Candlest/ClassBoard)](https://github.com/Candlest/ClassBoard)
+![GitHub License](https://img.shields.io/github/license/Candlest/ClassBoard?color=red)<br/>
 ![](https://img.shields.io/badge/.NET_Framework-@4.6.1-green.svg?logo=dotnet)
 [![](https://img.shields.io/badge/Web_DEMO-@Candlest/ClassBoard_F8-red.svg?logo=githubpages)](https://candlest.github.io/ClassBoard-F8/)
 
@@ -1395,7 +1395,7 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/Candlest/ClassBoardSharp/">Candlest/ClassBoardSharp</a></td>
+    <td><a href="https://github.com/Candlest/ClassBoard/">Candlest/ClassBoard</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -1409,7 +1409,7 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 <br/>
 <br/>
 
-<img src="https://github.com/user-attachments/assets/cf5c240d-29fb-46e3-a888-468d8c585daf" width="56" height="56"/> 
+<img src="https://github.com/user-attachments/assets/cf5c240d-29fb-46e3-a888-468d8c585daf" width="56" height="56"/>
 
 ### Class Hot Search 班级热搜排行
 
@@ -1536,7 +1536,7 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 <br/>
 <br/>
 
-<img src="./images/timerin.png" width="56" height="56"/> 
+<img src="./images/timerin.png" width="56" height="56"/>
 
 ### TimerIn
 
@@ -1581,7 +1581,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 <br/>
 <br/>
 
-<img src="images/examschedule-icon.png" height="56" width="56"/> 
+<img src="images/examschedule-icon.png" height="56" width="56"/>
 
 ### ExamSchedule
 
@@ -1631,24 +1631,24 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/ZeroCatDev/Classworks/f546621ab9b4b0b25b5b3e4ea41edf7a33dfd3ac/public/pwa/image/logo.svg" width="56" height="56"/> 
+<img src="https://raw.githubusercontent.com/Moonrend/Classworks/f546621ab9b4b0b25b5b3e4ea41edf7a33dfd3ac/public/pwa/image/logo.svg" width="56" height="56"/>
 
 ### Classworks
 
-![banner](https://github.com/ZeroCatDev/Classworks/blob/main/images/banner.png?raw=true)
+![banner](https://github.com/Moonrend/Classworks/blob/main/images/banner.png?raw=true)
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-[![stars](https://img.shields.io/github/stars/ZeroCatDev/Classworks?style=flat&color=red)](https://github.com/ZeroCatDev/Classworks/stargazers)
-[![forks](https://img.shields.io/github/forks/ZeroCatDev/Classworks?style=flat&color=blue)](https://github.com/ZeroCatDev/Classworks/forks)
-[![Watchers](https://img.shields.io/github/watchers/ZeroCatDev/Classworks?style=flat&color=green)](https://github.com/ZeroCatDev/Classworks/watchers)
-[![Downloads](https://img.shields.io/github/downloads/ZeroCatDev/Classworks/total?style=flat&logo=github)](https://github.com/ZeroCatDev/Classworks/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/ZeroCatDev/Classworks?query=is%3Aopen&label=issues&color=purple)](https://github.com/ZeroCatDev/Classworks/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/ZeroCatDev/Classworks?style=flat)](https://github.com/ZeroCatDev/Classworks/discussions)
-[![Created At](https://img.shields.io/github/created-at/ZeroCatDev/Classworks)](https://github.com/ZeroCatDev/Classworks)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/ZeroCatDev/Classworks)](https://github.com/ZeroCatDev/Classworks/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/ZeroCatDev/Classworks)](https://github.com/ZeroCatDev/Classworks)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/ZeroCatDev/Classworks)](https://github.com/ZeroCatDev/Classworks)
-![GitHub License](https://img.shields.io/github/license/ZeroCatDev/Classworks?color=red)
+[![stars](https://img.shields.io/github/stars/Moonrend/Classworks?style=flat&color=red)](https://github.com/Moonrend/Classworks/stargazers)
+[![forks](https://img.shields.io/github/forks/Moonrend/Classworks?style=flat&color=blue)](https://github.com/Moonrend/Classworks/forks)
+[![Watchers](https://img.shields.io/github/watchers/Moonrend/Classworks?style=flat&color=green)](https://github.com/Moonrend/Classworks/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Moonrend/Classworks/total?style=flat&logo=github)](https://github.com/Moonrend/Classworks/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Moonrend/Classworks?query=is%3Aopen&label=issues&color=purple)](https://github.com/Moonrend/Classworks/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Moonrend/Classworks?style=flat)](https://github.com/Moonrend/Classworks/discussions)
+[![Created At](https://img.shields.io/github/created-at/Moonrend/Classworks)](https://github.com/Moonrend/Classworks)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Moonrend/Classworks)](https://github.com/Moonrend/Classworks/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Moonrend/Classworks)](https://github.com/Moonrend/Classworks)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Moonrend/Classworks)](https://github.com/Moonrend/Classworks)
+![GitHub License](https://img.shields.io/github/license/Moonrend/Classworks?color=red)
 [![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20964979747-white?style=flat&logo=qq)](https://qm.qq.com/q/4RX45b1Oac)
 
 </div>
@@ -1669,17 +1669,17 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/ZeroCatDev/Classworks/">ZeroCatDev/Classworks</a></td>
+    <td><a href="https://github.com/Moonrend/Classworks/">Moonrend/Classworks</a></td>
 </tr>
 <tr>
-    <td><img src="https://raw.githubusercontent.com/ZeroCatDev/Classworks/f546621ab9b4b0b25b5b3e4ea41edf7a33dfd3ac/public/pwa/image/logo.svg" width="18" height="18"></td>
+    <td><img src="https://raw.githubusercontent.com/Moonrend/Classworks/f546621ab9b4b0b25b5b3e4ea41edf7a33dfd3ac/public/pwa/image/logo.svg" width="18" height="18"></td>
     <td><b>网站</b></td>
 <td><a href="https://cs.houlangs.com">https://cs.houlangs.com</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
-    <td><img src="https://github.com/SunWuyuan.png" width="20" height="20"/> <a href="https://github.com/SunWuyuan/">孙悟元</a></td>
+    <td><img src="https://avatars.githubusercontent.com/u/88357633?s=48" width="20" height="20"/> 孙悟元（原 GitHub 主页目前不可访问）</td>
 </tr>
 </table>
 
@@ -1690,7 +1690,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 
 ### CountBoard
 
-![banner](https://pic.imgdb.cn/item/61a889432ab3f51d9190ca1b.png) 
+![banner](https://pic.imgdb.cn/item/61a889432ab3f51d9190ca1b.png)
 
 [![stars](https://img.shields.io/github/stars/Gaoyongxian666/CountBoard?style=flat&color=red)](https://github.com/Gaoyongxian666/CountBoard/stargazers)
 [![forks](https://img.shields.io/github/forks/Gaoyongxian666/CountBoard?style=flat&color=blue)](https://github.com/Gaoyongxian666/CountBoard/forks)
@@ -1737,7 +1737,7 @@ CountBoard 是一个基于 Tkinter 开源的桌面日程倒计时应用。支持
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/EnderWolf006/ElectronClassSchedule/main/image/icon.png" width="56" height="56"/> 
+<img src="https://raw.githubusercontent.com/EnderWolf006/ElectronClassSchedule/main/image/icon.png" width="56" height="56"/>
 
 ### ElectronClassSchedule
 
@@ -1874,7 +1874,7 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科�
 <br/>
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/183182916?s=48&v=4" width="56" height="56"/> 
+<img src="https://avatars.githubusercontent.com/u/183182916?s=48&v=4" width="56" height="56"/>
 
 ### Sticky-attention
 
@@ -1964,7 +1964,7 @@ StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示�
 <br/>
 <br/>
 
-<img src="./images/ClassPaper-icon.png" width="56" height="56"/> 
+<img src="./images/ClassPaper-icon.png" width="56" height="56"/>
 
 ### ClassPaper
 
@@ -2049,7 +2049,7 @@ ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于R
 <br/>
 <br/>
 
-<img src="./images/iclass-icon.png" width="56" height="56"/> 
+<img src="./images/iclass-icon.png" width="56" height="56"/>
 
 ### iClass
 
@@ -2128,19 +2128,19 @@ ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于R
 <br/>
 <br/>
 
-### FinitoBoard
+### Zooni
 
-[![stars](https://img.shields.io/github/stars/Xwei1645/finito_board?style=flat&color=red)](https://github.com/Xwei1645/finito_board/stargazers)
-[![forks](https://img.shields.io/github/forks/Xwei1645/finito_board?style=flat&color=blue)](https://github.com/Xwei1645/finito_board/forks)
-[![Watchers](https://img.shields.io/github/watchers/Xwei1645/finito_board?style=flat&color=green)](https://github.com/Xwei1645/finito_board/watchers)
-[![Downloads](https://img.shields.io/github/downloads/Xwei1645/finito_board/total?style=flat&logo=github)](https://github.com/Xwei1645/finito_board/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/Xwei1645/finito_board?query=is%3Aopen&label=issues&color=purple)](https://github.com/Xwei1645/finito_board/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/Xwei1645/finito_board?style=flat)](https://github.com/Xwei1645/finito_board/discussions)
-[![Created At](https://img.shields.io/github/created-at/Xwei1645/finito_board)](https://github.com/Xwei1645/finito_board)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Xwei1645/finito_board)](https://github.com/Xwei1645/finito_board/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/Xwei1645/finito_board)](https://github.com/Xwei1645/finito_board)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/Xwei1645/finito_board)](https://github.com/Xwei1645/finito_board)
-![GitHub License](https://img.shields.io/github/license/Xwei1645/finito_board?color=red)
+[![stars](https://img.shields.io/github/stars/Xwei1645/Zooni?style=flat&color=red)](https://github.com/Xwei1645/Zooni/stargazers)
+[![forks](https://img.shields.io/github/forks/Xwei1645/Zooni?style=flat&color=blue)](https://github.com/Xwei1645/Zooni/forks)
+[![Watchers](https://img.shields.io/github/watchers/Xwei1645/Zooni?style=flat&color=green)](https://github.com/Xwei1645/Zooni/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Xwei1645/Zooni/total?style=flat&logo=github)](https://github.com/Xwei1645/Zooni/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Xwei1645/Zooni?query=is%3Aopen&label=issues&color=purple)](https://github.com/Xwei1645/Zooni/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Xwei1645/Zooni?style=flat)](https://github.com/Xwei1645/Zooni/discussions)
+[![Created At](https://img.shields.io/github/created-at/Xwei1645/Zooni)](https://github.com/Xwei1645/Zooni)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Xwei1645/Zooni)](https://github.com/Xwei1645/Zooni/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Xwei1645/Zooni)](https://github.com/Xwei1645/Zooni)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Xwei1645/Zooni)](https://github.com/Xwei1645/Zooni)
+![GitHub License](https://img.shields.io/github/license/Xwei1645/Zooni?color=red)
 
 </div>
 
@@ -2153,7 +2153,7 @@ ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于R
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/Xwei1645/finito_board/">Xwei1645/finito_board</a></td>
+    <td><a href="https://github.com/Xwei1645/Zooni/">Xwei1645/Zooni</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -2210,7 +2210,7 @@ ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于R
 <br/>
 <br/>
 
-<img src="./images/DCP-icon.svg" width="56" height="56"/> 
+<img src="./images/DCP-icon.svg" width="56" height="56"/>
 
 ### 每日作业面板
 
@@ -2306,7 +2306,7 @@ ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于R
 <br/>
 <br/>
 
-<img src="https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist/raw/main/img/logo.png"  width="56"/> 
+<img src="https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist/raw/main/img/logo.png"  width="56"/>
 
 ### PPT 触屏辅助(PowerPoint Touch Assist)
 
@@ -2449,7 +2449,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 <br/>
 <br/>
 
-<img src="https://github.com/WhatDamon/OpenLuckyRandom/raw/main/assets/openluckyrandom.png" height="56" width="56"/> 
+<img src="https://github.com/WhatDamon/OpenLuckyRandom/raw/main/assets/openluckyrandom.png" height="56" width="56"/>
 
 ### OpenLuckyRandom
 
@@ -2542,7 +2542,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 <br/>
 <br/>
 
-<img src="./images/ENAL.png" height="56"/> 
+<img src="./images/ENAL.png" height="56"/>
 
 ### ENAL 希沃易登
 
@@ -2565,12 +2565,12 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 
 4. ENAL 的请求不走系统代理。所以 Fiddler 记得套一层 mihomo TUN。
 
-5. **综上所述，你可以期待逗比画的饼：[EasiAuth](https://github.com/Awesome-Iwb/EasiAuth) ，该项目基于 WPF/C# 技术栈开发，代码全部开源，使用了最先进的融合接口，多个方法和希沃服务器做账号鉴权，并且提供了 API 接口供第三方软件调用，让第三方软件也可以快速接入 希沃账号的 账号密码登录、二维码登录、SSO 登录、Token 登录、快联登录。**
+5. **综上所述，你可以期待逗比画的饼：[EasiAuth](https://github.com/Awesome-Iwb/EasiAuth)（曾经开源，仓库目前不可访问）。该项目据原描述基于 WPF/C# 技术栈开发，使用了最先进的融合接口，多个方法和希沃服务器做账号鉴权，并且提供了 API 接口供第三方软件调用，让第三方软件也可以快速接入希沃账号的账号密码登录、二维码登录、SSO 登录、Token 登录、快联登录。**
 
 <table align="center">
 <tr>
     <td><b>下载地址</b></td>
-    <td><a href="https://file.iceawa.com/iceawa-onedrive/ENAL/Ver">file.iceawa.com/iceawa-onedrive/ENAL/Ver</a></td>
+    <td><a href="https://file.iceawa.com/ICETeamDrive-OneDrive/ENAL/Ver">file.iceawa.com/ICETeamDrive-OneDrive/ENAL/Ver</a></td>
 </tr>
 <tr>
     <td><b>开发者</b></td>
@@ -2583,7 +2583,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 <br/>
 <br/>
 
-<img src="./images/easiauto.ico" height="56"/> 
+<img src="./images/easiauto.ico" height="56"/>
 
 ### EasiAuto
 
@@ -2712,22 +2712,22 @@ EasiAuto 是一个轻量级 CLI 工具，用 Python 编写，专门用于**一�
 <br/>
 <br/>
 
-<img src="https://github.com/SectionIstool/SectionIstool/raw/main/resources/SectionIstool_icon.png" height="56" width="56"/> 
+<img src="https://github.com/SECTL/SectionIstool/raw/main/resources/SectionIstool_icon.png" height="56" width="56"/>
 
 ### SectionIstool
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-[![stars](https://img.shields.io/github/stars/SectionIstool/SectionIstool?style=flat&color=red)](https://github.com/SectionIstool/SectionIstool/stargazers)
-[![forks](https://img.shields.io/github/forks/SectionIstool/SectionIstool?style=flat&color=blue)](https://github.com/SectionIstool/SectionIstool/forks)
-[![Watchers](https://img.shields.io/github/watchers/SectionIstool/SectionIstool?style=flat&color=green)](https://github.com/SectionIstool/SectionIstool/watchers)
-[![Downloads](https://img.shields.io/github/downloads/SectionIstool/SectionIstool/total?style=flat&logo=github)](https://github.com/SectionIstool/SectionIstool/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/SectionIstool/SectionIstool?query=is%3Aopen&label=issues&color=purple)](https://github.com/SectionIstool/SectionIstool/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/SectionIstool/SectionIstool?style=flat)](https://github.com/SectionIstool/SectionIstool/discussions)
-[![Created At](https://img.shields.io/github/created-at/SectionIstool/SectionIstool)](https://github.com/SectionIstool/SectionIstool)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/SectionIstool/SectionIstool)](https://github.com/SectionIstool/SectionIstool/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/SectionIstool/SectionIstool)](https://github.com/SectionIstool/SectionIstool)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/SectionIstool/SectionIstool)](https://github.com/SectionIstool/SectionIstool)
-![GitHub License](https://img.shields.io/github/license/SectionIstool/SectionIstool?color=red)
+[![stars](https://img.shields.io/github/stars/SECTL/SectionIstool?style=flat&color=red)](https://github.com/SECTL/SectionIstool/stargazers)
+[![forks](https://img.shields.io/github/forks/SECTL/SectionIstool?style=flat&color=blue)](https://github.com/SECTL/SectionIstool/forks)
+[![Watchers](https://img.shields.io/github/watchers/SECTL/SectionIstool?style=flat&color=green)](https://github.com/SECTL/SectionIstool/watchers)
+[![Downloads](https://img.shields.io/github/downloads/SECTL/SectionIstool/total?style=flat&logo=github)](https://github.com/SECTL/SectionIstool/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/SECTL/SectionIstool?query=is%3Aopen&label=issues&color=purple)](https://github.com/SECTL/SectionIstool/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/SECTL/SectionIstool?style=flat)](https://github.com/SECTL/SectionIstool/discussions)
+[![Created At](https://img.shields.io/github/created-at/SECTL/SectionIstool)](https://github.com/SECTL/SectionIstool)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/SECTL/SectionIstool)](https://github.com/SECTL/SectionIstool/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/SECTL/SectionIstool)](https://github.com/SECTL/SectionIstool)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/SECTL/SectionIstool)](https://github.com/SECTL/SectionIstool)
+![GitHub License](https://img.shields.io/github/license/SECTL/SectionIstool?color=red)
 [![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20833875216-white?style=flat&logo=qq)]()
 
 </div>
@@ -2738,7 +2738,7 @@ EasiAuto 是一个轻量级 CLI 工具，用 Python 编写，专门用于**一�
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/SectionIstool/SectionIstool/">SectionIstool/SectionIstool</a></td>
+    <td><a href="https://github.com/SECTL/SectionIstool/">SECTL/SectionIstool</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -2752,7 +2752,7 @@ EasiAuto 是一个轻量级 CLI 工具，用 Python 编写，专门用于**一�
 <br/>
 <br/>
 
-<img src="./images/countdowncontrol-icon.png" height="56" width="56"/> 
+<img src="./images/countdowncontrol-icon.png" height="56" width="56"/>
 
 ### CountDownControl
 
@@ -2793,7 +2793,7 @@ EasiAuto 是一个轻量级 CLI 工具，用 Python 编写，专门用于**一�
 <br/>
 <br/>
 
-<img src="./images/countdowncontrol-icon.png" height="56" width="56"/> 
+<img src="./images/countdowncontrol-icon.png" height="56" width="56"/>
 
 ### LockTime
 
@@ -2834,7 +2834,7 @@ EasiAuto 是一个轻量级 CLI 工具，用 Python 编写，专门用于**一�
 <br/>
 <br/>
 
-<img src="./images/usefulcontrol-icon.png" height="56" width="56"/> 
+<img src="./images/usefulcontrol-icon.png" height="56" width="56"/>
 
 ### UsefulControl
 
@@ -2875,7 +2875,7 @@ EasiAuto 是一个轻量级 CLI 工具，用 Python 编写，专门用于**一�
 <br/>
 <br/>
 
-<img src="./images/rand-icon.png" height="56" width="56"/> 
+<img src="./images/rand-icon.png" height="56" width="56"/>
 
 ### Rand 抽号器
 
@@ -2920,7 +2920,7 @@ Rand 是一款简洁、现代化、易用的抽号软件，专为触摸屏设备
 <br/>
 <br/>
 
-<img src="https://github.com/NamePickerOrg.png" height="56" width="56"/> 
+<img src="https://github.com/NamePickerOrg.png" height="56" width="56"/>
 
 ### NamePicker
 
@@ -2970,7 +2970,7 @@ NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基�
 <br/>
 <br/>
 
-<img src="./images/islandcaller-icon.png" height="56" width="56"/> 
+<img src="./images/islandcaller-icon.png" height="56" width="56"/>
 
 ### IslandCaller
 
@@ -3115,9 +3115,9 @@ RandPicker 是一款简单易用的随机抽取工具，支持多种抽取方式
     <td><img src="https://github.com/xuanxuan1231.png?s=48&v=4" width="20" height="20"/> <a href="https://github.com/xuanxuan1231">xuanxuan1231</a></td>
 </tr>
 <tr>
-    <td><img src="https://github.com/xuanxuan1231/RandPicker/raw/main/img/Logo.png" width="18" height="18"></td>
-    <td><b>官网</b></td>
-    <td><a href="https://xuanxuan1231.github.io/RandPicker/">https://xuanxuan1231.github.io/RandPicker/</a></td>
+    <td><img src="https://github.com/xuanxuan1231/RandPicker/raw/main/assets/icon-light.jpg" width="18" height="18"></td>
+    <td><b>原官网</b></td>
+    <td><a href="https://xuanxuan1231.github.io/RandPicker/">https://xuanxuan1231.github.io/RandPicker/</a>（页面内容已失效）</td>
 </tr>
 </table>
 
@@ -3222,17 +3222,17 @@ SeewoSplash 是一个 Fluent 风格的图形化工具，允许你自定义希沃
 
 ### ClassWebsite
 
-[![stars](https://img.shields.io/github/stars/jiugulixiaoniu/Class-Website-V2.5?style=flat&color=red)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)
-[![forks](https://img.shields.io/github/forks/jiugulixiaoniu/Class-Website-V2.5?style=flat&color=blue)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)
-[![Watchers](https://img.shields.io/github/watchers/jiugulixiaoniu/Class-Website-V2.5?style=flat&color=green)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)
-[![Downloads](https://img.shields.io/github/downloads/jiugulixiaoniu/Class-Website-V2.5/total?style=flat&logo=github)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/jiugulixiaoniu/Class-Website-V2.5?query=is%3Aopen&label=issues&color=purple)](https://github.com/jiugulixiaoniu/Class-Website-V2.5/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/jiugulixiaoniu/Class-Website-V2.5?style=flat)](https://github.com/jiugulixiaoniu/Class-Website-V2.5/discussions)
-[![Created At](https://img.shields.io/github/created-at/jiugulixiaoniu/Class-Website-V2.5)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/jiugulixiaoniu/Class-Website-V2.5)](https://github.com/jiugulixiaoniu/Class-Website-V2.5/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/jiugulixiaoniu/Class-Website-V2.5)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/jiugulixiaoniu/Class-Website-V2.5?)](https://github.com/jiugulixiaoniu/Class-Website-V2.5)
-![GitHub License](https://img.shields.io/github/license/jiugulixiaoniu/Class-Website-V2.5?color=red)
+[![stars](https://img.shields.io/github/stars/jiugulixiaoniu/CWBS-ClassWebsite?style=flat&color=red)](https://github.com/jiugulixiaoniu/CWBS-ClassWebsite)
+[![forks](https://img.shields.io/github/forks/jiugulixiaoniu/CWBS-ClassWebsite?style=flat&color=blue)](https://github.com/jiugulixiaoniu/CWBS-ClassWebsite)
+[![Watchers](https://img.shields.io/github/watchers/jiugulixiaoniu/CWBS-ClassWebsite?style=flat&color=green)](https://github.com/jiugulixiaoniu/CWBS-ClassWebsite)
+[![Downloads](https://img.shields.io/github/downloads/jiugulixiaoniu/CWBS-ClassWebsite/total?style=flat&logo=github)](https://github.com/jiugulixiaoniu/CWBS-ClassWebsite)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/jiugulixiaoniu/CWBS-ClassWebsite?query=is%3Aopen&label=issues&color=purple)](https://github.com/jiugulixiaoniu/CWBS-ClassWebsite/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/jiugulixiaoniu/CWBS-ClassWebsite?style=flat)](https://github.com/jiugulixiaoniu/CWBS-ClassWebsite/discussions)
+[![Created At](https://img.shields.io/github/created-at/jiugulixiaoniu/CWBS-ClassWebsite)](https://github.com/jiugulixiaoniu/CWBS-ClassWebsite)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/jiugulixiaoniu/CWBS-ClassWebsite)](https://github.com/jiugulixiaoniu/CWBS-ClassWebsite/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/jiugulixiaoniu/CWBS-ClassWebsite)](https://github.com/jiugulixiaoniu/CWBS-ClassWebsite)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/jiugulixiaoniu/CWBS-ClassWebsite?)](https://github.com/jiugulixiaoniu/CWBS-ClassWebsite)
+![GitHub License](https://img.shields.io/github/license/jiugulixiaoniu/CWBS-ClassWebsite?color=red)
 
 </div>
 
@@ -3251,7 +3251,7 @@ ClassWebsite是一个网页类项目，它可以用来为您的班级建立专�
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/jiugulixiaoniu/Class-Website-V2.5">jiugulixiaoniu/Class-Website-V2.5</a></td>
+    <td><a href="https://github.com/jiugulixiaoniu/CWBS-ClassWebsite">jiugulixiaoniu/CWBS-ClassWebsite</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -3719,7 +3719,7 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 <br/>
 <br/>
 
-<img src="./images/Class-Roster-Picker-icon.png" width="56" height="56"/> 
+<img src="./images/Class-Roster-Picker-icon.png" width="56" height="56"/>
 
 ### Class-Roster-Picker-NEXT
 
@@ -3979,17 +3979,17 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 
 ![banner](./banner/Luminalium-Banner.png)
 
-[![stars](https://img.shields.io/github/stars/Yunofactory/Kazuha?style=flat&color=red)](https://github.com/Yunofactory/Kazuha/stargazers)
-[![forks](https://img.shields.io/github/forks/Yunofactory/Kazuha?style=flat&color=blue)](https://github.com/Yunofactory/Kazuha/forks)
-[![Watchers](https://img.shields.io/github/watchers/Yunofactory/Kazuha?style=flat&color=green)](https://github.com/Yunofactory/Kazuha/watchers)
-[![Downloads](https://img.shields.io/github/downloads/Yunofactory/Kazuha/total?style=flat&logo=github)](https://github.com/Yunofactory/Kazuha/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/Yunofactory/Kazuha?query=is%3Aopen&label=issues&color=purple)](https://github.com/Yunofactory/Kazuha/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/Yunofactory/Kazuha?style=flat)](https://github.com/Yunofactory/Kazuha/discussions)
-[![Created At](https://img.shields.io/github/created-at/Yunofactory/Kazuha)](https://github.com/Yunofactory/Kazuha)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Yunofactory/Kazuha)](https://github.com/Yunofactory/Kazuha/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/Yunofactory/Kazuha)](https://github.com/Yunofactory/Kazuha)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/Yunofactory/Kazuha)](https://github.com/Yunofactory/Kazuha)
-![GitHub License](https://img.shields.io/github/license/Yunofactory/Kazuha?color=red)
+[![stars](https://img.shields.io/github/stars/SECTL/Luminalium?style=flat&color=red)](https://github.com/SECTL/Luminalium/stargazers)
+[![forks](https://img.shields.io/github/forks/SECTL/Luminalium?style=flat&color=blue)](https://github.com/SECTL/Luminalium/forks)
+[![Watchers](https://img.shields.io/github/watchers/SECTL/Luminalium?style=flat&color=green)](https://github.com/SECTL/Luminalium/watchers)
+[![Downloads](https://img.shields.io/github/downloads/SECTL/Luminalium/total?style=flat&logo=github)](https://github.com/SECTL/Luminalium/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/SECTL/Luminalium?query=is%3Aopen&label=issues&color=purple)](https://github.com/SECTL/Luminalium/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/SECTL/Luminalium?style=flat)](https://github.com/SECTL/Luminalium/discussions)
+[![Created At](https://img.shields.io/github/created-at/SECTL/Luminalium)](https://github.com/SECTL/Luminalium)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/SECTL/Luminalium)](https://github.com/SECTL/Luminalium/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/SECTL/Luminalium)](https://github.com/SECTL/Luminalium)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/SECTL/Luminalium)](https://github.com/SECTL/Luminalium)
+![GitHub License](https://img.shields.io/github/license/SECTL/Luminalium?color=red)
 
 </div>
 
@@ -4015,7 +4015,7 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/Yunofactory/Kazuha/">Yunofactory/Kazuha</a></td>
+    <td><a href="https://github.com/SECTL/Luminalium/">SECTL/Luminalium</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -4139,17 +4139,17 @@ CSES 是一种通用的课程表交换格式，用于在不同软件之间交换
 
 ![banner](./banner/ClassScreenLock.png)
 
-[![stars](https://img.shields.io/github/stars/jiugulixiaoniu/ClassScreenLock?style=flat&color=red)](https://github.com/jiugulixiaoniu/ClassScreenLock/stargazers)
-[![forks](https://img.shields.io/github/forks/jiugulixiaoniu/ClassScreenLock?style=flat&color=blue)](https://github.com/jiugulixiaoniu/ClassScreenLock/forks)
-[![Watchers](https://img.shields.io/github/watchers/jiugulixiaoniu/ClassScreenLock?style=flat&color=green)](https://github.com/jiugulixiaoniu/ClassScreenLock/watchers)
-[![Downloads](https://img.shields.io/github/downloads/jiugulixiaoniu/ClassScreenLock/total?style=flat&logo=github)](https://github.com/jiugulixiaoniu/ClassScreenLock/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/jiugulixiaoniu/ClassScreenLock?query=is%3Aopen&label=issues&color=purple)](https://github.com/jiugulixiaoniu/ClassScreenLock/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/jiugulixiaoniu/ClassScreenLock?style=flat)](https://github.com/jiugulixiaoniu/ClassScreenLock/discussions)
-[![Created At](https://img.shields.io/github/created-at/jiugulixiaoniu/ClassScreenLock)](https://github.com/jiugulixiaoniu/ClassScreenLock)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/jiugulixiaoniu/ClassScreenLock)](https://github.com/jiugulixiaoniu/ClassScreenLock/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/jiugulixiaoniu/ClassScreenLock)](https://github.com/jiugulixiaoniu/ClassScreenLock)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/jiugulixiaoniu/ClassScreenLock)](https://github.com/jiugulixiaoniu/ClassScreenLock)
-![GitHub License](https://img.shields.io/github/license/jiugulixiaoniu/ClassScreenLock?color=red)
+[![stars](https://img.shields.io/github/stars/ClassScreenLock/ClassScreenLock?style=flat&color=red)](https://github.com/ClassScreenLock/ClassScreenLock/stargazers)
+[![forks](https://img.shields.io/github/forks/ClassScreenLock/ClassScreenLock?style=flat&color=blue)](https://github.com/ClassScreenLock/ClassScreenLock/forks)
+[![Watchers](https://img.shields.io/github/watchers/ClassScreenLock/ClassScreenLock?style=flat&color=green)](https://github.com/ClassScreenLock/ClassScreenLock/watchers)
+[![Downloads](https://img.shields.io/github/downloads/ClassScreenLock/ClassScreenLock/total?style=flat&logo=github)](https://github.com/ClassScreenLock/ClassScreenLock/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/ClassScreenLock/ClassScreenLock?query=is%3Aopen&label=issues&color=purple)](https://github.com/ClassScreenLock/ClassScreenLock/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/ClassScreenLock/ClassScreenLock?style=flat)](https://github.com/ClassScreenLock/ClassScreenLock/discussions)
+[![Created At](https://img.shields.io/github/created-at/ClassScreenLock/ClassScreenLock)](https://github.com/ClassScreenLock/ClassScreenLock)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/ClassScreenLock/ClassScreenLock)](https://github.com/ClassScreenLock/ClassScreenLock/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/ClassScreenLock/ClassScreenLock)](https://github.com/ClassScreenLock/ClassScreenLock)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/ClassScreenLock/ClassScreenLock)](https://github.com/ClassScreenLock/ClassScreenLock)
+![GitHub License](https://img.shields.io/github/license/ClassScreenLock/ClassScreenLock?color=red)
 
 </div>
 
@@ -4167,7 +4167,7 @@ ClassScreenLock是一款防止无计算机基础的学生会在下课/放学后�
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/jiugulixiaoniu/ClassScreenLock/">jiugulixiaoniu/ClassScreenLock</a></td>
+    <td><a href="https://github.com/ClassScreenLock/ClassScreenLock/">ClassScreenLock/ClassScreenLock</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -4506,12 +4506,12 @@ ClassScreenLock是一款防止无计算机基础的学生会在下课/放学后�
 
 ## 💗 友情链接
 
-- [iNKORE!](https://inkore.net/) - iNKORE! 官方网站
+- [iNKORE!](https://www.inkore.net/) - iNKORE! 官方网站
 
   本集合收录的部分项目使用了 iNKORE.UI.WPF.Modern 作为其 UI 库。
   <image src="https://github.com/iNKORE-NET/UI.WPF.Modern/blob/main/assets/images/badges/UI.WPF.Modern_Main_Button.svg?raw=true" alt="iNKORE.UI.WPF.Modern"/>
 
-- [PhosoftWebPages](https://psoft.eu.org/) - 溪夏坡Zpcin 的个人网站
+- [PhosoftWebPages](https://xiapo.top/) - 溪夏坡Zpcin 的个人网站
 89	+
 - [Awesome-Class-Softwares](https://acs.jursin.top/) - Awesome-Class-Softwares 网站
 3990	+
@@ -4529,7 +4529,7 @@ ClassScreenLock是一款防止无计算机基础的学生会在下课/放学后�
 
 - <image src="./images/misaka-space-icon.png" height="18"/> **[seewoGeekWiki](https://wiki.misaka.space/)** - 希沃业绩售后冲击部官方 Wiki。
 
-- **[希沃折腾手册](https://kdocs.cn/l/coHT3CUcoQDV)** - 希沃一体机折腾手册，整理了许多一体机折腾的教程。
+- **[希沃折腾手册](https://www.kdocs.cn/l/coHT3CUcoQDV)** - 希沃一体机折腾手册，整理了许多一体机折腾的教程。
 
 
 ## 👋 同类项目推荐
