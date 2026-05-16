@@ -767,7 +767,7 @@ Ink Canvas Better 是一款基于 InkCanvas/Ink-Canvas-Artistry 开发的 Window
 <div align="center">
 <br/>
 <br/>
-<img src="https://github.com/SECTL/ShowWrite/raw/main/logo-SW.png" width="56" height="56"/>
+<img src="https://github.com/SECTL/ShowWrite/raw/1541ad7b4f2dea3cb4ef1c0ed016b890697a90c6/logo-SW1.png" width="56" height="56"/>
 
 ### ShowWrite视频展台
 
