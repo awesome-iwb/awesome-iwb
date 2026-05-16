@@ -2190,6 +2190,7 @@ ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于R
 
 <table align="center">
 <tr>
+    <td><img src="https://github.com/Enigfrank/ElectronClassScheduleX/raw/refs/heads/main/src/image/icon.svg" width="18" height="18"></td>
     <td><b>官网</b></td>
     <td><a href="https://doc.cavendi.top/">https://doc.cavendi.top/</a></td>
 </tr>
