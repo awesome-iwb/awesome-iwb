@@ -1690,7 +1690,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 
 ### CountBoard
 
-![banner](https://pic.imgdb.cn/item/61a889432ab3f51d9190ca1b.pngg) 
+![banner](https://pic.imgdb.cn/item/61a889432ab3f51d9190ca1b.png) 
 
 [![stars](https://img.shields.io/github/stars/Gaoyongxian666/CountBoard?style=flat&color=red)](https://github.com/Gaoyongxian666/CountBoard/stargazers)
 [![forks](https://img.shields.io/github/forks/Gaoyongxian666/CountBoard?style=flat&color=blue)](https://github.com/Gaoyongxian666/CountBoard/forks)
