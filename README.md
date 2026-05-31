@@ -55,13 +55,12 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/awesome-iwb/awesome-iwb&label=Visitors&countColor=%23263759&style=flat)
 ![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2026%E5%B9%B44%E6%9C%883%E6%97%A5-orange)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201004548404-white?style=flat&logo=qq)](https://qm.qq.com/q/im8ZtJpkZy)
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/e21726d2782bb081ef5d8f89360f1ed0d93af4ef.svg "Repobeats analytics image")
 
 </div>
 
 > [!note]
-> 诚邀各位开发者加入 Awesome Iwb 的交流群。如果你的项目在 Awesome Iwb 上面上榜了，请加入开发者交流群：1004548404。
+> 诚邀各位开发者加入 Awesome Iwb 的交流群。如果你的项目在 Awesome Iwb 上面上榜了，请加入开发者交流群：995186133。
 
 > [!note]
 > 目前正在开发网页版，README 版本后续将减缓维护频率。
