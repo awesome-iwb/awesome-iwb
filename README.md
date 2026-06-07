@@ -55,6 +55,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/awesome-iwb/awesome-iwb&label=Visitors&countColor=%23263759&style=flat)
 ![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2026%E5%B9%B44%E6%9C%883%E6%97%A5-orange)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20995186133-white?style=flat&logo=qq)](https://qm.qq.com/q/gro00q2v8A)
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/e21726d2782bb081ef5d8f89360f1ed0d93af4ef.svg "Repobeats analytics image")
 
 </div>
@@ -63,7 +64,11 @@
 > 诚邀各位开发者加入 Awesome Iwb 的交流群。如果你的项目在 Awesome Iwb 上面上榜了，请加入开发者交流群：995186133。
 
 > [!note]
-> 目前我们已经完成了网页版本的开发，我们建议您使用网页版本以获取更好的体验：aiwb.smart-teach.cn
+> Awesome Iwb 官网已推出，关于本readme的问题将不再受理，后续将会使用自动化工具生成新版readme，敬请期待！如需提交项目请登录我们的官网：https://aiwb.smart-teach.cn
+
+> [!note]
+> 随着六月的微风，马上就要迎来2026年高考。我们由衷的感谢各位开发者这些年的开发，感谢各位开发者为我们带来的便利。在这里，我谨代表 Awesome Iwb项目组，向全体2026届高考考生表示衷心的祝福，愿所有开发者金榜题名，前程似锦；平安顺遂，万事胜意。
+> 详情请至 https://aiwb.smart-teach.cn/articles/article-1780749921542 查看
 
 ---
 
